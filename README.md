@@ -1,6 +1,7 @@
 
 # Datos²
 
+## Introducción 
 
 El proyecto Datos² es un desarrollo cientifico tecnologico que esta brindando una herramineta y una plataforma para proyectos de ciencia ciudadana y la comunidad en general. El dispositivo que ofrece es Open-Source con el fin de recolectar, almacenar y compartir datos ambientales que se visualizan en la plataforma.
 
