@@ -21,7 +21,7 @@ Tiene las siguientes funciones y sensores:
 - Sensor Ultravioleta que mide la radiación UV global
 -  Sensor de temperatura
 - Sensor de humedad
-- Panel solar que permite autonomía a través de energía renovable"
+- Panel solar que permite autonomía a través de energía renovable
 <br />
 <br />
 <br />
