@@ -10,20 +10,25 @@ Buscamos que cada uno pueda apropiarse del proyecto de la manera más convenient
 
 ## SEHMA
 
+<img align="right" width="260" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/main/Imagenes/Foto%20SEHMA.png">
+
 El dispositivo SEHMA es un sistema educativo meteorológico de bajo costo, fácil ensamble y con componentes accesibles, que permite a cualquier persona armar su propia SEHMA. La estructura principal consta de piezas de contención impresas en 3D y una placa de control con comunicación GPRS que permite la lectura de sensores y carga de datos a la red. 
 Tiene las siguientes funciones y sensores:
-
+<br />
+<br />
+<br />
 - Pluviómetro totalizador que mide el volumen de agua acumulada durante el evento
 - Sensor Ultravioleta que mide la radiación UV global
-- Sensor de temperatura
+-  Sensor de temperatura
 - Sensor de humedad
-- Panel solar que permite autonomía a través de energía renovable
-
+- Panel solar que permite autonomía a través de energía renovable"
+<br />
+<br />
+<br />
 
 ### Componentes Electronicos
 
 ---
-
 | Componentes                                         | Cantidad |
 | --------------------------------------------------- | ------   |
 | SIM808 Quad-Band GSM GPRS GPS                       | 1        |
@@ -36,5 +41,4 @@ Tiene las siguientes funciones y sensores:
 | HC-05 Bluetooth Module                              | 1        |
 | 24V 12V To 5V 5A 25W DC- DC Step Down Buck          | 1        |
 | 801S Vibration Sensor Switch Detection Module       | 1        |
-
 ---
