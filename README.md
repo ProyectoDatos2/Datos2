@@ -24,7 +24,6 @@ Tiene las siguientes funciones y sensores:
 - Panel solar que permite autonomía a través de energía renovable
 <br />
 <br />
-<br />
 
 ### Componentes Electronicos
 
