@@ -29,7 +29,7 @@ Tiene las siguientes funciones y sensores:
 ---
 
 | Componentes                                         | Cantidad |Link de Compra        |
-| --------------------------------------------------- | ------   |------                |
+| --------------------------------------------------- | :------: |:--------------------:|
 | Arduino Nano                                        | 1        |[Arduino Nano](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30)|
 | Modulo Step-Up MT3608                               | 1        |[MT3608](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e)|
 | Modulo Driver Mosfet IRF520 24V 9A                  | 1        |[IRF520](https://articulo.mercadolibre.com.ar/MLA-732240129-modulo-driver-mosfet-irf520-24v-9a-controlador-arduino-pic-_JM#position=2&search_layout=grid&type=item&tracking_id=4971c395-66a7-4063-87e5-2919493828b4)|
@@ -42,5 +42,40 @@ Tiene las siguientes funciones y sensores:
 | Modem A6 Mini o SIM800L para Telecomunicaciones     | 1        |[A6](https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563) \| [SIM800L](https://articulo.mercadolibre.com.ar/MLA-1308505021-modulo-celular-gsm-gprs-sim800l-sim800-domotica-arduino-ubot-_JM#position=1&search_layout=grid&type=item&tracking_id=351d4014-7b06-4f31-87f1-ae97d6f6fd73)|
 | Cargador Solar CN3791                               | 1        |[CN3791](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a)|
 |Celda de Carga de 10 Kg + Driver HX711               | 1        |[HX711](https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef)|
+
+---
+### Estructura
+
+A la estructura se la pensó con impresion 3D para que sea fácil de replicar y se asegure la correcta colocación de cada componente.
+
+>[!IMPORTANT]
+>**Se recomienda como material de impresion el _PETG_, ya que los demás materiales se pueden degradar debido a las condiciones climaticas a la que esta expuesto el sistema. La altura de capa debe ser de 0,2 mm y con un relleno del 30% al 50% (a diferencia del 60% del siguiente cuadro).**
+
+---
+
+|Parte                     |Peso [g]|Cantidad|
+|:-------------------------|:------:|:------:|
+|Tapa Superior             |87      |1       |
+|Tapa Inferior             |29      |1       |
+|Topes                     |6       |3       |
+|Base Portapila            |22      |1       |
+|Soporte Step-Up           |2       |1       |
+|Soporte Holder            |3       |1       |
+|Soporte Telemetría        |37      |1       |
+|Pieza en T                |11      |1       |
+|Separador PCB             |1       |3       |
+|Mariposa                  |3       |4       |
+|Aro Totalizador           |31      |1       |
+|Tapa Estanco A            |3       |1       |
+|Tapa Estando B            |5       |1       |
+|Agarre Caño               |37      |1       |
+|Mensula Sensor Lluvia     |5       |1       |
+|Localizador Vase          |22      |1       |
+|Totalizador Pluviometro   |82      |1       |
+|Tapa Protectora Viga      |12      |1       |
+|Cuerpo Sensor UV          |43      |1       |
+|Tapa Inferior             |9       |1       |
+|Protector de Lente        |3       |1       |
+|**TOTAL**|**476 (60% relleno)**|**28**|
 
 ---
