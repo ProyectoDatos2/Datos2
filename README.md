@@ -26,7 +26,6 @@ Tiene las siguientes funciones y sensores:
 
 ### Componentes Electronicos
 
----
 
 | Componentes                                         | Cantidad |Link de Compra        |
 | --------------------------------------------------- | :------: |:--------------------:|
@@ -43,10 +42,9 @@ Tiene las siguientes funciones y sensores:
 | Cargador Solar CN3791                               | 1        |[CN3791](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a)|
 |Celda de Carga de 10 Kg + Driver HX711               | 1        |[HX711](https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef)|
 
----
+
 ### Estructura
 
----
 
 A la estructura se la pensó a partir de dos líneas de trabajo. La primera es en impresión 3D, que nos permite la replicacion exacta en cada sistema.
 
@@ -96,4 +94,5 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 |Cianoacrilato                  |-                                                       |1                               |
 |Silicona                       |-                                                       |-                               |
 
----
+
+### Ensamblaje
