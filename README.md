@@ -46,14 +46,14 @@ Tiene las siguientes funciones y sensores:
 ---
 ### Estructura
 
-A la estructura se la pensó con impresion 3D para que sea fácil de replicar y se asegure la correcta colocación de cada componente.
+---
+
+A la estructura se la pensó a partir de dos lineas de trabajo. La primera es en impresión 3D que nos permite que se asegure que cada pieza sea como se pretende que sea, asegurando tambien que cada componente se situe correctamente.
 
 >[!IMPORTANT]
 >**Se recomienda como material de impresion el _PETG_, ya que los demás materiales se pueden degradar debido a las condiciones climaticas a la que esta expuesto el sistema. La altura de capa debe ser de 0,2 mm y con un relleno del 30% al 50% (a diferencia del 60% del siguiente cuadro).**
 
----
-
-|Parte                     |Peso [g]|Cantidad|
+|Pieza                     |Peso [g]|Cantidad| 
 |:-------------------------|:------:|:------:|
 |Tapa Superior             |87      |1       |
 |Tapa Inferior             |29      |1       |
@@ -77,5 +77,21 @@ A la estructura se la pensó con impresion 3D para que sea fácil de replicar y 
 |Tapa Inferior             |9       |1       |
 |Protector de Lente        |3       |1       |
 |**TOTAL**|**476 (60% relleno)**|**28**|
+
+
+La otra linea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferreteria, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
+
+| Producto | Medida | Cantidad |
+|:--|:--:|:---:|
+|Philips o Punta Plana|M3 x 8mm <br/> M3 x 30mm <br/> M4 x 16mm <br/> M4 x 75mm|14 <br/> 1 <br/> 4 <br/> 3 <br/>|
+|Varilla|M4 x 210mm <br/> M4 x 60mm|3 <br/> 3|
+|Tuerca|M4 <br/> M3 <br/> M6|16 <br/> 1 <br/> 1|
+|Tornillo|M6 x 50mm|1|
+|Tubo|4"|1|
+|Brida Acero|Para 4"|3|
+|O' Ring|W2,6 mm x D105 mm|2|
+|Vidrio Repuesto Lente Soldadura|Éstandar|1|
+|Prensa Cable|1/2"|5|
+|Pluviómetro|-|1|
 
 ---
