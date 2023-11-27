@@ -51,30 +51,128 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
 >[!IMPORTANT]
 >**Se recomienda como material de impresión el _PETG_, ya que los demás materiales se pueden degradar debido a las condiciones climáticas a la que está expuesto el sistema. La altura de capa debe ser de 0,2 mm y con un relleno del 30% al 50% (a diferencia del 60% del siguiente cuadro). Se imprimió con 3 líneas de pared y con 3 capas de superficie**
 
-|Pieza                     |Peso [g]|Cantidad| 
-|:-------------------------|:------:|:------:|
-|Tapa Superior             |87      |1       |
-|Tapa Inferior             |29      |1       |
-|Topes                     |6       |3       |
-|Base Portapila            |22      |1       |
-|Soporte Step-Up           |2       |1       |
-|Soporte Holder            |3       |1       |
-|Soporte Telemetría        |37      |1       |
-|Pieza en T                |11      |1       |
-|Separador PCB             |1       |3       |
-|Mariposa                  |3       |4       |
-|Aro Totalizador           |31      |1       |
-|Tapa Estanco A            |3       |1       |
-|Tapa Estando B            |5       |1       |
-|Agarre Caño               |37      |1       |
-|Mensula Sensor Lluvia     |5       |1       |
-|Localizador Vase          |22      |1       |
-|Totalizador Pluviometro   |82      |1       |
-|Tapa Protectora Viga      |12      |1       |
-|Cuerpo Sensor UV          |43      |1       |
-|Tapa Inferior             |9       |1       |
-|Protector de Lente        |3       |1       |
-|**TOTAL**|**476 (60% relleno)**|**28**|
+<table align="center">
+  <thead>
+    <tr>
+      <th>Pieza</th>
+      <th>Peso [g]</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tapa Superior</td>
+      <td>87</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Tapa Inferior</td>
+      <td>29</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Topes</td>
+      <td>6</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Base Portapila</td>
+      <td>22</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Soporte Step-Up</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Soporte Holder</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Soporte Telemetría</td>
+      <td>37</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Pieza en T</td>
+      <td>11</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Separador PCB</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Mariposa</td>
+      <td>3</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Aro Totalizador</td>
+      <td>31</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Tapa Estanco A</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Tapa Estando B</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Agarre Caño</td>
+      <td>37</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Mensula Sensor Lluvia</td>
+      <td>5</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Localizador Vase</td>
+      <td>22</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Totalizador Pluviometro</td>
+      <td>82</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Tapa Protectora Viga</td>
+      <td>12</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Cuerpo Sensor UV</td>
+      <td>43</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Tapa Inferior</td>
+      <td>9</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Protector de Lente</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td><strong>476 (60% relleno)</strong></td>
+      <td><strong>28</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 La otra línea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferretería, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
