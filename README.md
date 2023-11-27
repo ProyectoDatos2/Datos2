@@ -79,6 +79,8 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
 
 La otra línea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferretería, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
 
+<p align="center">
+
 | Producto                      | Medida                                                 | Cantidad                       |
 |:------------------------------|:------------------------------------------------------:|:------------------------------:|
 |Philips o Punta Plana          |M3 x 8mm <br/> M3 x 30mm <br/> M4 x 16mm <br/> M4 x 75mm|14 <br/> 1 <br/> 4 <br/> 3 <br/>|
@@ -94,6 +96,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 |Cianoacrilato                  |-                                                       |1                               |
 |Silicona                       |-                                                       |-                               |
 
+</p>
 
 ### Ensamblaje PCB
 
