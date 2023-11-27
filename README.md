@@ -127,3 +127,12 @@ Ten a mano todos los componentes necesarios para la placa. A continuación se pr
 <br>
 
 <img align="center" width="1000" height="550" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
+
+#### Paso 2
+
+<img align="right" width="300" height="300" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Pines%20Placa.png">
+
+<br><br><br>
+
+Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), procede a soldar los componentes mas bajos en altura primero, siguiendo por lo mas altos. Si no sabes como soldar, haz click [aqui](https://www.youtube.com/watch?v=snM_ABjXGsw). La placa se deberia ver asi al terminar: 
+
