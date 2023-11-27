@@ -118,4 +118,4 @@ Al ya tener la placa lista, deberia verse asi:
 
 
 #### Paso 1
-
+---
