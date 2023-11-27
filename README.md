@@ -121,6 +121,6 @@ Al ya tener la placa lista, deberia verse asi:
 
 Ten a mano todos los componentes necesarios para la placa. A continuación se presenta una imagen con cada uno.
 
-<br /><br />
+<br>
 
-<img align="center" width="500" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
+<img align="center" width="1000" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
