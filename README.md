@@ -79,7 +79,6 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
 
 La otra línea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferretería, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
 
-<p align="center">
 
 | Producto                      | Medida                                                 | Cantidad                       |
 |:------------------------------|:------------------------------------------------------:|:------------------------------:|
@@ -96,7 +95,6 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 |Cianoacrilato                  |-                                                       |1                               |
 |Silicona                       |-                                                       |-                               |
 
-</p>
 
 ### Ensamblaje PCB
 
@@ -183,3 +181,22 @@ solid cube_corner
   endfacet
 endsolid
 ```
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 2, Cell 1</td>
+      <td>Row 2, Cell 2</td>
+    </tr>
+  </tbody>
+</table>
