@@ -120,7 +120,7 @@ Al ya tener la placa lista, deberia verse asi:
 
 ---
 
-#### **Paso 1** Preparación
+#### **Paso 1** Componentes
 
 Ten a mano todos los componentes necesarios para la placa. A continuación se presenta una imagen con cada uno. (Faltan componentes, despues le saco foto)
 
@@ -128,7 +128,7 @@ Ten a mano todos los componentes necesarios para la placa. A continuación se pr
 
 <img align="center" width="1000" height="550" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
 
-#### **Paso 2** Soldar Componentes
+#### **Paso 2** Soldadura
 
 <img align="right" width="455" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Pines%20Placa.png">
 
@@ -140,3 +140,8 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 #### **Paso 3** Insertar componentes
 
+<img align="right" width="455" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Placa%20Terminada.png">
+
+<br><br><br><br><br><br><br>
+
+Al terminar el paso anterior, lo único que queda es insertar cada componente en su lugar correspondiente:
