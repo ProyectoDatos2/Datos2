@@ -130,7 +130,7 @@ Ten a mano todos los componentes necesarios para la placa. A continuación se pr
 
 #### Paso 2
 
-<img align="right" width="380" height="460" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Pines%20Placa.png">
+<img align="right" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Pines%20Placa.png">
 
 <br><br><br>
 
