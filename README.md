@@ -107,7 +107,9 @@ Al ya tener la placa lista, deberia verse asi:
 <p>
 <img align="right" width="450" height="500" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0143.png">
 <em>Placa desde abajo</em>
+</p>
 
+<p>
 <img align="left" width="450" height="500" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0142.png">
 <em>Placa desde arriba</em>
 </p>
