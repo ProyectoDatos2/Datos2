@@ -110,7 +110,7 @@ Al ya tener la placa lista, deberia verse asi:
 
 
 
-<img align="left" width="350" height="40" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0142.png">
+<img align="left" width="350" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0142.png">
 
 ---
 <p align="left">
