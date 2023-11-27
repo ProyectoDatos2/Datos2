@@ -103,6 +103,7 @@ Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Imp
 
 Al ya tener la placa lista, deberia verse asi:
 </p>
+
 ---
 
 <img align="right" width="400" height="450" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0143.png">
@@ -112,5 +113,8 @@ Al ya tener la placa lista, deberia verse asi:
 <img align="left" width="400" height="450" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0142.png">
 
 ---
+<p align="left">
 
 #### Paso 1
+
+</p>
