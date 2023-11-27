@@ -112,10 +112,8 @@ Al ya tener la placa lista, deberia verse asi:
 
 <img align="left" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0142.png">
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ---
 
-
 #### Paso 1
-
