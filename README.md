@@ -126,7 +126,7 @@ Ten a mano todos los componentes necesarios para la placa. A continuación se pr
 
 <br>
 
-<img align="center" width="1000" height="550" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
+<img align="center" width="1200" height="550" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
 
 #### **Paso 2** Soldadura
 
