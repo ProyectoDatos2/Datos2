@@ -107,10 +107,10 @@ Al ya tener la placa lista, deberia verse asi:
 
 ---
 
-  <img align="right" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0143.png" alt="Alt text">
+  <img align="right" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Arriba.png">
 
 
-  <img align="left" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0142.png" alt="Alt text">
+  <img align="left" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Abajo.png">
 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -119,3 +119,8 @@ Al ya tener la placa lista, deberia verse asi:
 
 #### Paso 1
 
+Ten a mano todos los componentes necesarios para la placa. A continuación se presenta una imagen con cada uno.
+
+<br /><br />
+
+<img align="center" width="500" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
