@@ -107,9 +107,10 @@ Al ya tener la placa lista, deberia verse asi:
 ---
 
 
-<img align="right" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0143.png">
-<br>
-"Hola como estas"
+<figure>
+  <img align="left" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/IMG-20231121-WA0142.png" alt="Alt text">
+  <figcaption>Caption text</figcaption>
+</figure>
 
 
 
