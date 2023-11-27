@@ -97,12 +97,12 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 
 ### Ensamblaje PCB
 
-<p align="left">
+
 Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](https://github.com/ProyectoDatos2/Datos2/blob/main/Hardware/PCB_Datos2.pdf). Si no sabes como prepararla, haz clic [aqui](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
 
 
 Al ya tener la placa lista, deberia verse asi:
-</p>
+
 
 ---
 
