@@ -80,20 +80,78 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
 La otra línea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferretería, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
 
 
-| Producto                      | Medida                                                 | Cantidad                       |
-|:------------------------------|:------------------------------------------------------:|:------------------------------:|
-|Philips o Punta Plana          |M3 x 8mm <br/> M3 x 30mm <br/> M4 x 16mm <br/> M4 x 75mm|14 <br/> 1 <br/> 4 <br/> 3 <br/>|
-|Varilla                        |M4 x 210mm <br/> M4 x 60mm                              |3 <br/> 3                       |
-|Tuerca                         |M4 <br/> M3 <br/> M6                                    |16 <br/> 1 <br/> 1              |
-|Tornillo                       |M6 x 50mm                                               |1                               |
-|Tubo                           |4"                                                      |1                               |
-|Brida Acero                    |Para 4"                                                 |3                               |
-|O' Ring                        |W2,6 mm x D105 mm                                       |2                               |
-|Vidrio Repuesto Lente Soldadura|Estándar                                                |1                               |
-|Prensa Cable                   |1/2"                                                    |5                               |
-|Pluviómetro                    |-                                                       |1                               |
-|Cianoacrilato                  |-                                                       |1                               |
-|Silicona                       |-                                                       |-                               |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Medida</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Philips o Punta Plana</td>
+      <td>M3 x 8mm <br/> M3 x 30mm <br/> M4 x 16mm <br/> M4 x 75mm</td>
+      <td>14 <br/> 1 <br/> 4 <br/> 3 <br/></td>
+    </tr>
+    <tr>
+      <td>Varilla</td>
+      <td>M4 x 210mm <br/> M4 x 60mm</td>
+      <td>3 <br/> 3</td>
+    </tr>
+    <tr>
+      <td>Tuerca</td>
+      <td>M4 <br/> M3 <br/> M6</td>
+      <td>16 <br/> 1 <br/> 1</td>
+    </tr>
+    <tr>
+      <td>Tornillo</td>
+      <td>M6 x 50mm</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Tubo</td>
+      <td>4"</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Brida Acero</td>
+      <td>Para 4"</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>O' Ring</td>
+      <td>W2,6 mm x D105 mm</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Vidrio Repuesto Lente Soldadura</td>
+      <td>Estándar</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Prensa Cable</td>
+      <td>1/2"</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Pluviómetro</td>
+      <td>-</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Cianoacrilato</td>
+      <td>-</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Silicona</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ### Ensamblaje PCB
@@ -148,55 +206,3 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 Al terminar el paso anterior, lo único que queda es insertar cada componente en su lugar correspondiente:
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-    </tr>
-    <tr>
-      <td>Row 2, Cell 1</td>
-      <td>Row 2, Cell 2</td>
-    </tr>
-  </tbody>
-</table>
