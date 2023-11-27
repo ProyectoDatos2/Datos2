@@ -110,10 +110,15 @@ Al ya tener la placa lista, deberia verse asi:
   <img align="right" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Arriba.png">
 
 
+
   <img align="left" width="380" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Abajo.png">
 
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<p align="left">Placa desde abajo.</p>
+
+<p align="right">Placa desde arriba.</p>
+
 
 ---
 
@@ -123,4 +128,4 @@ Ten a mano todos los componentes necesarios para la placa. A continuación se pr
 
 <br>
 
-<img align="center" width="1000" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
+<img align="center" width="1000" height="550" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
