@@ -392,7 +392,7 @@ Al terminar el paso anterior, lo único que queda es insertar cada componente en
 
 ### Ensamblaje Sistema
 
-Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](https://github.com/ProyectoDatos2/Datos2/tree/Readme-Writing/Impresion%203D%20STL) detalladas en este \ \ documento. <br><br><br>
+Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](https://github.com/ProyectoDatos2/Datos2/tree/Readme-Writing/Impresion%203D%20STL) detalladas en este documento. <br><br><br>
 
 #### Paso 1 - Preparar sistema de Autonomia
 
@@ -407,3 +407,11 @@ Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su
 <br><br><br><br>
 
 El sistema de autonomia esta formado por las dos baterias, placa de Step Up y el modulo de carga solar. Todo el conjunto esta sostenido por la [placa base portapilas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20step%20up.STL) y el modulo de carga solar esta sobre el [holder cargador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20cargador.STL). El sistema unido por la gotita deberia quedar como la imagen.
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+<img align="right" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20(2).png">
+
+<br><br><br><br><br><br>
+
+Con las pilas ya puestas y desde otra perspectiva, se veeria asi: 
