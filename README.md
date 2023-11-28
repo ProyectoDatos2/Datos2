@@ -1,11 +1,10 @@
-
 # Datos²
 
 ## Introducción
 
-El proyecto Datos² es un desarrollo cientifico tecnologico que esta brindando una herramineta y una plataforma para proyectos de ciencia ciudadana y la comunidad en general. El dispositivo que ofrece es Open-Source con el fin de recolectar, almacenar y compartir datos ambientales que se visualizan en la plataforma.
+El proyecto Datos² es un desarrollo científico tecnológico que está brindando una herramienta y una plataforma para proyectos de ciencia ciudadana y la comunidad en general. El dispositivo que ofrece es Open-Source con el fin de recolectar, almacenar y compartir datos ambientales que se visualizan en la plataforma.
 
-Buscamos que cada uno pueda apropiarse del proyecto de la manera más conveniente, generando un impacto en el presente y futuro de nuestra sociedad. Para ello diseñamos SEHMA (Sistema Educativo Hidro Metereologico y Ambiental) formada por diversos sensores que podrán ser incorporados según las necesidades de las comunidades, y por una telemetría que se encargará de subir los datos a una plataforma web para su visualización. Desde aquí, toda la comunidad podrá utilizar los datos generados para distintos proyectos o necesidades.
+Buscamos que cada uno pueda apropiarse del proyecto de la manera más conveniente, generando un impacto en el presente y futuro de nuestra sociedad. Para ello diseñamos SEHMA (Sistema Educativo Hidro Metrológico y Ambiental) formada por diversos sensores que podrán ser incorporados según las necesidades de las comunidades, y por una telemetría que se encargará de subir los datos a una plataforma web para su visualización. Desde aquí, toda la comunidad podrá utilizar los datos generados para distintos proyectos o necesidades.
 
 ## SEHMA
 
@@ -25,7 +24,6 @@ Tiene las siguientes funciones y sensores:
 <br>
 
 ### Componentes Electronicos
-
 
 <table align="center">
   <thead>
@@ -130,11 +128,9 @@ Tiene las siguientes funciones y sensores:
 </table>
 
 
-
 ### Estructura
 
-
-A la estructura se la pensó a partir de dos líneas de trabajo. La primera es en impresión 3D, que nos permite la replicacion exacta en cada sistema.
+A la estructura se la pensó a partir de dos líneas de trabajo. La primera es en impresión 3D, que nos permite la replicación exacta en cada sistema.
 
 >[!IMPORTANT]
 >**Se recomienda como material de impresión el _PETG_, ya que los demás materiales se pueden degradar debido a las condiciones climáticas a la que está expuesto el sistema. La altura de capa debe ser de 0,2 mm y con un relleno del 30% al 50% (a diferencia del 60% del siguiente cuadro). Se imprimió con 3 líneas de pared y con 3 capas de superficie**
@@ -156,7 +152,7 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
     <tr>
       <td>Tapa Inferior</td>
       <td align="center">29</td>
-      <td align="center"d>1</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td>Topes</td>
@@ -219,17 +215,17 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Mensula Sensor Lluvia</td>
+      <td>Ménsula Sensor Lluvia</td>
       <td align="center">5</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Localizador Vase</td>
+      <td>Localizador Base</td>
       <td align="center">22</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Totalizador Pluviometro</td>
+      <td>Totalizador Pluviómetro</td>
       <td align="center">82</td>
       <td align="center">1</td>
     </tr>
@@ -262,9 +258,7 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
 </table>
 
 
-
 La otra línea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferretería, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
-
 
 <table align="center">
   <thead>
@@ -339,32 +333,27 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 </table>
 
 
-
 ### Armado PCB
 
+Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](https://github.com/ProyectoDatos2/Datos2/blob/main/Hardware/PCB_Datos2.pdf). Si no sabes como prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
 
-Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](https://github.com/ProyectoDatos2/Datos2/blob/main/Hardware/PCB_Datos2.pdf). Si no sabes como prepararla, haz clic [aqui](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
-
-
-Al ya tener la placa lista, deberia verse asi:
-
+Al ya tener la placa lista, debería verse asi:
 
 
   <img align="left" width="380" height="460" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Arriba.png">
-
 
 
   <img align="right" width="380" height="460" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Abajo.png">
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placa desde arriba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placa desde abajo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placa desde Arriba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placa desde Abajo
 
 <br>
 
 #### **Paso 1** Componentes
 
-Ten a mano todos los componentes necesarios para la placa. A continuación se presenta una imagen con cada uno. (Faltan componentes, despues le saco foto)
+Ten a mano todos los componentes necesarios para la placa. A continuación, se presenta una imagen con cada uno. (Faltan componentes, después le saco foto)
 
 <br>
 
@@ -376,7 +365,7 @@ Ten a mano todos los componentes necesarios para la placa. A continuación se pr
 
 <br><br><br><br><br><br>
 
-Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), procede a soldar los componentes mas bajos en altura primero, siguiendo por lo mas altos. Si no sabes como soldar, haz click [aqui](https://www.youtube.com/watch?v=snM_ABjXGsw). La placa se deberia ver asi al terminar: 
+Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), procede a soldar los componentes más bajos en altura primero, siguiendo por lo más altos. Si no sabes cómo soldar, haz click [aquí](https://www.youtube.com/watch?v=snM_ABjXGsw). La placa se debería ver asi al terminar: 
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -394,7 +383,7 @@ Al terminar el paso anterior, lo único que queda es insertar cada componente en
 
 Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](https://github.com/ProyectoDatos2/Datos2/tree/Readme-Writing/Impresion%203D%20STL) detalladas en este documento. <br><br><br>
 
-#### Paso 1 - Preparar sistema de Autonomia
+#### Paso 1 - Preparar sistema de Autonomía
 
 <br><br>
 
@@ -406,12 +395,17 @@ Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su
 
 <br><br><br><br>
 
-El sistema de autonomia esta formado por las dos baterias, placa de Step Up y el modulo de carga solar. Todo el conjunto esta sostenido por la [placa base portapilas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20step%20up.STL) y el modulo de carga solar esta sobre el [holder cargador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20cargador.STL). El sistema unido por la gotita deberia quedar como la imagen.
+El sistema de autonomía está formado por las dos baterías, placa de Step Up y el módulo de carga solar. Todo el conjunto esta sostenido por la [placa base portapilas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
 
 <br><br><br><br><br><br><br>
 
 <img align="right" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20(2).png">
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
-Con las pilas ya puestas y desde otra perspectiva, se veeria asi: 
+Con las pilas ya puestas y desde otra perspectiva: 
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+#### Paso 2 - Conexionado Sistema de Autonomía
+
