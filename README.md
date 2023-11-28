@@ -360,7 +360,7 @@ Al terminar el paso anterior, lo único que queda es insertar cada componente en
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div style="width: 3px; height: 3px;">
+<div style="width: 0px; height: 0px;">
 
   ```stl
   solid cube_corner
