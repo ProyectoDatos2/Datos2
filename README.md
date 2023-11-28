@@ -119,7 +119,7 @@ Tiene las siguientes funciones y sensores:
      <tr>
       <td>Resistencias 10K Ω</td>
       <td align="center">2</td>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-862477741-100-unidades-resistencia-10k-10000-ohms-14w-025w-carbon-_JM#position=3&search_layout=stack&type=item&tracking_id=2d67a61c-0b20-439f-b37c-ab317d5724be">Resistencias</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-841986521-10-x-resistencias-10k-ohm-1-14w-metal-film-_JM#position=8&search_layout=grid&type=item&tracking_id=424a52a9-8c38-42ca-8fbc-487ac3932614">Resistencias</a></td>
     </tr>
     <tr>
       <td>Tira Pines Hembra</td>
@@ -209,7 +209,7 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa Estando B</td>
+      <td>Tapa Estanco B</td>
       <td align="center">5</td>
       <td align="center">1</td>
     </tr>
