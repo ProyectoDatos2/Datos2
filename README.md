@@ -388,7 +388,7 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 Al terminar el paso anterior, lo único que queda es insertar cada componente en su lugar correspondiente:
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ### Ensamblaje Sistema
 
