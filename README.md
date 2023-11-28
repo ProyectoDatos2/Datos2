@@ -360,7 +360,7 @@ Al terminar el paso anterior, lo único que queda es insertar cada componente en
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div style="width: 300px; height: 300px;">
+<div style="width: 3px; height: 3px;">
 
   ```stl
   solid cube_corner
@@ -394,6 +394,6 @@ Al terminar el paso anterior, lo único que queda es insertar cada componente en
     endfacet
   endsolid
   ```
-  
+
   </div>
 
