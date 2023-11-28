@@ -96,6 +96,36 @@ Tiene las siguientes funciones y sensores:
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef">HX711</a></td>
     </tr>
+      <tr>
+      <td>Kit Molex x 2 Pines</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1530414156-kit-x-30u-2-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=3&search_layout=grid&type=item&tracking_id=feedb67d-d999-4e10-83dc-8528ae580bf2">Kit Molex x 2</a></td>
+    </tr>
+     <tr>
+      <td>Kit Molex x 3 Pines</td>
+      <td align="center">3</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1547547796-kit-x-30u-3-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=51&search_layout=stack&type=item&tracking_id=4f2edef0-6c5c-400e-8229-65fce00075ec">Kit Molex x 3</a></td>
+    </tr>
+     <tr>
+      <td>Kit Molex x 4 Pines</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1544835568-kit-x-30u-4-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=1&search_layout=grid&type=item&tracking_id=8ec89334-1835-4339-9225-2a076de11fa3">Kit Molex x 4</a></td>
+    </tr>
+     <tr>
+      <td>Kit Molex x 5 Pines</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1548402732-kit-x-30u-5-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=2&search_layout=grid&type=item&tracking_id=0542de33-9c89-4d24-a9b2-bdc8694cdf21">Kit Molex x 5</a></td>
+    </tr>
+     <tr>
+      <td>Resistencias 10K Ω</td>
+      <td align="center">2</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-862477741-100-unidades-resistencia-10k-10000-ohms-14w-025w-carbon-_JM#position=3&search_layout=stack&type=item&tracking_id=2d67a61c-0b20-439f-b37c-ab317d5724be">Resistencias</a></td>
+    </tr>
+    <tr>
+      <td>Tira Pines Hembra</td>
+      <td align="center">2</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-879655442-tira-de-40-pines-hembra-paso-254mm-recta-1-fila-_JM#position=4&search_layout=grid&type=item&tracking_id=f194ae8c-4a52-457f-882d-bc9aa2cb7714">Tira Pines Hembra</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -310,7 +340,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 
 
 
-### Ensamblaje PCB
+### Armado PCB
 
 
 Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](https://github.com/ProyectoDatos2/Datos2/blob/main/Hardware/PCB_Datos2.pdf). Si no sabes como prepararla, haz clic [aqui](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
@@ -360,40 +390,6 @@ Al terminar el paso anterior, lo único que queda es insertar cada componente en
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div style="width: 0px; height: 0px;">
+### Ensamblaje Sistema
 
-  ```stl
-  solid cube_corner
-    facet normal 0.0 -1.0 0.0
-      outer loop
-        vertex 0.0 0.0 0.0
-        vertex 1.0 0.0 0.0
-        vertex 0.0 0.0 1.0
-      endloop
-    endfacet
-    facet normal 0.0 0.0 -1.0
-      outer loop
-        vertex 0.0 0.0 0.0
-        vertex 0.0 1.0 0.0
-        vertex 1.0 0.0 0.0
-      endloop
-    endfacet
-    facet normal -1.0 0.0 0.0
-      outer loop
-        vertex 0.0 0.0 0.0
-        vertex 0.0 0.0 1.0
-        vertex 0.0 1.0 0.0
-      endloop
-    endfacet
-    facet normal 0.577 0.577 0.577
-      outer loop
-        vertex 1.0 0.0 0.0
-        vertex 0.0 1.0 0.0
-        vertex 0.0 0.0 1.0
-      endloop
-    endfacet
-  endsolid
-  ```
-
-  </div>
-
+Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez haber 
