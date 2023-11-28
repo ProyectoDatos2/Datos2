@@ -398,7 +398,11 @@ Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su
 
 <br><br>
 
-<img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20-%20Blanco.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20-%20Negro.png">
+  <img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20-%20Negro.png">
+</picture>
 
 <br><br><br><br>
 
