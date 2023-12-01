@@ -392,9 +392,9 @@ Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20-%20Blanco.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20-%20Negro.png">
-  <img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20-%20Negro.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Blanco.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Negro.png">
+  <img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Negro.png">
 </picture>
 
 <br><br><br>
@@ -407,7 +407,7 @@ Todo el conjunto esta sostenido por la [placa base portapilas](https://github.co
 
 <br><br><br><br><br><br><br>
 
-<img align="right" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20(2).png">
+<img align="right" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20(2).png">
 
 <br><br><br><br><br>
 
@@ -415,7 +415,7 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se deberia prender todo el sistema. 
+El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se deberia prender todo el sistema. 
 
 #### **Paso 2** - Preparar sensor UV
 
@@ -423,11 +423,11 @@ Para la estructura sensor UV se necesita:
 - [Base Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
 - [Cuerpo Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
 - [Tapa Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
-- [Lente Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Lente%20Sensor%20UV.jpg)
+- [Lente Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
 - Sensor UV 8511
 
-1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Colocaci%C3%B3n%20Sensor%20UV.png).
-2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Estructura%20Sensor%20UV.png) manera(deben coincidir las muescas de la tapa y el cuerpo).
+1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Colocaci%C3%B3n%20Sensor%20UV.png).
+2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Estructura%20Sensor%20UV.png) manera(deben coincidir las muescas de la tapa y el cuerpo).
 3. Finalmente, atornillar la base al cuerpo ya armado.
 
 #### **Paso 3** - Preparar Pluviometro
@@ -443,4 +443,8 @@ Para el conjunto del pluviometro se precisa de lo siguiente:
 - [Localizador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/localizador%20vaso%20pluvi%C3%B3metro.STL)
 - Celda de Carga + Driver HX711
 
-Primero hay que colocar las varillas de 210 mm en el aro totalizador como se muestra [aqui]()
+Primero hay que colocar las varillas de 210 mm en el aro totalizador como se muestra [aqui](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Aro%20Totalizador%20-%20Ejemplos%205.jpg).
+
+(Aca falta, pero no saque muchas fotos ni desarme/arme esto)
+
+##
