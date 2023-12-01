@@ -397,9 +397,13 @@ Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su
   <img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Base%20PortaPila%20Completa%20-%20Negro.png">
 </picture>
 
-<br><br><br><br>
+<br><br><br>
 
-El sistema de autonomía está formado por las dos baterías, placa de Step Up y el módulo de carga solar. Todo el conjunto esta sostenido por la [placa base portapilas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
+El sistema de autonomía está formado por: 
+- Dos baterías 18650
+- Placa de Step Up 
+- Módulo de carga solar 
+Todo el conjunto esta sostenido por la [placa base portapilas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
 
 <br><br><br><br><br><br><br>
 
@@ -415,3 +419,4 @@ El conexionado de este sistema es bastante simple, solo hay que seguir el [esque
 
 #### Paso 2 - Preparar sensor UV
 
+Para el sensor UV se necesita
