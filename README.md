@@ -485,22 +485,7 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
   A continuación se detalla cada uno de las posiciones de los cables del molex:
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  table {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  td:nth-child(2) {
-    text-align: center;
-  }
-</style>
-</head>
-<body>
-
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Sensor</th>
@@ -511,31 +496,28 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
   <tbody>
     <tr>
       <td>Raindrop</td>
-      <td>1<br>2<br>3<br>4</td>
-      <td>CLK<br>DOUT<br>GND<br>5 V</td>
+      <td align="center">1<br>2<br>3<br>4</td>
+      <td align="center">CLK<br>DOUT<br>GND<br>5 V</td>
     </tr>
     <tr>
       <td>UV</td>
-      <td>5<br>6<br>7<br>8<br>9</td>
-      <td>GND<br>3v3<br>ENABLE<br>5 V<br>A 3</td>
+      <td align="center">5<br>6<br>7<br>8<br>9</td>
+      <td align="center">GND<br>3v3<br>ENABLE<br>5 V<br>A 3</td>
     </tr>
     <tr>
       <td>Bateria</td>
-      <td>10<br>11<br>12</td>
-      <td>V BAT<br> Nose <br> Nose</td>
+      <td align="center">10<br>11<br>12</td>
+      <td align="center">V BAT<br>Nose <br> Nose</td>
     </tr>
     <tr>
       <td>AHT</td>
-      <td>1<br>2<br>3</td>
-      <td>OUT<br>GND<br>5 V</td>
+      <td align="center">1<br>2<br>3</td>
+      <td align="center">OUT<br>GND<br>5 V</td>
     </tr>
     <tr>
       <td>Salida Interruptor</td>
-      <td>1<br>2</td>
-      <td>5 V<br>GND</td>
+      <td align="center">1<br>2</td>
+      <td align="center">5 V<br>GND</td>
     </tr>
   </tbody>
 </table>
-
-</body>
-</html>
