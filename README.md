@@ -464,9 +464,9 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
 2. Insertar los prensacables y el interruptor de encendido como se muestra en las imagenes de abajo
 
-  <img align="left" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20de%20In-Out.png">
+  <img align="left" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20de%20In-Out.png">
 
 
-  <img align="right" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20In-Out%202.png">
+  <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20In-Out%202.png">
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
