@@ -411,5 +411,7 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-#### Paso 2 - Conexionado Sistema de Autonomía
+El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se deberia prender todo el sistema. 
+
+#### Paso 2 - Preparar sensor UV
 
