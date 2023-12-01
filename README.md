@@ -351,15 +351,17 @@ Al ya tener la placa lista, debería verse asi:
 
 <br>
 
-#### **Paso 1** Componentes
+Hay que estar seguro de que no se hayan cometido errores durante el proceso, asi que con un multimetro en modo continuidad se puede verificar que no hayan cortocircuitos entre Vcc y GND, como tambien entre cada unos de los pines de los componentes.
 
-Ten a mano todos los componentes necesarios para la placa. A continuación, se presenta una imagen con cada uno. (Faltan componentes, después le saco foto)
+#### **Paso 1** - Componentes
+
+Ten a mano todos los componentes necesarios para la placa. Se recomienda probar que cada uno de ellos este funcionando correctamente. A continuación, se presenta una imagen con cada uno. (Faltan componentes, después le saco foto)
 
 <br>
 
 <img align="center" width="1200" height="550" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
 
-#### **Paso 2** Soldadura
+#### **Paso 2** - Soldadura
 
 <img align="right" width="455" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Pines%20Placa.png">
 
@@ -369,13 +371,14 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 <br><br><br><br><br><br><br><br><br>
 
-#### **Paso 3** Insertar componentes
+#### **Paso 3** - Integración
 
 <img align="right" width="455" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Placa%20Terminada.png">
 
-<br><br><br><br><br><br><br>
 
-Al terminar el paso anterior, lo único que queda es insertar cada componente en su lugar correspondiente:
+<br><br><br><br><br>
+
+Lo unico que queda ahora es cargar el [programa](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la arduino e insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
