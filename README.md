@@ -469,4 +469,6 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
   <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20In-Out%202.png">
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+  3. Luego de pasar cada uno de los respectivos cables por los prensacables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une despues a uno de los conectores molex que van conectados a la placa.
