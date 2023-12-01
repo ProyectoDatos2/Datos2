@@ -460,4 +460,8 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 - [Traba de Agarre](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Traba%20de%20agarre%20telemetr%C3%ADa.STL)
 - [Pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/pieza%20T.STL)
 
-1. Para comenzar, lo que haremos es [colocar el O-Ring]() en la Tapa Inferior, y luego [enroscar las varillas]() de 60 mm. Esto se 
+1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocaci%C3%B3n.jpg) de 60 mm y [atornillar la pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Colocaci%C3%B3n%20Pieza%20en%20T.jpg) en la Tapa Inferior.
+
+2. Insertar los prensacables y el interruptor de encendido como se muestra en las imagenes de abajo
+
+<img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20(2).png">
