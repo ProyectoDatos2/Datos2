@@ -351,7 +351,8 @@ Al ya tener la placa lista, debería verse asi:
 
 <br>
 
-Hay que estar seguro de que no se hayan cometido errores durante el proceso, asi que con un multimetro en modo continuidad se puede verificar que no hayan cortocircuitos entre Vcc y GND, como tambien entre cada unos de los pines de los componentes.
+>[!IMPORTANT]
+>Hay que estar seguro de que no se hayan cometido errores durante el proceso, asi que con un multimetro en modo continuidad se puede verificar que no hayan cortocircuitos entre Vcc y GND, como tambien entre cada unos de los pines de los componentes.
 
 #### **Paso 1** - Componentes
 
