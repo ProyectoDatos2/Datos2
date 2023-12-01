@@ -427,8 +427,10 @@ Para la estructura sensor UV se necesita:
 - Sensor UV 8511
 
 1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Colocaci%C3%B3n%20Sensor%20UV.png).
-2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Estructura%20Sensor%20UV.png) manera(deben coincidir las muescas de la tapa y el cuerpo).
+2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Estructura%20Sensor%20UV.png) manera (deben coincidir las muescas de la tapa y el cuerpo).
 3. Finalmente, atornillar la base al cuerpo ya armado.
+
+(Imagen de todo el conjunto UV Completo).
 
 #### **Paso 3** - Preparar Pluviometro
 
@@ -447,4 +449,15 @@ Primero hay que colocar las varillas de 210 mm en el aro totalizador como se mue
 
 (Aca falta, pero no saque muchas fotos ni desarme/arme esto)
 
-##
+#### **Paso 4** - Integración Final
+
+Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
+
+- [Tapa Inferior](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Tapa%20telemetr%C3%ADa%20inferior.STL)
+- [Seprarador PCB a Techo Pila](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Separador%20PCB%20a%20techo%20pila.STL)
+- [Tapa con Encastre](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Tapa%20con%20encastre.STL)
+- [Tope Interno](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Tope%20interno%20telemetr%C3%ADa.STL)
+- [Traba de Agarre](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Traba%20de%20agarre%20telemetr%C3%ADa.STL)
+- [Pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/pieza%20T.STL)
+
+1. Para comenzar, lo que haremos es [colocar el O-Ring]() en la Tapa Inferior, y luego [enroscar las varillas]() de 60 mm. Esto se 
