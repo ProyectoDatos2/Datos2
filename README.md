@@ -464,4 +464,9 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
 2. Insertar los prensacables y el interruptor de encendido como se muestra en las imagenes de abajo
 
-<img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20(2).png">
+  <img align="left" width="380" height="460" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20de%20In-Out.jpg">
+
+
+  <img align="right" width="380" height="460" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20In-Out%202.jpg">
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
