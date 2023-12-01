@@ -387,7 +387,7 @@ Lo unico que queda ahora es cargar el [programa](https://github.com/ProyectoDato
 
 Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](https://github.com/ProyectoDatos2/Datos2/tree/Readme-Writing/Impresion%203D%20STL) detalladas en este documento. <br><br><br>
 
-#### Paso 1 - Preparar sistema de Autonomía
+#### **Paso 1** - Preparar sistema de Autonomía
 
 <br><br>
 
@@ -417,6 +417,16 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se deberia prender todo el sistema. 
 
-#### Paso 2 - Preparar sensor UV
+#### **Paso 2** - Preparar sensor UV
 
-Para el sensor UV se necesita
+Para la estructura sensor UV se necesita:
+- [Base Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
+- [Cuerpo Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
+- [Tapa Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
+- [Lente Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Lente%20Sensor%20UV.jpg)
+
+1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Colocaci%C3%B3n%20Sensor%20UV.png).
+2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Estructura%20Sensor%20UV.png) manera(deben coincidir las muescas de la tapa y el cuerpo).
+3. Finalmente, atornillar la base al cuerpo ya armado.
+
+#### **Paso 3** -
