@@ -471,4 +471,71 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-  3. Luego de pasar cada uno de los respectivos cables por los prensacables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une despues a uno de los conectores molex que van conectados a la placa.
+3. Luego de pasar cada uno de los respectivos cables por los prensacables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une despues a uno de los conectores molex que van conectados a la placa.
+
+4. Armar cada uno de los molex (si no sabe como, [aqui](https://www.youtube.com/watch?v=tU62sOKsNWI) hay un tutorial), y coloque el PCB de la siguiente manera:
+
+  <img align="left" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%201.png">
+
+
+  <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%202.png">
+
+  
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+  A continuación se detalla cada uno de las posiciones de los cables del molex:
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  td:nth-child(2) {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sensor</th>
+      <th>Numeros de Pin Molex</th>
+      <th>Funcion del Pin</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Raindrop</td>
+      <td>1<br>2<br>3<br>4</td>
+      <td>CLK<br>DOUT<br>GND<br>5 V</td>
+    </tr>
+    <tr>
+      <td>UV</td>
+      <td>5<br>6<br>7<br>8<br>9</td>
+      <td>GND<br>3v3<br>ENABLE<br>5 V<br>A 3</td>
+    </tr>
+    <tr>
+      <td>Bateria</td>
+      <td>10<br>11<br>12</td>
+      <td>V BAT<br> Nose <br> Nose</td>
+    </tr>
+    <tr>
+      <td>AHT</td>
+      <td>1<br>2<br>3</td>
+      <td>OUT<br>GND<br>5 V</td>
+    </tr>
+    <tr>
+      <td>Salida Interruptor</td>
+      <td>1<br>2</td>
+      <td>5 V<br>GND</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
