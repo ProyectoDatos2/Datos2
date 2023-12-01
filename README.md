@@ -424,9 +424,23 @@ Para la estructura sensor UV se necesita:
 - [Cuerpo Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
 - [Tapa Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
 - [Lente Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Lente%20Sensor%20UV.jpg)
+- Sensor UV 8511
 
 1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Colocaci%C3%B3n%20Sensor%20UV.png).
 2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Estructura%20Sensor%20UV.png) manera(deben coincidir las muescas de la tapa y el cuerpo).
 3. Finalmente, atornillar la base al cuerpo ya armado.
 
-#### **Paso 3** -
+#### **Paso 3** - Preparar Pluviometro
+
+Para el conjunto del pluviometro se precisa de lo siguiente:
+
+- [Aro Totalizador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/Aro%20totalizador%20sensor%20lluvia.STL)
+- [Ménsula](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/Mensula%201%20sensor%20de%20lluvia.STL)
+- [Tapa](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/Tapa%20version%20master.STL)
+- [Totalizador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/estanco%20b.STL)
+- [Estanco A](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/estanco_a.STL)
+- [Estanco B](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/estanco%20b.STL)
+- [Localizador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/localizador%20vaso%20pluvi%C3%B3metro.STL)
+- Celda de Carga + Driver HX711
+
+Primero hay que colocar las varillas de 210 mm en el aro totalizador como se muestra [aqui]()
