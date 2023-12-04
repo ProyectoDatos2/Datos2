@@ -481,7 +481,7 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
   <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%202.png">
 
   
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
   A continuación se detalla cada uno de las posiciones de los cables del molex:
 
@@ -502,7 +502,7 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
     <tr>
       <td>UV</td>
       <td align="center">5<br>6<br>7<br>8<br>9</td>
-      <td align="center">GND<br>3v3<br>ENABLE<br>5 V<br>A 3</td>
+      <td align="center">GND<br>3v3<br>ENABLE<br>5 V<br>A3 (Cable que viene del interruptor)</td>
     </tr>
     <tr>
       <td>Bateria</td>
