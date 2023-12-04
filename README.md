@@ -504,7 +504,7 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
     <tr>
       <td>UV</td>
       <td align="center">5<br>6<br>7<br>8<br>9</td>
-      <td align="center">GND<br>3v3<br>ENABLE<br>5 V<br>OUT UV</td>
+      <td align="center">GND<br>3v3<br>ENABLE<br>N/A<br>OUT UV</td>
     </tr>
     <tr>
       <td>Bateria + Lluvia</td>
@@ -523,3 +523,10 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
     </tr>
   </tbody>
 </table>
+
+6. Al terminar con el paso anterior, estando seguro de que cada conector se haya armado correctamente, se colocan los separadores entre el PCB y la placa del sistema de autonomía, para que luego se inserte el sistema:
+
+<img align="left" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%201.png">
+
+
+<img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%202.png">
