@@ -471,9 +471,11 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-3. Luego de pasar cada uno de los respectivos cables por los prensacables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une despues a uno de los conectores molex que van conectados a la placa.
+3. Pegar con la gotita el sensor AHT sobre la pieza en T, como se puede ver en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Colocaci%C3%B3n%20Sensor%20AHT.jpg)
 
-4. Armar cada uno de los molex (si no sabe como, [aqui](https://www.youtube.com/watch?v=tU62sOKsNWI) hay un tutorial), y coloque el PCB de la siguiente manera:
+4. Luego de pasar cada uno de los respectivos cables por los prensacables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une despues a uno de los conectores molex que van conectados a la placa.
+
+5. Armar cada uno de los molex (si no sabe como, [aqui](https://www.youtube.com/watch?v=tU62sOKsNWI) hay un tutorial), y coloque el PCB de la siguiente manera:
 
   <img align="left" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%201.png">
 
