@@ -502,12 +502,12 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
     <tr>
       <td>UV</td>
       <td align="center">5<br>6<br>7<br>8<br>9</td>
-      <td align="center">GND<br>3v3<br>ENABLE<br>5 V<br>A3 (Cable que viene del interruptor)</td>
+      <td align="center">GND<br>3v3<br>ENABLE<br>5 V<br>OUT UV</td>
     </tr>
     <tr>
-      <td>Bateria</td>
+      <td>Bateria + Lluvia</td>
       <td align="center">10<br>11<br>12</td>
-      <td align="center">V BAT<br>Nose <br> Nose</td>
+      <td align="center">V BAT (Cable que viene del Interruptor)<br>Pin Lluvia 1<br>Pin Lluvia 2</td>
     </tr>
     <tr>
       <td>AHT</td>
@@ -515,7 +515,7 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
       <td align="center">OUT<br>GND<br>5 V</td>
     </tr>
     <tr>
-      <td>Salida Interruptor</td>
+      <td>Alimentación</td>
       <td align="center">1<br>2</td>
       <td align="center">5 V<br>GND</td>
     </tr>
