@@ -524,9 +524,6 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
   </tbody>
 </table>
 
-6. Al terminar con el paso anterior, estando seguro de que cada conector se haya armado correctamente, se colocan los separadores entre el PCB y la placa del sistema de autonomía, para que luego se inserte el sistema:
+6. Al terminar con el paso anterior, estando seguro de que cada conector se haya armado correctamente, se [colocan los separadores](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Separadores%20Colocados.png) entre el PCB y la placa del sistema de autonomía, para que luego se inserte el sistema:
 
-<img align="left" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%201.png">
-
-
-<img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%202.png">
+<img align="center" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Sistema%20Terminado%201.png">
