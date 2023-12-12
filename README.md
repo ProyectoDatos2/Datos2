@@ -343,8 +343,8 @@ Al ya tener la placa lista, debería verse asi:
 <table align="center">
   <thead>
     <tr>
-      <th><img align="right" width="500" height="500" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Abajo.png"></th>
-      <th><img align="left" width="500" height="500" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Arriba.png"></th>
+      <th><img align="right" width="500" height="450" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Abajo.png"></th>
+      <th><img align="left" width="500" height="450" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Arriba.png"></th>
     </tr>
   </thead>
   <tbody>
