@@ -508,7 +508,7 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
     <tr>
       <td>UV</td>
       <td align="center">5<br>6<br>7<br>8<br>9</td>
-      <td align="center">GND<br>3v3<br>ENABLE<br>N/A<br>OUT UV</td>
+      <td align="center">GND<br>3v3<br>ENABLE<br>NC<br>OUT UV</td>
     </tr>
     <tr>
       <td>Batería + Lluvia</td>
