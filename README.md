@@ -23,14 +23,14 @@ Tiene las siguientes funciones y sensores:
 <br>
 <br>
 
-### Componentes Electronicos
+### Componentes Electrónicos
 
 <table align="center">
   <thead>
     <tr>
       <th>Componentes</th>
       <th>Cantidad</th>
-      <th>Link de Compra</th>
+      <th>Enlace de Compra</th>
     </tr>
   </thead>
   <tbody>
@@ -60,14 +60,14 @@ Tiene las siguientes funciones y sensores:
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom">DS1307</a></td>
     </tr>
     <tr>
-      <td>Baterias 18650 Samsung 3000 mA</td>
+      <td>Baterías 18650 Samsung 3000 mA</td>
       <td align="center">2</td>
       <td><a href="https://www.mercadolibre.com.ar/pila-samsung-inr18650-30q-cilindrica-1-unidad/p/MLA16952001#searchVariation=MLA16952001&position=1&search_layout=stack&type=product&tracking_id=262fdb61-1f61-41e8-b207-c581f31320b5">Bateria Samsung</a></td>
     </tr>
     <tr>
-      <td>Holder para baterias 18650</td>
+      <td>Holder para baterías 18650</td>
       <td align="center">2</td>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Holder Baterias</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Holder Baterías</a></td>
     </tr>
     <tr>
       <td>Sensor de Humedad y Temperatura DHT22</td>
@@ -127,18 +127,16 @@ Tiene las siguientes funciones y sensores:
   </tbody>
 </table>
 
-
 ### Estructura
 
 A la estructura se la pensó a partir de dos líneas de trabajo. La primera es en impresión 3D, que nos permite la replicación exacta en cada sistema.
 
 >[!IMPORTANT]
->**Configuracion de Impresion:**
+>**Configuración de Impresión:**
 >- Altura de Capa: 0,2 mm
 >- Relleno: 30% al 50%
->- Lineas de pared: 3
+>- Líneas de pared: 3
 >- Capas de Superficie: 3
-
 
 
 <table align="center">
@@ -166,7 +164,7 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">3</td>
     </tr>
     <tr>
-      <td>Base Portapila</td>
+      <td>Base Porta pila</td>
       <td align="center">22</td>
       <td align="center">1</td>
     </tr>
@@ -263,7 +261,6 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </tbody>
 </table>
 
-
 La otra línea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferretería, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
 
 <table align="center">
@@ -326,7 +323,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Cianoacrilato</td>
+      <td>Ciano acrilato</td>
       <td align="center">-</td>
       <td align="center">1</td>
     </tr>
@@ -338,13 +335,11 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
   </tbody>
 </table>
 
-
 ### Armado PCB
 
-Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](Hardware/PCB_Datos2.pdf). Si no sabes como prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
+Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](Hardware/PCB_Datos2.pdf). Si no sabes cómo prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
 
-Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse asi:
-
+Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así:
 
 <table align="center">
   <thead>
@@ -364,11 +359,11 @@ Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse asi:
 <br>
 
 >[!IMPORTANT]
->Hay que estar seguro de que no se hayan cometido errores durante el proceso, asi que con un multimetro en modo continuidad se puede verificar que no hayan cortocircuitos entre Vcc y GND, como tambien entre cada unos de los pines de los componentes.
+>Hay que estar seguro de que no se hayan cometido errores durante el proceso, así que con un multímetro en modo continuidad se puede verificar que no haya cortocircuitos entre Vcc y GND, como también entre cada uno de los pines de los componentes.
 
 #### **Paso 1** - Componentes
 
-Ten a mano todos los componentes necesarios para la placa. Se recomienda probar que cada uno de ellos este funcionando correctamente. A continuación, se presenta una imagen con cada uno. (Faltan componentes, después le saco foto)
+Ten a mano todos los componentes necesarios para la placa. Se recomienda probar que cada uno de ellos esté funcionando correctamente. A continuación, se presenta una imagen con cada uno. (Faltan componentes, después le saco foto)
 
 <br>
 
@@ -380,7 +375,7 @@ Ten a mano todos los componentes necesarios para la placa. Se recomienda probar 
 
 <br><br><br><br><br><br>
 
-Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), procede a soldar los componentes más bajos en altura primero, siguiendo por lo más altos. Si no sabes cómo soldar, haz click [aquí](https://www.youtube.com/watch?v=snM_ABjXGsw). La placa se debería ver asi al terminar: 
+Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), procede a soldar los componentes más bajos en altura primero, siguiendo por lo más altos. Si no sabes cómo soldar, haz click [aquí](https://www.youtube.com/watch?v=snM_ABjXGsw). La placa se debería ver así al terminar: 
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -388,10 +383,9 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 <img align="right" width="455" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Placa%20Terminada.png">
 
-
 <br><br><br><br><br>
 
-Lo unico que queda ahora es cargar el [programa](Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la arduino e insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar:
+Lo único que queda ahora es cargar el [programa](Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la Arduino e insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
@@ -427,7 +421,7 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se deberia prender todo el sistema. 
+El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se debería prender todo el sistema. 
 
 #### **Paso 2** - Preparar sensor UV
 
@@ -444,9 +438,9 @@ Para la estructura sensor UV se necesita:
 
 (Imagen de todo el conjunto UV Completo).
 
-#### **Paso 3** - Preparar Pluviometro
+#### **Paso 3** - Preparar Pluviómetro
 
-Para el conjunto del pluviometro se precisa de lo siguiente:
+Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 - [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
 - [Ménsula](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
@@ -459,14 +453,14 @@ Para el conjunto del pluviometro se precisa de lo siguiente:
 
 Primero hay que colocar las varillas de 210 mm en el aro totalizador como se muestra [aqui](Imagenes/Ensamble/Conjunto%20Pluviómetro/Aro%20Totalizador%20-%20Ejemplos%205.jpg).
 
-(Aca falta, pero no saque muchas fotos ni desarme/arme esto)
+(Acá falta, pero no saque muchas fotos ni desarme/arme esto)
 
 #### **Paso 4** - Integración Final
 
-Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
+Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
 
 - [Tapa Inferior](Impresion%203D%20STL/Telemetría/Tapa%20telemetría%20inferior.STL)
-- [Seprarador PCB a Techo Pila](Impresion%203D%20STL/Telemetría/Separador%20PCB%20a%20techo%20pila.STL)
+- [Separador PCB a Techo Pila](Impresion%203D%20STL/Telemetría/Separador%20PCB%20a%20techo%20pila.STL)
 - [Tapa con Encastre](Impresion%203D%20STL/Telemetría)
 - [Tope Interno](Impresion%203D%20STL/Telemetría/Tope%20interno%20telemetría.STL)
 - [Traba de Agarre](Impresion%203D%20STL/Telemetría/Traba%20de%20agarre%20telemetría.STL)
@@ -474,10 +468,9 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
 1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocación.jpg) de 60 mm y [atornillar la pieza en T](Imagenes/Ensamble/Sistema%20General/Colocación%20Pieza%20en%20T.jpg) en la Tapa Inferior.
 
-2. Insertar los prensacables y el interruptor de encendido como se muestra en las imagenes de abajo
+2. Insertar los prensa cables y el interruptor de encendido como se muestra en las imágenes de abajo
 
   <img align="left" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20de%20In-Out.png">
-
 
   <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20In-Out%202.png">
 
@@ -485,26 +478,25 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
 3. Pegar con la gotita el sensor AHT sobre la pieza en T, como se puede ver en esta [imagen](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg)
 
-4. Luego de pasar cada uno de los respectivos cables por los prensacables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une despues a uno de los conectores molex que van conectados a la placa.
+4. Luego de pasar cada uno de los respectivos cables por los prensa cables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une después a uno de los conectores molex que van conectados a la placa.
 
-5. Armar cada uno de los molex (si no sabe como, [aqui](https://www.youtube.com/watch?v=tU62sOKsNWI) hay un tutorial), y coloque el PCB de la siguiente manera:
+5. Armar cada uno de los molex (si no sabe cómo, [aquí](https://www.youtube.com/watch?v=tU62sOKsNWI) hay un tutorial), y coloque el PCB de la siguiente manera:
 
   <img align="left" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%201.png">
-
 
   <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%202.png">
 
   
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-  A continuación se detalla cada uno de las posiciones de los cables del molex:
+  A continuación, se detalla cada una de las posiciones de los cables del molex:
 
 <table align="center">
   <thead>
     <tr>
       <th>Sensor</th>
-      <th>Numeros de Pin Molex</th>
-      <th>Funcion del Pin</th>
+      <th>Números de Pin Molex</th>
+      <th>Función del Pin</th>
     </tr>
   </thead>
   <tbody>
@@ -519,7 +511,7 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
       <td align="center">GND<br>3v3<br>ENABLE<br>N/A<br>OUT UV</td>
     </tr>
     <tr>
-      <td>Bateria + Lluvia</td>
+      <td>Batería + Lluvia</td>
       <td align="center">10<br>11<br>12</td>
       <td align="center">V BAT (Cable que viene del Interruptor)<br>Pin Lluvia 1<br>Pin Lluvia 2</td>
     </tr>
