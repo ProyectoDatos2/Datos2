@@ -10,8 +10,6 @@ Buscamos que cada uno pueda apropiarse del proyecto de la manera más convenient
 
 <img align="right" width="260" height="430" src="/home/ignacio/git/Datos2/Imagenes/Foto SEHMA.png">
 
-[foto](home/ignacio/git/Datos2/Imagenes/FotoSEHMA.png)
-
 El dispositivo SEHMA es un sistema educativo meteorológico de bajo costo, fácil ensamble y con componentes accesibles, que permite a cualquier persona armar su propia SEHMA. La estructura principal consta de piezas de contención impresas en 3D y una placa de control con comunicación GPRS que permite la lectura de sensores y carga de datos a la red. 
 Tiene las siguientes funciones y sensores:
 <br>
@@ -337,7 +335,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 
 ### Armado PCB
 
-Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](https://github.com/ProyectoDatos2/Datos2/blob/main/Hardware/PCB_Datos2.pdf). Si no sabes como prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
+Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](home/ignacio/git/Datos2/Hardware/PCB_Datos2.pdf). Si no sabes como prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
 
 Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse asi:
 
