@@ -385,13 +385,13 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 <br><br><br><br><br>
 
-Lo unico que queda ahora es cargar el [programa](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la arduino e insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar:
+Lo unico que queda ahora es cargar el [programa](Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la arduino e insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
 ### Ensamblaje Sistema
 
-Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](https://github.com/ProyectoDatos2/Datos2/tree/Readme-Writing/Impresion%203D%20STL) detalladas en este documento. <br><br><br>
+Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](Impresion_3D_STL/) detalladas en este documento. <br><br><br>
 
 #### **Paso 1** - Preparar sistema de Autonomía
 
