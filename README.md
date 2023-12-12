@@ -8,7 +8,7 @@ Buscamos que cada uno pueda apropiarse del proyecto de la manera más convenient
 
 ## SEHMA
 
-<img align="right" width="260" height="430" src="/home/ignacio/git/Datos2/Imagenes/Foto SEHMA.png">
+<img align="right" width="260" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/FotoSEHMA.png">
 
 El dispositivo SEHMA es un sistema educativo meteorológico de bajo costo, fácil ensamble y con componentes accesibles, que permite a cualquier persona armar su propia SEHMA. La estructura principal consta de piezas de contención impresas en 3D y una placa de control con comunicación GPRS que permite la lectura de sensores y carga de datos a la red. 
 Tiene las siguientes funciones y sensores:
