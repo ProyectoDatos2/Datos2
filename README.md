@@ -391,7 +391,7 @@ Lo unico que queda ahora es cargar el [programa](Firmware/Estacion_v1.4_1hora/Es
 
 ### Ensamblaje Sistema
 
-Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](Impresion_3D_STL/) detalladas en este documento. <br><br><br>
+Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](Impresion%203D%20STL/) detalladas en este documento. <br><br><br>
 
 #### **Paso 1** - Preparar sistema de Autonomía
 
@@ -409,7 +409,7 @@ El sistema de autonomía está formado por:
 - Dos baterías 18650
 - Placa de Step Up 
 - Módulo de carga solar 
-Todo el conjunto esta sostenido por la [placa base portapilas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
+Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20STL/Telemetría/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](Impresion%203D%20STL/Telemetría/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](Impresion%203D%20STL/Telemetría/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
 
 <br><br><br><br><br><br><br>
 
@@ -421,19 +421,19 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se deberia prender todo el sistema. 
+El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se deberia prender todo el sistema. 
 
 #### **Paso 2** - Preparar sensor UV
 
 Para la estructura sensor UV se necesita:
-- [Base Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
-- [Cuerpo Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
-- [Tapa Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
-- [Lente Sensor UV](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
+- [Base Sensor UV](Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
+- [Cuerpo Sensor UV](Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
+- [Tapa Sensor UV](Impresion%203D%20STL/UV/Tapa%20sensor%20uv.STL)
+- [Lente Sensor UV](Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
 - Sensor UV 8511
 
-1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Colocaci%C3%B3n%20Sensor%20UV.png).
-2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20UV/Estructura%20Sensor%20UV.png) manera (deben coincidir las muescas de la tapa y el cuerpo).
+1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
+2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](Imagenes/Ensamble/Conjunto%20UV/Estructura%20Sensor%20UV.png) manera (deben coincidir las muescas de la tapa y el cuerpo).
 3. Finalmente, atornillar la base al cuerpo ya armado.
 
 (Imagen de todo el conjunto UV Completo).
@@ -442,16 +442,16 @@ Para la estructura sensor UV se necesita:
 
 Para el conjunto del pluviometro se precisa de lo siguiente:
 
-- [Aro Totalizador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/Aro%20totalizador%20sensor%20lluvia.STL)
-- [Ménsula](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/Mensula%201%20sensor%20de%20lluvia.STL)
-- [Tapa](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/Tapa%20version%20master.STL)
-- [Totalizador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/estanco%20b.STL)
-- [Estanco A](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/estanco_a.STL)
-- [Estanco B](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/estanco%20b.STL)
-- [Localizador](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Pluvi%C3%B3metro/localizador%20vaso%20pluvi%C3%B3metro.STL)
+- [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
+- [Ménsula](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
+- [Tapa](Impresion%203D%20STL/Pluviómetro/Tapa%20version%20master.STL)
+- [Totalizador](Impresion%203D%20STL/Pluviómetro/Totalizador%20Pluviómetro%20Version%20Master.STL)
+- [Estanco A](Impresion%203D%20STL/Pluviómetro/estanco_a.STL)
+- [Estanco B](Impresion%203D%20STL/Pluviómetro/estanco%20b.STL)
+- [Localizador](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
 - Celda de Carga + Driver HX711
 
-Primero hay que colocar las varillas de 210 mm en el aro totalizador como se muestra [aqui](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Aro%20Totalizador%20-%20Ejemplos%205.jpg).
+Primero hay que colocar las varillas de 210 mm en el aro totalizador como se muestra [aqui](Imagenes/Ensamble/Conjunto%20Pluviómetro/Aro%20Totalizador%20-%20Ejemplos%205.jpg).
 
 (Aca falta, pero no saque muchas fotos ni desarme/arme esto)
 
@@ -459,14 +459,14 @@ Primero hay que colocar las varillas de 210 mm en el aro totalizador como se mue
 
 Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
 
-- [Tapa Inferior](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Tapa%20telemetr%C3%ADa%20inferior.STL)
-- [Seprarador PCB a Techo Pila](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Separador%20PCB%20a%20techo%20pila.STL)
-- [Tapa con Encastre](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Tapa%20con%20encastre.STL)
-- [Tope Interno](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Tope%20interno%20telemetr%C3%ADa.STL)
-- [Traba de Agarre](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/Traba%20de%20agarre%20telemetr%C3%ADa.STL)
-- [Pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Impresion%203D%20STL/Telemetr%C3%ADa/pieza%20T.STL)
+- [Tapa Inferior](Impresion%203D%20STL/Telemetría/Tapa%20telemetría%20inferior.STL)
+- [Seprarador PCB a Techo Pila](Impresion%203D%20STL/Telemetría/Separador%20PCB%20a%20techo%20pila.STL)
+- [Tapa con Encastre](Impresion%203D%20STL/Telemetría)
+- [Tope Interno](Impresion%203D%20STL/Telemetría/Tope%20interno%20telemetría.STL)
+- [Traba de Agarre](Impresion%203D%20STL/Telemetría/Traba%20de%20agarre%20telemetría.STL)
+- [Pieza en T](Impresion%203D%20STL/Telemetría/pieza%20T.STL)
 
-1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocaci%C3%B3n.jpg) de 60 mm y [atornillar la pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Colocaci%C3%B3n%20Pieza%20en%20T.jpg) en la Tapa Inferior.
+1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocación.jpg) de 60 mm y [atornillar la pieza en T](Imagenes/Ensamble/Sistema%20General/Colocación%20Pieza%20en%20T.jpg) en la Tapa Inferior.
 
 2. Insertar los prensacables y el interruptor de encendido como se muestra en las imagenes de abajo
 
@@ -477,7 +477,7 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-3. Pegar con la gotita el sensor AHT sobre la pieza en T, como se puede ver en esta [imagen](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Colocaci%C3%B3n%20Sensor%20AHT.jpg)
+3. Pegar con la gotita el sensor AHT sobre la pieza en T, como se puede ver en esta [imagen](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg)
 
 4. Luego de pasar cada uno de los respectivos cables por los prensacables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une despues a uno de los conectores molex que van conectados a la placa.
 
@@ -530,6 +530,6 @@ Ya teniendo completados todos lo pasos anteriores, lo único que queda es unir c
   </tbody>
 </table>
 
-6. Al terminar con el paso anterior, estando seguro de que cada conector se haya armado correctamente, se [colocan los separadores](https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Separadores%20Colocados.png) entre el PCB y la placa del sistema de autonomía, para que luego se inserte el sistema y se ajusten las tuercas correspondientes:
+6. Al terminar con el paso anterior, estando seguro de que cada conector se haya armado correctamente, se [colocan los separadores](Imagenes/Ensamble/Sistema%20General/Separadores%20Colocados.png) entre el PCB y la placa del sistema de autonomía, para que luego se inserte el sistema y se ajusten las tuercas correspondientes:
 
 <img align="center" width="800" height="500" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Sistema%20Terminado%201.png">
