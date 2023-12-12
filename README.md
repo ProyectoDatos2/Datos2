@@ -133,7 +133,13 @@ Tiene las siguientes funciones y sensores:
 A la estructura se la pensó a partir de dos líneas de trabajo. La primera es en impresión 3D, que nos permite la replicación exacta en cada sistema.
 
 >[!IMPORTANT]
->**Se recomienda como material de impresión el _PETG_, ya que los demás materiales se pueden degradar debido a las condiciones climáticas a la que está expuesto el sistema. La altura de capa debe ser de 0,2 mm y con un relleno del 30% al 50%. Se imprimió con 3 líneas de pared y con 3 capas de superficie**
+>**Configuracion de Impresion:**
+>- Altura de Capa: 0,2 mm
+>- Relleno: 30% al 50%
+>- Lineas de pared: 3
+>- Capas de Superficie: 3
+
+
 
 <table align="center">
   <thead>
