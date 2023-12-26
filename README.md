@@ -347,8 +347,8 @@ Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así
 <table align="center">
   <thead>
     <tr>
-      <th><img align="right" width="430" height="430" src="Imagenes/PCB/PCB Abajo.png"></th>
-      <th><img align="left" width="430" height="430" src="Imagenes/PCB/PCB Arriba.png"></th>
+      <th><img align="right" width="430" height="380" src="Imagenes/PCB/PCB Abajo.png"></th>
+      <th><img align="left" width="430" height="380" src="Imagenes/PCB/PCB Arriba.png"></th>
     </tr>
   </thead>
   <tbody>
