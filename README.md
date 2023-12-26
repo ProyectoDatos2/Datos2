@@ -401,8 +401,8 @@ Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Blanco.png">
-  <source media="(prefers-color-scheme: light)" srcset="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Negro.png">
+  <source media="(prefers-color-scheme: dark)" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Blanco.png">
+  <source media="(prefers-color-scheme: light)" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Negro.png">
   <img align="left" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Negro.png">
 </picture>
 
