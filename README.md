@@ -384,7 +384,7 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 #### **Paso 3** - Integración
 
-<img align="right" width="455" height="400" src="Imagenes/PCB/Placa Terminada.png">
+<img align="right" width="455" height="455" src="Imagenes/PCB/Placa Terminada.png">
 
 <br><br><br><br><br>
 
