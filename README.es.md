@@ -8,7 +8,7 @@ Buscamos que cada uno pueda apropiarse del proyecto de la manera más convenient
 
 ## SEHMA
 
-<img align="right" width="260" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/FotoSEHMA.png">
+<img align="right" width="260" height="430" src="Imagenes/FotoSEHMA.png">
 
 El dispositivo SEHMA es un sistema educativo meteorológico de bajo costo, fácil ensamble y con componentes accesibles, que permite a cualquier persona armar su propia SEHMA. La estructura principal consta de piezas de contención impresas en 3D y una placa de control con comunicación GPRS que permite la lectura de sensores y carga de datos a la red. 
 Tiene las siguientes funciones y sensores:
@@ -344,8 +344,8 @@ Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así
 <table align="center">
   <thead>
     <tr>
-      <th><img align="right" width="500" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Abajo.png"></th>
-      <th><img align="left" width="500" height="430" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/PCB%20Arriba.png"></th>
+      <th><img align="right" width="500" height="430" src="Imagenes/PCB/PCB Abajo.png"></th>
+      <th><img align="left" width="500" height="430" src="Imagenes/PCB/PCB Arriba.png"></th>
     </tr>
   </thead>
   <tbody>
@@ -367,11 +367,11 @@ Ten a mano todos los componentes necesarios para la placa. Se recomienda probar 
 
 <br>
 
-<img align="center" width="1200" height="550" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Componentes%20Necesarios.jpg">
+<img align="center" width="1200" height="550" src="Imagenes/PCB/Componentes Necesarios.jpg">
 
 #### **Paso 2** - Soldadura
 
-<img align="right" width="455" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Pines%20Placa.png">
+<img align="right" width="455" height="400" src="Imagenes/PCB/Pines Placa.png">
 
 <br><br><br><br><br><br>
 
@@ -381,7 +381,7 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 #### **Paso 3** - Integración
 
-<img align="right" width="455" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/PCB/Placa%20Terminada.png">
+<img align="right" width="455" height="400" src="Imagenes/PCB/Placa Terminada.png">
 
 <br><br><br><br><br>
 
@@ -398,9 +398,9 @@ Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Blanco.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Negro.png">
-  <img align="left" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Negro.png">
+  <source media="(prefers-color-scheme: dark)" srcset="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Blanco.png">
+  <source media="(prefers-color-scheme: light)" srcset="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Negro.png">
+  <img align="left" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Negro.png">
 </picture>
 
 <br><br><br>
@@ -413,7 +413,7 @@ Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20
 
 <br><br><br><br><br><br><br>
 
-<img align="right" width="440" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20(2).png">
+<img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
 
 <br><br><br><br><br>
 
@@ -470,9 +470,9 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
 2. Insertar los prensa cables y el interruptor de encendido como se muestra en las imágenes de abajo
 
-  <img align="left" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20de%20In-Out.png">
+  <img align="left" width="380" height="380" src="Imagenes/Ensamble/Sistema General/Indicacion de In-Out.png">
 
-  <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Indicacion%20In-Out%202.png">
+  <img align="right" width="380" height="380" src="Imagenes/Ensamble/Sistema General/Indicacion In-Out 2.png">
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -482,9 +482,9 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
 5. Armar cada uno de los molex (si no sabe cómo, [aquí](https://www.youtube.com/watch?v=tU62sOKsNWI) hay un tutorial), y coloque el PCB de la siguiente manera:
 
-  <img align="left" width="400" height="400" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%201.png">
+  <img align="left" width="400" height="400" src="Imagenes/Ensamble/Sistema General/Molex 1.png">
 
-  <img align="right" width="380" height="380" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Molex%202.png">
+  <img align="right" width="380" height="380" src="Imagenes/Ensamble/Sistema General/Molex 2.png">
 
   
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -530,4 +530,4 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
 6. Al terminar con el paso anterior, estando seguro de que cada conector se haya armado correctamente, se [colocan los separadores](Imagenes/Ensamble/Sistema%20General/Separadores%20Colocados.png) entre el PCB y la placa del sistema de autonomía, para que luego se inserte el sistema y se ajusten las tuercas correspondientes:
 
-<img align="center" width="800" height="500" src="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20General/Sistema%20Terminado%201.png">
+<img align="center" width="800" height="500" src="Imagenes/Ensamble/Sistema General/Sistema Terminado 1.png">
