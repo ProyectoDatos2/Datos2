@@ -374,7 +374,7 @@ Ten a mano todos los componentes necesarios para la placa. Se recomienda probar 
 
 #### **Paso 2** - Soldadura
 
-<img align="right" width="455" height="400" src="Imagenes/PCB/Pines Placa.png">
+<img align="right" width="455" height="455" src="Imagenes/PCB/Pines Placa.png">
 
 <br><br><br><br><br><br>
 
