@@ -383,7 +383,7 @@ Ten a mano todos los componentes necesarios para la placa. Se recomienda probar 
 
 <br><br><br><br><br><br>
 
-Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), procede a soldar los componentes más bajos en altura primero, siguiendo por lo más altos. Si no sabes cómo soldar, haz click [aquí](https://www.youtube.com/watch?v=snM_ABjXGsw). La placa se debería ver así al terminar: 
+Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), procede a soldar los componentes más bajos en altura primero, siguiendo por lo más altos. Si no sabes cómo soldar, haz clic [aquí](https://www.youtube.com/watch?v=snM_ABjXGsw). La placa se debería ver así al terminar: 
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -463,7 +463,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 - [Localizador](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
 - Celda de Carga + Driver HX711
 
-1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que quede tanto la rosca como la varilla al raz del aro y con una contra rosca del lado contrario, como se muestra [aqui](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Varillas.jpg).
+1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que quede tanto la rosca como la varilla al ras del aro y con una contra rosca del lado contrario, como se muestra [aqui](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Varillas.jpg).
 
 2. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
 
@@ -473,11 +473,11 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 5. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
 
-6. Luego de esto, hay que asegurarse que no hayan pesos "fantasma" en la celda, asi que se usará el arduino para ajustar la tara de la celda.
+6. Luego de esto, hay que asegurarse que no haya pesos "fantasma" en la celda, asi que se usará el Arduino para ajustar la tara de la celda.
 
-7. Ya casi terminando, inserte primero las contraroscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del lado contrario. No ajuste tanto estas roscas, ya que hay que nivelar el sistema.
+7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del lado contrario. No ajuste tanto estas roscas, ya que hay que nivelar el sistema.
 
-8. Colocando el conjunto sobre una estructura a nivel plana, con espacio para ajustar las tuercas, ajuste el largo de cada una de las varillas en relacion al totalizador para que el aro quede a nivel. 
+8. Colocando el conjunto sobre una estructura a nivel plana, con espacio para ajustar las tuercas, ajuste el largo de cada una de las varillas con relación al totalizador para que el aro quede a nivel. 
 
 <table align="center">
   <thead>
