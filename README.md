@@ -275,6 +275,11 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
     </tr>
   </thead>
   <tbody>
+   <tr>
+      <td>Cable Seis Polos</td>
+      <td align="center">3 m</td>
+      <td align="center">1</td>
+    </tr>
     <tr>
       <td>Philips o Punta Plana</td>
       <td align="center">M3 x 8mm <br/> M3 x 30mm <br/> M4 x 16mm <br/> M4 x 75mm</td>
@@ -347,8 +352,8 @@ Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así
 <table align="center">
   <thead>
     <tr>
-      <th><img align="right" width="430" height="380" src="Imagenes/PCB/PCB Abajo.png"></th>
-      <th><img align="left" width="430" height="380" src="Imagenes/PCB/PCB Arriba.png"></th>
+      <th><img align="center" width="430" height="380" src="Imagenes/PCB/PCB Abajo.png"></th>
+      <th><img align="center" width="430" height="380" src="Imagenes/PCB/PCB Arriba.png"></th>
     </tr>
   </thead>
   <tbody>
@@ -454,9 +459,31 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 - [Localizador](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
 - Celda de Carga + Driver HX711
 
-Primero hay que colocar las varillas de 210 mm en el aro totalizador como se muestra [aqui](Imagenes/Ensamble/Conjunto%20Pluviómetro/Aro%20Totalizador%20-%20Ejemplos%205.jpg).
+1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que quede tanto la rosca como la varilla al raz del aro y con una contra rosca del lado contrario, como se muestra [aqui](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Varillas.jpg).
 
-(Acá falta, pero no saque muchas fotos ni desarme/arme esto)
+2. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
+
+3. Sobre el totalizador, se coloca la celda de carga con la [orientación correcta](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Celda%20de%20Carga.jpg) y se [atornilla desde abajo](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg). Luego, [atornille el totalizador](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Celda%20de%20Carga.jpg) sobre la celda
+
+4. Conectar la [celda de carga al driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) y los cables de entrada/salida del otro lado.
+
+5. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
+
+6. Luego de esto, hay que asegurarse que no hayan pesos "fantasma" en la celda, asi que se usará el arduino para ajustar la tara de la celda.
+
+7. Ya casi terminando, inserte primero las contraroscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del lado contrario. No ajuste tanto estas roscas, ya que hay que nivelar el sistema.
+
+8. Colocando el conjunto sobre una estructura a nivel plana, con espacio para ajustar las tuercas, ajuste el largo de cada una de las varillas en relacion al totalizador para que el aro quede a nivel. 
+
+<table align="center">
+  <thead>
+    <tr>
+      <th><img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 1.jpg"></th>
+      <th><img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 2.jpg"></th>
+      <th><img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 3.jpg"></th>
+    </tr>
+  </thead>
+</table>
 
 #### **Paso 4** - Integración Final
 
