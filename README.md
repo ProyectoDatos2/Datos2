@@ -448,7 +448,11 @@ Para la estructura sensor UV se necesita:
 
 #### **Paso 3** - Preparar Pluviómetro
 
+<img align="right" width="400" height="500" src="Imagenes/Ensamble/Conjunto Pluviómetro/Terminado.png">
+
 Para el conjunto del pluviómetro se precisa de lo siguiente:
+
+
 
 - [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
 - [Ménsula](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
