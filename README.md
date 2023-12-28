@@ -417,6 +417,7 @@ El sistema de autonomía está formado por:
 - Dos baterías 18650
 - Placa de Step Up 
 - Módulo de carga solar 
+
 Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20STL/Telemetría/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](Impresion%203D%20STL/Telemetría/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](Impresion%203D%20STL/Telemetría/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
 
 <br><br><br><br><br><br><br>
