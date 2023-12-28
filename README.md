@@ -153,22 +153,22 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   <tbody>
     <tr>
       <td>Tapa Superior</td>
-      <td align="center">87</td>
+      <td align="center">88</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Tapa Inferior</td>
-      <td align="center">29</td>
+      <td align="center">31</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Topes</td>
-      <td align="center">6</td>
+      <td align="center">5</td>
       <td align="center">3</td>
     </tr>
     <tr>
       <td>Base Porta pila</td>
-      <td align="center">22</td>
+      <td align="center">23</td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -178,12 +178,12 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
     </tr>
     <tr>
       <td>Soporte Holder</td>
-      <td align="center">3</td>
+      <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Soporte Telemetría</td>
-      <td align="center">37</td>
+      <td align="center">38</td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -213,52 +213,52 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
     </tr>
     <tr>
       <td>Tapa Estanco B</td>
-      <td align="center">5</td>
+      <td align="center">4</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Agarre Caño</td>
-      <td align="center">37</td>
+      <td align="center">38</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Ménsula Sensor Lluvia</td>
-      <td align="center">5</td>
+      <td align="center">6</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Localizador Base</td>
-      <td align="center">22</td>
+      <td align="center">24</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Totalizador Pluviómetro</td>
-      <td align="center">82</td>
+      <td align="center">81</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Tapa Protectora Viga</td>
-      <td align="center">12</td>
+      <td align="center">13</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Cuerpo Sensor UV</td>
-      <td align="center">43</td>
+      <td align="center">44</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Tapa Inferior</td>
-      <td align="center">9</td>
+      <td align="center">10</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Protector de Lente</td>
-      <td align="center">3</td>
+      <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td><strong>TOTAL</strong></td>
-      <td align="center"><strong>(hay que pesar) (-% relleno)</strong></td>
+      <td align="center"><strong>481 (40% relleno)</strong></td>
       <td align="center"><strong>28</strong></td>
     </tr>
   </tbody>
@@ -420,7 +420,20 @@ El sistema de autonomía está formado por:
 
 Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20STL/Telemetría/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](Impresion%203D%20STL/Telemetría/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](Impresion%203D%20STL/Telemetría/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
 
-<br><br><br><br><br><br><br>
+<br><br><br>
+
+El cableado debe ser al ras asi los cables no nos quedan incomodos al unir los sistemas con tornillos. Para eso hay que seguir los siguientes pasos: 
+
+1. Primero hay que [pasar el cable positivo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) por debajo del cargador solar para luego [empalmarlo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). A todos los empalmes se los aisla con un termo contraible.
+
+2. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, asi no molestan con el hueco para el tornillo. Pegarlo con la gotita al holder si es necesario.
+
+3. Con cables trenzados positivos, desde la otra salida de bateria del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del [modulo step up](). 
+
+4. Cerca de los cables negativos anteriores, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [modulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
+
+5. Por ultimo, insertar las baterias para regular el modulo de step up [con un multimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
+
 
 <img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
 
