@@ -153,22 +153,22 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   <tbody>
     <tr>
       <td>Tapa Superior</td>
-      <td align="center">87</td>
+      <td align="center">88</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Tapa Inferior</td>
-      <td align="center">29</td>
+      <td align="center">31</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Topes</td>
-      <td align="center">6</td>
+      <td align="center">5</td>
       <td align="center">3</td>
     </tr>
     <tr>
       <td>Base Porta pila</td>
-      <td align="center">22</td>
+      <td align="center">23</td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -178,12 +178,12 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
     </tr>
     <tr>
       <td>Soporte Holder</td>
-      <td align="center">3</td>
+      <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Soporte Telemetría</td>
-      <td align="center">37</td>
+      <td align="center">38</td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -213,52 +213,52 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
     </tr>
     <tr>
       <td>Tapa Estanco B</td>
-      <td align="center">5</td>
+      <td align="center">4</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Agarre Caño</td>
-      <td align="center">37</td>
+      <td align="center">38</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Ménsula Sensor Lluvia</td>
-      <td align="center">5</td>
+      <td align="center">6</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Localizador Base</td>
-      <td align="center">22</td>
+      <td align="center">24</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Totalizador Pluviómetro</td>
-      <td align="center">82</td>
+      <td align="center">81</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Tapa Protectora Viga</td>
-      <td align="center">12</td>
+      <td align="center">13</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Cuerpo Sensor UV</td>
-      <td align="center">43</td>
+      <td align="center">44</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Tapa Inferior</td>
-      <td align="center">9</td>
+      <td align="center">10</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td>Protector de Lente</td>
-      <td align="center">3</td>
+      <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td><strong>TOTAL</strong></td>
-      <td align="center"><strong>(hay que pesar) (-% relleno)</strong></td>
+      <td align="center"><strong>481 (40% relleno)</strong></td>
       <td align="center"><strong>28</strong></td>
     </tr>
   </tbody>
@@ -287,7 +287,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
     </tr>
     <tr>
       <td>Varilla</td>
-      <td align="center">M4 x 210mm <br/> M4 x 60mm</td>
+      <td align="center">M4 x 210mm<br/> M4 x 60mm</td>
       <td align="center">3 <br/> 3</td>
     </tr>
     <tr>
@@ -417,9 +417,23 @@ El sistema de autonomía está formado por:
 - Dos baterías 18650
 - Placa de Step Up 
 - Módulo de carga solar 
+
 Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20STL/Telemetría/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](Impresion%203D%20STL/Telemetría/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](Impresion%203D%20STL/Telemetría/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
 
-<br><br><br><br><br><br><br>
+<br><br><br>
+
+El cableado debe ser al ras asi los cables no nos quedan incomodos al unir los sistemas con tornillos. Para eso hay que seguir los siguientes pasos: 
+
+1. Primero hay que [pasar el cable positivo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) por debajo del cargador solar para luego [empalmarlo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). A todos los empalmes se los aisla con un aislante termo-contraible.
+
+2. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, asi no molestan con el hueco para el tornillo. Pegarlo con la gotita al holder si es necesario.
+
+3. Con cables trenzados positivos, desde la otra salida de bateria del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del [modulo step up](). 
+
+4. Cerca de los cables negativos anteriores, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [modulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
+
+5. Por ultimo, insertar las baterias para regular el modulo de step up [con un multimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
+
 
 <img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
 
@@ -452,8 +466,6 @@ Para la estructura sensor UV se necesita:
 
 Para el conjunto del pluviómetro se precisa de lo siguiente:
 
-
-
 - [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
 - [Ménsula](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
 - [Tapa](Impresion%203D%20STL/Pluviómetro/Tapa%20version%20master.STL)
@@ -462,22 +474,26 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 - [Estanco B](Impresion%203D%20STL/Pluviómetro/estanco%20b.STL)
 - [Localizador](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
 - Celda de Carga + Driver HX711
+- 13 Tuercas M4
+- 4 Tornillos M4
+- 3 Varillas M4 de 210 mm
+- 0,5 m de cable de 4 o 6 polos
 
-1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que quede tanto la rosca como la varilla al ras del aro y con una contra rosca del lado contrario, como se muestra [aqui](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Varillas.jpg).
+1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imagenes de ejemplo al final de la sección.
 
 2. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
 
-3. Sobre el totalizador, se coloca la celda de carga con la [orientación correcta](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Celda%20de%20Carga.jpg) y se [atornilla desde abajo](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg). Luego, [atornille el totalizador](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Celda%20de%20Carga.jpg) sobre la celda
+3. Se colocan las [arandelas y tornillos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Arandelas%20Localizador.jpg) y se [atornilla](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientacion%20Localizador.jpg) sobre la cara contraria a la flecha del peso de la celda de carga
+
+3. Sobre el totalizador, se coloca la celda de carga con la [orientación correcta](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientación%20Celda%20de%20Carga.jpg) y se [atornilla desde abajo](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg).
 
 4. Conectar la [celda de carga al driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) y los cables de entrada/salida del otro lado.
 
-5. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
+5. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
 
 6. Luego de esto, hay que asegurarse que no haya pesos "fantasma" en la celda, asi que se usará el Arduino para ajustar la tara de la celda.
 
-7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del lado contrario. No ajuste tanto estas roscas, ya que hay que nivelar el sistema.
-
-8. Colocando el conjunto sobre una estructura a nivel plana, con espacio para ajustar las tuercas, ajuste el largo de cada una de las varillas con relación al totalizador para que el aro quede a nivel. 
+7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, asi queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no sea así.
 
 <table align="center">
   <thead>
@@ -499,6 +515,9 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 - [Tope Interno](Impresion%203D%20STL/Telemetría/Tope%20interno%20telemetría.STL)
 - [Traba de Agarre](Impresion%203D%20STL/Telemetría/Traba%20de%20agarre%20telemetría.STL)
 - [Pieza en T](Impresion%203D%20STL/Telemetría/pieza%20T.STL)
+- Conjunto UV
+- Conjunto Pluviómetro
+- PCB Terminada
 
 1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocación.jpg) de 60 mm y [atornillar la pieza en T](Imagenes/Ensamble/Sistema%20General/Colocación%20Pieza%20en%20T.jpg) en la Tapa Inferior.
 
@@ -509,6 +528,8 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
   <img align="right" width="380" height="380" src="Imagenes/Ensamble/Sistema General/Indicacion In-Out 2.png">
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+3. Cortar pines del AHT a la mitad, soldar los cables del cable de 4 o 6 polos y pasar una pelicula de [laca](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) o un termocontraible para que la humedad no interfiera. Se deberia ver [asi](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
 
 3. Pegar con la gotita el sensor AHT sobre la pieza en T, como se puede ver en esta [imagen](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg)
 
