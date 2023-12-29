@@ -497,7 +497,7 @@ For the rain gauge assembly, you will need the following:
 
 7. After this, ensure there are no "phantom" weights in the cell, so use the Arduino to adjust the tare of the cell.
 
-8. Almost done, first insert the lock nuts on the rods, then place the ring on the totalizer, also adjusting nuts from the [opposite side](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) so that the rods are flush with the totalizer floor, keeping the ring level. Recheck the ring level and make necessary adjustments if not.
+8. Almost done, first insert the lock nuts on the rods, then place the ring on the totalizer, also adjusting nuts from the [opposite side](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) so that the rods are flush with the totalizer floor, keeping the ring level. Recheck the ring level and make necessary adjustments if not leveled.
 
 
 <table align="center">
