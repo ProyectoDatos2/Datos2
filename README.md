@@ -493,7 +493,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 6. Luego de esto, hay que asegurarse que no haya pesos "fantasma" en la celda, asi que se usará el Arduino para ajustar la tara de la celda.
 
-7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, asi queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no sea así.
+7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, asi queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no esté a nivel.
 
 <table align="center">
   <thead>
