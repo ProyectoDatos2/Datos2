@@ -421,9 +421,23 @@ The autonomy system consists of:
 - Two 18650 batteries
 - Step-Up board
 - Solar charging module
+
 The entire assembly is supported by the [battery holder base plate](Impresion%203D%20STL/Telemetría/Placa%20base%20portapilas.STL), and, in turn, the Step-Up board is on the [Step-Up holder](Impresion%203D%20STL/Telemetría/Holder%20step%20up.STL), while the solar charging module is on the [charger holder](Impresion%203D%20STL/Telemetría/Holder%20cargador.STL). The system, joined by super glue, should look like the image on the left.
 
-<br><br><br><br><br><br><br>
+<br><br><br>
+
+The wiring must be flush so that the cables are not uncomfortable when connecting the systems with screws. To achieve this, follow these steps:
+
+1. First, [pass the positive cable](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) under the solar charger for later [splicing](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). All splices are insulated with heat-shrink material.
+
+2. Next, [splice the negative cables](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) with that length, so they do not interfere with the screw hole. Glue them if necessary.
+
+3. With positive braided cables, from the other battery output of the solar charger, lead them to the switch and back to the positive input of the [step-up module]().
+
+4. Near the previous negative cables, from the same input as the previous step, lead the negative cable to the negative input of the [step-up module](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg).
+
+5. Finally, insert the batteries to adjust the step-up module [using a multimeter](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
+
 
 <img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
 
@@ -456,30 +470,35 @@ For the UV sensor structure, you'll need:
 
 For the rain gauge assembly, you will need the following:
 
-- [Totalizing Ring](Impresion%203D%20STL/Pluvi%C3%B3metro/Aro%20totalizador%20sensor%20lluvia.STL)
-- [Bracket](Impresion%203D%20STL/Pluvi%C3%B3metro/Mensula%201%20sensor%20de%20lluvia.STL)
-- [Cover](Impresion%203D%20STL/Pluvi%C3%B3metro/Tapa%20version%20master.STL)
-- [Totalizer](Impresion%203D%20STL/Pluvi%C3%B3metro/Totalizador%20Pluvi%C3%B3metro%20Version%20Master.STL)
-- [Seal A](Impresion%203D%20STL/Pluvi%C3%B3metro/estanco_a.STL)
-- [Seal B](Impresion%203D%20STL/Pluvi%C3%B3metro/estanco%20b.STL)
-- [Locator](Impresion%203D%20STL/Pluvi%C3%B3metro/localizador%20vaso%20pluvi%C3%B3metro.STL)
+- [Totalizing Ring](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
+- [Bracket](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
+- [Cover](Impresion%203D%20STL/Pluviómetro/Tapa%20version%20master.STL)
+- [Totalizer](Impresion%203D%20STL/Pluviómetro/Totalizador%20Pluviómetro%20Version%20Master.STL)
+- [Waterproof A](Impresion%203D%20STL/Pluviómetro/estanco_a.STL)
+- [Waterproof B](Impresion%203D%20STL/Pluviómetro/estanco%20b.STL)
+- [Locator](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
 - Load Cell + HX711 Driver
+- 13 M4 Nuts
+- 4 M4 Screws
+- 3 M4 Rods, 210 mm each
+- 0.5 m of 4 or 6-pole cable
 
-1. Insert the 210mm rods into the totalizing ring, ensuring that both the thread and the rod are flush with the ring, and secure with a counter nut on the opposite side, as shown [here](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Colocaci%C3%B3n%20Varillas.jpg).
+1. Insert the 210 mm rods into the totalizing ring, ensuring that the ring is level with the ground as shown in the example images at the end of the section.
 
-2. On the notched side of the ring, [insert the bracket](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Colocaci%C3%B3n%20Mensula.jpg), also secured by another thread.
+2. On the notch side of the ring, [insert the bracket](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), also secured by another screw.
 
-3. Place the load cell on the totalizer with the [correct orientation](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Colocaci%C3%B3n%20Celda%20de%20Carga.jpg) and [screw it from below](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Tornillos%20Celda%20de%20Carga.jpg). Then, [screw the totalizer](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Colocaci%C3%B3n%20Celda%20de%20Carga.jpg) onto the cell.
+3. Place the [washers and screws](Imagenes/Ensamble/Conjunto%20Pluviómetro/Arandelas%20Localizador.jpg) and [screw](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientacion%20Localizador.jpg) them on the side opposite the arrow of the weight of the load cell.
 
-4. Connect the [load cell to the driver](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Conexi%C3%B3n%20Celda%20de%20Carga.png) and the input/output cables on the other side.
+4. On the totalizer, place the load cell with the [correct orientation](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientación%20Celda%20de%20Carga.jpg) and [screw it from below](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg).
 
-5. Place the driver [inside the seals A and B](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Colocaci%C3%B3n%20Driver%20Celda%20de%20Carga.jpg) and [position it next to the cell](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Colocaci%C3%B3n%20Driver%20Celda%20de%20Carga%202.jpg) to then [place the cover over both](Imagenes/Ensamble/Conjunto%20Pluvi%C3%B3metro/Colocaci%C3%B3n%20Tapa.jpg).
+5. Connect the [load cell to the driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) and the input/output cables on the other side.
 
-6. After this, make sure there are no "ghost" weights on the cell, so use the Arduino to adjust the tare of the cell.
+6. Place the driver [inside waterproof A and B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) and [position it next to the cell](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) and then [place the cover over both](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
 
-7. Almost finishing, first insert the counter nuts on the rods, then place the ring on the totalizer, also adjusting nuts on the opposite side. Do not tighten these nuts too much, as the system needs to be leveled.
+7. After this, ensure there are no "phantom" weights in the cell, so use the Arduino to adjust the tare of the cell.
 
-8. Placing the assembly on a flat, level surface, with space to adjust the nuts, adjust the length of each rod in relation to the totalizer so that the ring is level.
+8. Almost done, first insert the lock nuts on the rods, then place the ring on the totalizer, also adjusting nuts from the [opposite side](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) so that the rods are flush with the totalizer floor, keeping the ring level. Recheck the ring level and make necessary adjustments if not.
+
 
 <table align="center">
   <thead>
