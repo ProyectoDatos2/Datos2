@@ -447,18 +447,25 @@ El conexionado de este sistema es bastante simple, solo hay que seguir el [esque
 
 #### **Paso 2** - Preparar sensor UV
 
+
+
+
 Para la estructura sensor UV se necesita:
+
+<img align="right" width="440" height="400" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
+
+
 - [Base Sensor UV](Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
 - [Cuerpo Sensor UV](Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
 - [Tapa Sensor UV](Impresion%203D%20STL/UV/Tapa%20sensor%20uv.STL)
 - [Lente Sensor UV](Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
 - Sensor UV 8511
+- 1 m de cable de 4 polos
+- 4 tornillos M3 x 8 mm
 
-1. Se debe primero atornillar o pegar con la gotita el sensor al cuerpo como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
-2. Luego, colocar el lente sobre el cuerpo, y ajustarlo pegando con la gotita la tapa para que quede de [esta](Imagenes/Ensamble/Conjunto%20UV/Estructura%20Sensor%20UV.png) manera (deben coincidir las muescas de la tapa y el cuerpo).
-3. Finalmente, atornillar la base al cuerpo ya armado.
-
-(Imagen de todo el conjunto UV Completo).
+1. Primero se debe soldar los cables en el orden indicado en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Conexión%20sensor%20UV.png). Asegurarse de que la soldadura sea del mismo lado que el integrado.
+2. Luego, atornillar el sensor a la base del sensor como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
+3. Finalmente, ajustar los tornillos inferiores entre la base y el cuerpo, para luego pegar con la gotita el lente y asegurarlo con la tapa para que quede como la imagen a la derecha (deben coincidir las muescas de la tapa y el cuerpo).
 
 #### **Paso 3** - Preparar Pluviómetro
 
