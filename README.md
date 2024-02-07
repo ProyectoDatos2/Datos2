@@ -127,6 +127,11 @@ Tiene las siguientes funciones y sensores:
       <td align="center">2</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-879655442-tira-de-40-pines-hembra-paso-254mm-recta-1-fila-_JM#position=4&search_layout=grid&type=item&tracking_id=f194ae8c-4a52-457f-882d-bc9aa2cb7714">Tira Pines Hembra</a></td>
     </tr>
+    <tr>
+      <td>Interruptor Encendido/Apagado</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798">Interruptor</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -152,12 +157,12 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Tapa Superior</td>
+      <td>Tapa Superior Pluviometro</td>
       <td align="center">88</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa Inferior</td>
+      <td>Tapa Inferior Pluviometrio</td>
       <td align="center">31</td>
       <td align="center">1</td>
     </tr>
@@ -247,7 +252,7 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa Inferior</td>
+      <td>Base UV</td>
       <td align="center">10</td>
       <td align="center">1</td>
     </tr>
@@ -276,8 +281,8 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
   </thead>
   <tbody>
    <tr>
-      <td>Cable Seis Polos</td>
-      <td align="center">3 m</td>
+      <td>Cable Cuatro Polos</td>
+      <td align="center">6 m</td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -323,7 +328,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
     <tr>
       <td>Prensa Cable</td>
       <td align="center">1/2"</td>
-      <td align="center">5</td>
+      <td align="center">6</td>
     </tr>
     <tr>
       <td>Pluviómetro</td>
@@ -448,8 +453,6 @@ El conexionado de este sistema es bastante simple, solo hay que seguir el [esque
 #### **Paso 2** - Preparar sensor UV
 
 
-
-
 Para la estructura sensor UV se necesita:
 
 <img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
@@ -482,9 +485,9 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 - [Localizador](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
 - Celda de Carga + Driver HX711
 - 13 Tuercas M4
-- 4 Tornillos M4
+- 4 Tornillos M4 x 16 mm
 - 3 Varillas M4 de 210 mm
-- 0,5 m de cable de 4 o 6 polos
+- 0,5 m de cable de 4 polos
 
 1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imagenes de ejemplo al final de la sección.
 
