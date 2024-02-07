@@ -452,7 +452,7 @@ El conexionado de este sistema es bastante simple, solo hay que seguir el [esque
 
 Para la estructura sensor UV se necesita:
 
-<img align="right" width="440" height="400" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
+<img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
 
 
 - [Base Sensor UV](Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
