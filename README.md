@@ -497,7 +497,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 3. Sobre el totalizador, se coloca la celda de carga con la [orientación correcta](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientación%20Celda%20de%20Carga.jpg) y se [atornilla desde abajo](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg).
 
-4. Conectar la [celda de carga al driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) y los cables de entrada/salida del otro lado.
+4. Conectar la [celda de carga al driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) y los cables de entrada/salida del otro lado (acordarse como conectó cada cable porque luego esto queda sellado).
 
 5. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
 
@@ -539,9 +539,9 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-3. Cortar pines del AHT a la mitad, soldar los cables del cable de 4 o 6 polos y pasar una pelicula de [laca](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) o un termocontraible para que la humedad no interfiera. Se deberia ver [asi](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
+3. Cortar pines del DHT a la mitad, soldar los cables del cable de 4 o 6 polos y pasar una pelicula de [laca](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) o un termocontraible para que la humedad no interfiera. Se deberia ver [asi](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
 
-3. Pegar con la gotita el sensor AHT sobre la pieza en T, como se puede ver en esta [imagen](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg)
+3. Pegar con la gotita el sensor DHT sobre la pieza en T, como se puede ver en esta [imagen](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg)
 
 4. Luego de pasar cada uno de los respectivos cables por los prensa cables, se tiene que agregar un cable del lado normalmente abierto del interruptor, el cual se une después a uno de los conectores molex que van conectados a la placa.
 
@@ -566,7 +566,7 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
   </thead>
   <tbody>
     <tr>
-      <td>Raindrop</td>
+      <td>Totalizador Lluvia</td>
       <td align="center">1<br>2<br>3<br>4</td>
       <td align="center">CLK<br>DOUT<br>GND<br>5 V</td>
     </tr>
@@ -576,12 +576,12 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
       <td align="center">GND<br>3v3<br>ENABLE<br>NC<br>OUT UV</td>
     </tr>
     <tr>
-      <td>Batería + Lluvia</td>
+      <td>Batería + Raindrop</td>
       <td align="center">10<br>11<br>12</td>
       <td align="center">V BAT (Cable que viene del Interruptor)<br>Pin Lluvia 1<br>Pin Lluvia 2</td>
     </tr>
     <tr>
-      <td>AHT</td>
+      <td>DHT</td>
       <td align="center">1<br>2<br>3</td>
       <td align="center">OUT<br>GND<br>5 V</td>
     </tr>
