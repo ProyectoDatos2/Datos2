@@ -157,12 +157,12 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Tapa Superior Pluviometro</td>
+      <td>Tapa Superior Pluviómetro</td>
       <td align="center">88</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa Inferior Pluviometrio</td>
+      <td>Tapa Inferior Pluviómetro</td>
       <td align="center">31</td>
       <td align="center">1</td>
     </tr>
@@ -306,7 +306,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tubo Union entre 2</td>
+      <td>Tubo Unión entre 2</td>
       <td align="center">4"</td>
       <td align="center">1</td>
     </tr>
@@ -429,15 +429,15 @@ Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20
 
 El cableado debe ser al ras asi los cables no nos quedan incomodos al unir los sistemas con tornillos. Para eso hay que seguir los siguientes pasos: 
 
-1. Primero hay que [pasar el cable positivo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) por debajo del cargador solar para luego [empalmarlo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). A todos los empalmes se los aisla con un aislante termo-contraible.
+1. Primero hay que [pasar el cable positivo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) por debajo del cargador solar para luego [empalmarlo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). A todos los empalmes se los aísla con un aislante termo-contraíble.
 
 2. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, asi no molestan con el hueco para el tornillo. Pegarlo con la gotita al holder si es necesario.
 
-3. Con cables trenzados positivos, desde la otra salida de bateria del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del [modulo step up](). 
+3. Con cables trenzados positivos, desde la otra salida de batería del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del [modulo step up](). 
 
 4. Cerca de los cables negativos anteriores, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [modulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
 
-5. Por ultimo, insertar las baterias para regular el modulo de step up [con un multimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
+5. Por último, insertar las baterías para regular el módulo de step up [con un multimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
 
 
 <img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
@@ -489,7 +489,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 - 3 Varillas M4 de 210 mm
 - 0,5 m de cable de 4 polos
 
-1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imagenes de ejemplo al final de la sección.
+1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imágenes de ejemplo al final de la sección.
 
 2. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
 
@@ -517,7 +517,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 9. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar en la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Sensor%20Raindrop.jpg) ajustando con los tornillos.
 
-### **Paso 4** - Integración Sistemas Electricos
+### **Paso 4** - Integración Sistemas Eléctricos
 
 Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
 
@@ -532,7 +532,7 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 - PCB Terminada
 - Interruptor
 - Prensa Cables
-- O'Ring 
+- O’ Ring 
 - Cable unipolar (Medición de carga de Batería)
 - 3 Tuercas M4
 
@@ -546,7 +546,7 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-3. Cortar pines del DHT a la mitad, soldar los cables del cable de 4 o 6 polos y pasar una pelicula de [laca](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) o un termocontraible para que la humedad no interfiera. Se deberia ver [asi](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
+3. Cortar pines del DHT a la mitad, soldar los cables del cable de 4 o 6 polos y pasar una película de [laca](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) o un termo contraíble para que la humedad no interfiera. Se debería ver [asi](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
 
 3. Pegar con la gotita el sensor DHT sobre la pieza en T, como se puede ver en esta [imagen](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg)
 
@@ -608,17 +608,17 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
 Para este paso se necesita:
 
-- Integracion Sistemas Electricos Terminado
-- [Tubo 4" Union entre 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202.jpg)
-- O'Ring 
+- Integración Sistemas Eléctricos Terminado
+- [Tubo 4" Unión entre 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202.jpg)
+- O’ Ring 
 - WD40
 - 3 tornillos M3
 - 3 tornillos M4
 
 1. De ser posible, agujerear huecos de 15 mm cada 45 mm alrededor de la base del tubo, en dos hileras con una distancia de 20 mm desde los centros.
 
-2. [Insertar O'Ring](Imagenes/Ensamble/Sistema%20General/Tapa%20con%20O'Ring.jpg) y pegar con ciano los topes como se observa en la imagen.
+2. [Insertar O'Ring](Imagenes/Ensamble/Sistema%20General/Tapa%20con%20O'Ring.jpg) y pegar con Ciano los topes como se observa en la imagen.
 
 3. [Colocar Tapa](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202%20con%20Tapa.jpg) sobre el tubo y atornillar.
 
-4. Insertar los sistemas electricos. Se recomienda aplicar WD40 sobre el O'Ring para que deslice mas facilmente. Al encajar, ajuste los tornillos sobre los topes para que quede sujetado.
+4. Insertar los sistemas eléctricos. Se recomienda aplicar WD40 sobre el O’ Ring para que deslice más fácilmente. Al encajar, ajuste los tornillos sobre los topes para que quede sujetado.
