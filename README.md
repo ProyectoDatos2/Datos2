@@ -517,7 +517,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 9. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar en la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Sensor%20Raindrop.jpg) ajustando con los tornillos.
 
-### **Paso 4** - Integración Final
+### **Paso 4** - Integración Sistemas Electricos
 
 Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
 
@@ -603,3 +603,22 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 6. Al terminar con el paso anterior, estando seguro de que cada conector se haya armado correctamente, se [colocan los separadores](Imagenes/Ensamble/Sistema%20General/Separadores%20Colocados.png) entre el PCB y la placa del sistema de autonomía, para que luego se inserte el sistema y se ajusten las tuercas correspondientes:
 
 <img align="center" width="800" height="500" src="Imagenes/Ensamble/Sistema General/Sistema Terminado 1.png">
+
+## **Paso 5** - Integración Final
+
+Para este paso se necesita:
+
+- Integracion Sistemas Electricos Terminado
+- [Tubo 4" Union entre 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202%20con%20Tapa.jpg)
+- O'Ring 
+- WD40
+- 3 tornillos M3
+- 3 tornillos M4
+
+1. De ser posible, agujerear huecos de 15 mm cada 45 mm alrededor de la base del tubo, en dos hileras con una distancia de 20 mm desde los centros.
+
+2. [Insertar O'Ring](Imagenes/Ensamble/Sistema%20General/Tapa%20con%20O'Ring.jpg) y pegar con ciano los topes como se observa en la imagen.
+
+3. [Colocar Tapa](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202%20con%20Tapa.jpg) sobre el tubo y atornillar.
+
+4. Insertar los sistemas electricos. Se recomienda aplicar WD40 sobre el O'Ring para que deslice mas facilmente. Al encajar, ajuste los tornillos sobre los topes para que quede sujetado.
