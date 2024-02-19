@@ -306,7 +306,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tubo</td>
+      <td>Tubo Union entre 2</td>
       <td align="center">4"</td>
       <td align="center">1</td>
     </tr>
