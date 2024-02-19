@@ -528,6 +528,11 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 - Conjunto UV
 - Conjunto Pluviómetro
 - PCB Terminada
+- Interruptor
+- Prensa Cables
+- O'Ring 
+- Cable unipolar (Medición de carga de Batería)
+- 3 Tuercas M4
 
 1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocación.jpg) de 60 mm y [atornillar la pieza en T](Imagenes/Ensamble/Sistema%20General/Colocación%20Pieza%20en%20T.jpg) en la Tapa Inferior.
 
