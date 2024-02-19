@@ -348,7 +348,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
   </tbody>
 </table>
 
-### Armado PCB
+## Armado PCB
 
 Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](Hardware/PCB_Datos2.pdf). Si no sabes cómo prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
 
@@ -374,7 +374,7 @@ Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así
 >[!IMPORTANT]
 >Hay que estar seguro de que no se hayan cometido errores durante el proceso, así que con un multímetro en modo continuidad se puede verificar que no haya cortocircuitos entre Vcc y GND, como también entre cada uno de los pines de los componentes.
 
-#### **Paso 1** - Componentes
+### **Paso 1** - Componentes
 
 Ten a mano todos los componentes necesarios para la placa. Se recomienda probar que cada uno de ellos esté funcionando correctamente. A continuación, se presenta una imagen con cada uno. (Faltan componentes, después le saco foto)
 
@@ -382,7 +382,7 @@ Ten a mano todos los componentes necesarios para la placa. Se recomienda probar 
 
 <img align="center" width="1200" height="550" src="Imagenes/PCB/Componentes Necesarios.jpg">
 
-#### **Paso 2** - Soldadura
+### **Paso 2** - Soldadura
 
 <img align="right" width="455" height="455" src="Imagenes/PCB/Pines Placa.png">
 
@@ -392,7 +392,7 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 <br><br><br><br><br><br><br><br><br>
 
-#### **Paso 3** - Integración
+### **Paso 3** - Integración
 
 <img align="right" width="500" height="455" src="Imagenes/PCB/Placa Terminada.png">
 
@@ -402,11 +402,11 @@ Lo único que queda ahora es cargar el [programa](Firmware/Estacion_v1.4_1hora/E
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-### Ensamblaje Sistema
+## Ensamblaje Sistema
 
 Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](Impresion%203D%20STL/) detalladas en este documento. <br><br><br>
 
-#### **Paso 1** - Preparar sistema de Autonomía
+### **Paso 1** - Preparar sistema de Autonomía
 
 <br><br>
 
@@ -450,7 +450,7 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se debería prender todo el sistema. 
 
-#### **Paso 2** - Preparar sensor UV
+### **Paso 2** - Preparar sensor UV
 
 
 Para la estructura sensor UV se necesita:
@@ -470,7 +470,7 @@ Para la estructura sensor UV se necesita:
 2. Luego, atornillar el sensor a la base del sensor como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
 3. Finalmente, ajustar los tornillos inferiores entre la base y el cuerpo, para luego pegar con la gotita el lente y asegurarlo con la tapa para que quede como la imagen a la derecha (deben coincidir las muescas de la tapa y el cuerpo).
 
-#### **Paso 3** - Preparar Pluviómetro
+### **Paso 3** - Preparar Pluviómetro
 
 <img align="right" width="400" height="500" src="Imagenes/Ensamble/Conjunto Pluviómetro/Terminado.png">
 
@@ -515,7 +515,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
   </thead>
 </table>
 
-#### **Paso 4** - Integración Final
+### **Paso 4** - Integración Final
 
 Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
 
