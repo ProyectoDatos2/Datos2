@@ -609,7 +609,7 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 Para este paso se necesita:
 
 - Integracion Sistemas Electricos Terminado
-- [Tubo 4" Union entre 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202%20con%20Tapa.jpg)
+- [Tubo 4" Union entre 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202.jpg)
 - O'Ring 
 - WD40
 - 3 tornillos M3
