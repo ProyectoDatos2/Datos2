@@ -132,6 +132,27 @@ Tiene las siguientes funciones y sensores:
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798">Interruptor</a></td>
     </tr>
+    <tr>
+      <td>Antena 3G</td>
+      <td align="center">1</td>
+      <td><a href="https://tienda.ityt.com.ar/antenas-gsm-2g-3g-4g/8259-antena-modem-2g-3g-4g-lte-exterior-cable-5m-sma-itytarg.html">Antena</a></td>
+    </tr>
+    <tr>
+      <td>Adaptador Pigtail</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1">Pigtail SMA a U.fl</a></td>
+    </tr>
+    <tr>
+      <td>Pila CR2032</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Chip Prepago</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae">Chip</a></td>
+    </tr>
+
   </tbody>
 </table>
 
@@ -342,6 +363,10 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
     </tr>
     <tr>
       <td>Silicona</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+          <tr>
+      <td>Pintura Latex</td>
       <td align="center">-</td>
       <td align="center">-</td>
     </tr>
