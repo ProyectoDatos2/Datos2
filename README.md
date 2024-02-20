@@ -512,6 +512,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 - 13 Tuercas M4
 - 4 Tornillos M4 x 16 mm
 - 3 Varillas M4 de 210 mm
+- 4 Tornillos M3
 - 0,5 m de cable de 4 polos
 
 1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imágenes de ejemplo al final de la sección.
@@ -540,7 +541,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
   </thead>
 </table>
 
-9. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar en la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Sensor%20Raindrop.jpg) ajustando con los tornillos.
+9. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar sobre la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Pintado%20y%20Colocacion%20Sensor%20Raindrop.png) pintando con la pintura latex por encima del sensor y ajustando con los tornillos M3.
 
 ### **Paso 4** - Integración Sistemas Eléctricos
 
