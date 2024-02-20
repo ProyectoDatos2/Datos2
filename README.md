@@ -458,11 +458,13 @@ El cableado debe ser al ras asi los cables no nos quedan incomodos al unir los s
 
 2. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, asi no molestan con el hueco para el tornillo. Pegarlo con la gotita al holder si es necesario.
 
-3. Con cables trenzados positivos, desde la otra salida de batería del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del [modulo step up](). 
+3. Con cables trenzados positivos, desde la otra salida de batería del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del modulo step up. 
 
 4. Cerca de los cables negativos anteriores, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [modulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
 
-5. Por último, insertar las baterías para regular el módulo de step up [con un multimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
+5. Para el conexionado del panel solar al sistema, se debe seguir la siguiente [imagen](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Panel%20Solar.jpg).
+
+6. Por último, insertar las baterías para regular el módulo de step up [con un multimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
 
 
 <img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
