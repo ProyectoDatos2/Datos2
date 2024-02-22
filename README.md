@@ -167,9 +167,13 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
 >- Líneas de pared: 3
 >- Capas de Superficie: 3
 
-
-<table align="center">
+<table align="left">
   <thead>
+    <tr>
+      <th colspan="3">Pluviometro</th>
+    </tr>
+  </thead>
+    <thead>
     <tr>
       <th>Pieza</th>
       <th>Peso [g]</th>
@@ -178,38 +182,65 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Tapa Superior Pluviómetro</td>
-      <td align="center">88</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Inferior Pluviómetro</td>
+      <td>Aro</td>
       <td align="center">31</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Topes</td>
-      <td align="center">5</td>
+      <td>Estanco A</td>
       <td align="center">3</td>
-    </tr>
-    <tr>
-      <td>Base Porta pila</td>
-      <td align="center">23</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Soporte Step-Up</td>
+      <td>Estanco B</td>
+      <td align="center">4</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Localizador</td>
+      <td align="center">24</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Ménsula</td>
+      <td align="center">6</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa</td>
+      <td align="center">13</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Totalizador Pluviómetro</td>
+      <td align="center">81</td>
+      <td align="center">1</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3">Telemetria</th>
+    </tr>
+  </thead>
+    <thead>
+    <tr>
+      <th>Pieza</th>
+      <th>Peso [g]</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Holder Cargador</td>
       <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Soporte Holder</td>
+      <td>Holder Step-Up</td>
       <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Soporte Telemetría</td>
-      <td align="center">38</td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -218,9 +249,83 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Separador PCB</td>
+      <td>Placa Porta pila</td>
+      <td align="center">23</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Separador</td>
       <td align="center">1</td>
       <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>Tapa Inferior</td>
+      <td align="center">31</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa Superior</td>
+      <td align="center">88</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Topes</td>
+      <td align="center">5</td>
+      <td align="center">3</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="right">
+  <thead>
+    <tr>
+      <th colspan="3">UV</th>
+    </tr>
+  </thead>
+    <thead>
+    <tr>
+      <th>Pieza</th>
+      <th>Peso [g]</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Base</td>
+      <td align="center">10</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Cuerpo</td>
+      <td align="center">44</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa</td>
+      <td align="center">2</td>
+      <td align="center">1</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3">Agarre</th>
+    </tr>
+  </thead>
+    <thead>
+    <tr>
+      <th>Pieza</th>
+      <th>Peso [g]</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fijacion</td>
+      <td align="center">38</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td>Mariposa</td>
@@ -228,64 +333,9 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">4</td>
     </tr>
     <tr>
-      <td>Aro Totalizador</td>
-      <td align="center">31</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Estanco A</td>
-      <td align="center">3</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Estanco B</td>
-      <td align="center">4</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Agarre Caño</td>
+      <td>Traba</td>
       <td align="center">38</td>
       <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Ménsula Sensor Lluvia</td>
-      <td align="center">6</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Localizador Base</td>
-      <td align="center">24</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Totalizador Pluviómetro</td>
-      <td align="center">81</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Protectora Viga</td>
-      <td align="center">13</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Cuerpo Sensor UV</td>
-      <td align="center">44</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Base UV</td>
-      <td align="center">10</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Protector de Lente</td>
-      <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><strong>TOTAL</strong></td>
-      <td align="center"><strong>481 (40% relleno)</strong></td>
-      <td align="center"><strong>28</strong></td>
     </tr>
   </tbody>
 </table>
