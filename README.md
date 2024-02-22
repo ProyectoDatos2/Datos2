@@ -167,9 +167,13 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
 >- Líneas de pared: 3
 >- Capas de Superficie: 3
 
-
-<table align="center">
+<table align="left">
   <thead>
+    <tr>
+      <th colspan="3">Pluviometro</th>
+    </tr>
+  </thead>
+    <thead>
     <tr>
       <th>Pieza</th>
       <th>Peso [g]</th>
@@ -178,83 +182,33 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Tapa Superior Pluviómetro</td>
-      <td align="center">88</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Inferior Pluviómetro</td>
+      <td>Aro</td>
       <td align="center">31</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Topes</td>
-      <td align="center">5</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td>Base Porta pila</td>
-      <td align="center">23</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Soporte Step-Up</td>
-      <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Soporte Holder</td>
-      <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Soporte Telemetría</td>
-      <td align="center">38</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Pieza en T</td>
-      <td align="center">11</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Separador PCB</td>
-      <td align="center">1</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td>Mariposa</td>
-      <td align="center">3</td>
-      <td align="center">4</td>
-    </tr>
-    <tr>
-      <td>Aro Totalizador</td>
-      <td align="center">31</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Estanco A</td>
+      <td>Estanco A</td>
       <td align="center">3</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa Estanco B</td>
+      <td>Estanco B</td>
       <td align="center">4</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Agarre Caño</td>
-      <td align="center">38</td>
+      <td>Localizador</td>
+      <td align="center">24</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Ménsula Sensor Lluvia</td>
+      <td>Ménsula</td>
       <td align="center">6</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Localizador Base</td>
-      <td align="center">24</td>
+      <td>Tapa</td>
+      <td align="center">13</td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -263,29 +217,145 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa Protectora Viga</td>
-      <td align="center">13</td>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">162</td>
+      <td align="center">7</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3">Telemetria</th>
+    </tr>
+  </thead>
+    <thead>
+    <tr>
+      <th>Pieza</th>
+      <th>Peso [g]</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Holder Cargador</td>
+      <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Cuerpo Sensor UV</td>
-      <td align="center">44</td>
+      <td>Holder Step-Up</td>
+      <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Base UV</td>
+      <td>Pieza en T</td>
+      <td align="center">11</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Placa Porta pila</td>
+      <td align="center">23</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Separador</td>
+      <td align="center">1</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>Tapa Inferior</td>
+      <td align="center">31</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa Superior</td>
+      <td align="center">88</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Topes</td>
+      <td align="center">5</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">175</td>
+      <td align="center">12</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="left">
+  <thead>
+    <tr>
+      <th colspan="3">UV</th>
+    </tr>
+  </thead>
+    <thead>
+    <tr>
+      <th>Pieza</th>
+      <th>Peso [g]</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Base</td>
       <td align="center">10</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Protector de Lente</td>
+      <td>Cuerpo</td>
+      <td align="center">44</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa</td>
       <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
       <td><strong>TOTAL</strong></td>
-      <td align="center"><strong>481 (40% relleno)</strong></td>
-      <td align="center"><strong>28</strong></td>
+      <td align="center">56</td>
+      <td align="center">3</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3">Agarre</th>
+    </tr>
+  </thead>
+    <thead>
+    <tr>
+      <th>Pieza</th>
+      <th>Peso [g]</th>
+      <th>Cantidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fijacion</td>
+      <td align="center">38</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Mariposa</td>
+      <td align="center">3</td>
+      <td align="center">4</td>
+    </tr>
+    <tr>
+      <td>Traba</td>
+      <td align="center">38</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">88</td>
+      <td align="center">6</td>
     </tr>
   </tbody>
 </table>
@@ -488,9 +558,9 @@ Para la estructura sensor UV se necesita:
 <img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
 
 
-- [Base Sensor UV](Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
-- [Cuerpo Sensor UV](Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
-- [Tapa Sensor UV](Impresion%203D%20STL/UV/Tapa%20sensor%20uv.STL)
+- [Base Sensor UV](Impresion%203D%20STL/UV/UV_Base.STL)
+- [Cuerpo Sensor UV](Impresion%203D%20STL/UV/UV_Cuerpo.STL)
+- [Tapa Sensor UV](Impresion%203D%20STL/UV/UV_Tapa.STL)
 - [Lente Sensor UV](Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
 - Sensor UV 8511
 - 1 m de cable de 4 polos
@@ -508,13 +578,13 @@ El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posi
 
 Para el conjunto del pluviómetro se precisa de lo siguiente:
 
-- [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
-- [Ménsula](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
-- [Tapa](Impresion%203D%20STL/Pluviómetro/Tapa%20version%20master.STL)
-- [Totalizador](Impresion%203D%20STL/Pluviómetro/Totalizador%20Pluviómetro%20Version%20Master.STL)
-- [Estanco A](Impresion%203D%20STL/Pluviómetro/estanco_a.STL)
-- [Estanco B](Impresion%203D%20STL/Pluviómetro/estanco%20b.STL)
-- [Localizador](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
+- [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Pluv_Aro.STL)
+- [Ménsula](Impresion%203D%20STL/Pluviómetro/Pluv_Mensula.STL)
+- [Tapa](Impresion%203D%20STL/Pluviómetro/Pluv_Tapa.STL)
+- [Totalizador](Impresion%203D%20STL/Pluviómetro/Pluv_Totalizador.STL)
+- [Estanco A](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20A.STL)
+- [Estanco B](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20B.STL)
+- [Localizador](Impresion%203D%20STL/Pluviómetro/Pluv_Localizador.STL)
 - Celda de Carga + Driver HX711
 - 13 Tuercas M4
 - 4 Tornillos M4 x 16 mm
