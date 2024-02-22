@@ -216,6 +216,11 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">81</td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">162</td>
+      <td align="center">7</td>
+    </tr>
   </tbody>
 </table>
 
@@ -273,6 +278,11 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">5</td>
       <td align="center">3</td>
     </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">175</td>
+      <td align="center">12</td>
+    </tr>
   </tbody>
 </table>
 
@@ -305,6 +315,11 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td align="center">2</td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">56</td>
+      <td align="center">3</td>
+    </tr>
   </tbody>
 </table>
 
@@ -336,6 +351,11 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
       <td>Traba</td>
       <td align="center">38</td>
       <td align="center">1</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">88</td>
+      <td align="center">6</td>
     </tr>
   </tbody>
 </table>
