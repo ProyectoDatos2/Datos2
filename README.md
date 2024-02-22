@@ -219,7 +219,7 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </tbody>
 </table>
 
-<table align="right">
+<table align="left">
   <thead>
     <tr>
       <th colspan="3">Telemetria</th>
@@ -308,7 +308,7 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </tbody>
 </table>
 
-<table align="right">
+<table align="left">
   <thead>
     <tr>
       <th colspan="3">Agarre</th>
