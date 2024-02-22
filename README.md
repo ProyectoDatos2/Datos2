@@ -508,13 +508,13 @@ El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posi
 
 Para el conjunto del pluviómetro se precisa de lo siguiente:
 
-- [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
-- [Ménsula](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
-- [Tapa](Impresion%203D%20STL/Pluviómetro/Tapa%20version%20master.STL)
-- [Totalizador](Impresion%203D%20STL/Pluviómetro/Totalizador%20Pluviómetro%20Version%20Master.STL)
-- [Estanco A](Impresion%203D%20STL/Pluviómetro/estanco_a.STL)
-- [Estanco B](Impresion%203D%20STL/Pluviómetro/estanco%20b.STL)
-- [Localizador](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
+- [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Pluv_Aro.STL)
+- [Ménsula](Impresion%203D%20STL/Pluviómetro/Pluv_Mensula.STL)
+- [Tapa](Impresion%203D%20STL/Pluviómetro/Pluv_Tapa.STL)
+- [Totalizador](Impresion%203D%20STL/Pluviómetro/Pluv_Totalizador.STL)
+- [Estanco A](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20A.STL)
+- [Estanco B](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20B.STL)
+- [Localizador](Impresion%203D%20STL/Pluviómetro/Pluv_Localizador.STL)
 - Celda de Carga + Driver HX711
 - 13 Tuercas M4
 - 4 Tornillos M4 x 16 mm
