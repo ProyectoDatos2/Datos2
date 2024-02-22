@@ -451,7 +451,7 @@ El sistema de autonomía está formado por:
 - Placa de Step Up 
 - Módulo de carga solar 
 
-Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20STL/Telemetría/Placa%20base%20portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](Impresion%203D%20STL/Telemetría/Holder%20step%20up.STL) y el módulo de carga solar esta sobre el [holder cargador](Impresion%203D%20STL/Telemetría/Holder%20cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
+Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20STL/Telemetría/Tel_Placa%20Portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](Impresion%203D%20STL/Telemetría/Tel_Holder%20Step%20Up.STL) y el módulo de carga solar esta sobre el [holder cargador](Impresion%203D%20STL/Telemetría/Tel_Holder%20Cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
 
 <br><br><br>
 
@@ -554,12 +554,11 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
 
-- [Tapa Inferior](Impresion%203D%20STL/Telemetría/Tapa%20telemetría%20inferior.STL)
-- [Separador PCB a Techo Pila](Impresion%203D%20STL/Telemetría/Separador%20PCB%20a%20techo%20pila.STL)
-- [Tapa con Encastre](Impresion%203D%20STL/Telemetría)
-- [Tope Interno](Impresion%203D%20STL/Telemetría/Tope%20interno%20telemetría.STL)
-- [Traba de Agarre](Impresion%203D%20STL/Telemetría/Traba%20de%20agarre%20telemetría.STL)
-- [Pieza en T](Impresion%203D%20STL/Telemetría/pieza%20T.STL)
+- [Tapa Inferior](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Inferior.STL)
+- [Separador PCB a Techo Pila](Impresion%203D%20STL/Telemetría/Tel_Separador.STL)
+- [Tapa Superior](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Superior.STL)
+- [Tope Interno](Impresion%203D%20STL/Telemetría/Tel_Tope.STL)
+- [Pieza en T](Impresion%203D%20STL/Telemetría/Tel_Pieza%20T.STL)
 - Conjunto UV
 - Conjunto Pluviómetro
 - PCB Terminada
