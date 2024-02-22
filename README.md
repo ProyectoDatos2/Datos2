@@ -488,9 +488,9 @@ Para la estructura sensor UV se necesita:
 <img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
 
 
-- [Base Sensor UV](Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
-- [Cuerpo Sensor UV](Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
-- [Tapa Sensor UV](Impresion%203D%20STL/UV/Tapa%20sensor%20uv.STL)
+- [Base Sensor UV](Impresion%203D%20STL/UV/UV_Base.STL)
+- [Cuerpo Sensor UV](Impresion%203D%20STL/UV/UV_Cuerpo.STL)
+- [Tapa Sensor UV](Impresion%203D%20STL/UV/UV_Tapa.STL)
 - [Lente Sensor UV](Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
 - Sensor UV 8511
 - 1 m de cable de 4 polos
