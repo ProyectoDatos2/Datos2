@@ -481,15 +481,18 @@ Using a soldering iron like [this one](https://www.mercadolibre.com.ar/soldador-
 
 <br><br><br><br><br><br><br><br><br>
 
-#### **Step 3** - Integration
+### **Step 3** - Integration
 
 <img align="right" width="500" height="455" src="Imagenes/PCB/Placa Terminada.png">
 
-<br><br><br><br><br>
+<br><br>
 
-The only thing left now is to upload the [program](Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) to the Arduino and insert each component (ensuring they work correctly) in their respective places:
+Now, the next step is to upload the [program](Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) to the Arduino and insert each component (ensuring they are functioning correctly) into their respective places. Place the chip in the modem and the battery in the RTC as shown [here](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
+Finally, attach the cable clamp to the antenna and, using the pigtail, connect it to the modem.
 
-<br><br><br><br><br><br><br><br><br><br><br>
+To [attach the cable clamp to the antenna](Imagenes/PCB/Prensa%20Cables%20para%20Antena.jpg), first drill the cable clamp with a 9.5mm drill bit (remove the pressing rubber). Then, where the cable clamp will be secured, wrap 6 or 7 turns of electrical tape around it to thicken the cable and ensure the proper functioning of the clamp.
+
+<br><br><br><br><br><br>
 
 ### System Assembly
 
