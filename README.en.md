@@ -434,9 +434,6 @@ The other line of work considered materials easily obtainable in a hardware stor
   </tbody>
 </table>
 
-
-Here are the translated instructions for PCB assembly:
-
 ## PCB Assembly
 
 To begin assembling the system, you need to prepare the PCB (Printed Circuit Board) with the following [circuit](Hardware/PCB_Datos2.pdf). If you're unsure how to prepare it, click [here](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
