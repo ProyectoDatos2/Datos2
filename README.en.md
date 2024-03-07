@@ -610,20 +610,31 @@ For the rain gauge assembly, you will need:
 
 8. Finally, connect the raindrop sensor and place it on the bracket by painting over the sensor with latex paint and tightening it with the M3 screws.
 
-#### **Step 4** - Final Integration
+Understood, here's the translation to English while maintaining the table format and other HTML elements:
 
-Having completed all the previous steps, all that remains is to assemble each of the individual systems. We will need the following parts:
+---
 
-- [Bottom Cover](3D%20Printing%20STL/Telemetry/Bottom%20telemetry%20cover.STL)
-- [PCB Separator to Battery Ceiling](3D%20Printing%20STL/Telemetry/PCB%20separator%20to%20battery%20ceiling.STL)
-- [Snap-on Cover](3D%20Printing%20STL/Telemetry)
-- [Internal Stopper](3D%20Printing%20STL/Telemetry/Internal%20stop%20telemetry.STL)
-- [Grip Lock](3D%20Printing%20STL/Telemetry/Grip%20lock%20telemetry.STL)
-- [T-piece](3D%20Printing%20STL/Telemetry/T-piece.STL)
+### **Step 4** - Integration of Electrical Systems
 
-1. To begin, place the O-Ring, [screw in the rods](Assembly%20Images/General%20System/O'Ring%20Placement.jpg) of 60 mm, and screw the T-piece onto the Bottom Cover [as shown](Assembly%20Images/General%20System/T-piece%20Placement.jpg).
+Having completed all the previous steps, all that remains is to join each of the individual systems. We will need the following parts:
 
-2. Insert the cable glands and the power switch as shown in the images below.
+- [Bottom Cover](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Inferior.STL)
+- [PCB Separator to Battery Roof](Impresion%203D%20STL/Telemetría/Tel_Separador.STL)
+- [Top Cover](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Superior.STL)
+- [Inner Stopper](Impresion%203D%20STL/Telemetría/Tel_Tope.STL)
+- [T-piece](Impresion%203D%20STL/Telemetría/Tel_Pieza%20T.STL)
+- UV Set
+- Rain Gauge Set
+- Finished PCB
+- Switch
+- Cable Press
+- O’ Ring 
+- Unipolar Cable (Battery charge measurement)
+- 3 M4 Nuts
+
+1. To begin, what we will do is place the O-Ring, [screw the rods](Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocación.jpg) of 60 mm, and [screw the T-piece](Imagenes/Ensamble/Sistema%20General/Colocación%20Pieza%20en%20T.jpg) onto the Bottom Cover.
+
+2. Insert the cable presses and the power switch as shown in the images below:
 
   <img align="left" width="380" height="380" src="Imagenes/Ensamble/Sistema General/Indicacion de In-Out.png">
 
@@ -631,20 +642,21 @@ Having completed all the previous steps, all that remains is to assemble each of
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-3. Glue the AHT sensor onto the T-piece using an adhesive, as shown in this [image](Assembly%20Images/General%20System/AHT%20Sensor%20Placement.jpg).
+3. Cut the pins of the DHT in half, solder the cables of the 4 or 6-pole cable, and pass a film of [lacquer](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) or heat-shrink tubing so that moisture does not interfere. It should look like [this](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
 
-4. After routing each of the respective cables through the cable glands, you need to add a cable from the normally open side of the switch, which is then connected to one of the Molex connectors that are connected to the PCB.
+4. Glue the DHT sensor onto the T-piece, as shown in this [image](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg).
 
-5. Assemble each of the Molex connectors (if you don't know how, [here](https://www.youtube.com/watch?v=tU62sOKsNWI) is a tutorial), and place the PCB in the following way:
+5. After passing each of the respective cables through the cable presses, you must add a cable from the normally open side of the switch, which is then connected to one of the molex connectors that are connected to the board.
+
+6. Assemble each of the molex connectors (if you don't know how, [here](https://www.youtube.com/watch?v=tU62sOKsNWI) is a tutorial), and place the PCB as follows:
 
   <img align="left" width="400" height="400" src="Imagenes/Ensamble/Sistema General/Molex 1.png">
 
   <img align="right" width="380" height="380" src="Imagenes/Ensamble/Sistema General/Molex 2.png">
 
-  
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
- Below, each of the positions of the Molex cables is detailed:
+  Below are detailed positions of the molex cable pins:
 
 <table align="center">
   <thead>
@@ -656,7 +668,7 @@ Having completed all the previous steps, all that remains is to assemble each of
   </thead>
   <tbody>
     <tr>
-      <td>Raindrop</td>
+      <td>Rain Totalizer</td>
       <td align="center">1<br>2<br>3<br>4</td>
       <td align="center">CLK<br>DOUT<br>GND<br>5 V</td>
     </tr>
@@ -666,24 +678,24 @@ Having completed all the previous steps, all that remains is to assemble each of
       <td align="center">GND<br>3v3<br>ENABLE<br>NC<br>OUT UV</td>
     </tr>
     <tr>
-      <td>Battery + Rain</td>
+      <td>Battery + Raindrop</td>
       <td align="center">10<br>11<br>12</td>
       <td align="center">V BAT (Cable from the Switch)<br>Rain Pin 1<br>Rain Pin 2</td>
     </tr>
     <tr>
-      <td>AHT</td>          
+      <td>DHT</td>
       <td align="center">1<br>2<br>3</td>
       <td align="center">OUT<br>GND<br>5 V</td>
     </tr>
     <tr>
-      <td>Power</td>
+      <td>Power Supply</td>
       <td align="center">1<br>2</td>
       <td align="center">5 V<br>GND</td>
     </tr>
   </tbody>
 </table>
 
-6. After completing the previous step, ensuring that each connector has been assembled correctly, [place the separators](Imagenes/Ensamble/Sistema%20General/Separadores%20Colocados.png) between the PCB and the autonomy system board. Then, insert the system and tighten the corresponding nuts:
-
+6. After completing the previous step, being sure that each connector has been assembled correctly, [place the separators](Imagenes/Ensamble/Sistema%20General/Separadores%20Colocados.png) between the PCB and the autonomy system board, so that the system can then be inserted and the corresponding nuts adjusted:
 
 <img align="center" width="800" height="500" src="Imagenes/Ensamble/Sistema General/Sistema Terminado 1.png">
+
