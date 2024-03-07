@@ -715,6 +715,6 @@ For this step you will need:
 
 4. Insert the electrical systems. It is recommended to apply WD40 on the O’ Ring to make it slide more easily. When fitting, tighten the screws on the stoppers to hold it in place.
 
-5. Screw the UV system opposite to the fitting with the support as shown in the [photo](Imagenes/Ensamble/Sistema%20General/Sistema%20General%20Terminado.jpg)
+5. Screw the UV system opposite to the fitting with the support as shown in the [photo.](Imagenes/Ensamble/Sistema%20General/Sistema%20General%20Terminado.jpg)
 
 To obtain the serial number, you need to send an email to support@omixom.com.
