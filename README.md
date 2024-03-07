@@ -722,3 +722,5 @@ Para este paso se necesita:
 3. [Colocar Tapa](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202%20con%20Tapa.jpg) sobre el tubo y atornillar.
 
 4. Insertar los sistemas eléctricos. Se recomienda aplicar WD40 sobre el O’ Ring para que deslice más fácilmente. Al encajar, ajuste los tornillos sobre los topes para que quede sujetado.
+
+5. Atornillar el sistema UV contrario al encaje con el soporte como se muestra en la [foto](Imagenes/Ensamble/Sistema%20General/Sistema%20General%20Terminado.jpg)
