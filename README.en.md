@@ -159,213 +159,275 @@ The SEHMA device is an affordable meteorological educational system, easy to ass
   </tbody>
 </table>
 
-### Estructura
+### Structure
 
-The structure was conceived based on two lines of work. The first one involves 3D printing, which allows for exact replication in each system.
+The structure of the system was designed with two main lines of work in mind. The first involves 3D printing, which allows for exact replication in each system.
 
->[!IMPORTANT]
->**Printing Configuration:**
->- Layer Height: 0,2 mm
->- Infill: 30% al 50%
->- Walls: 3
->- Surface: 3
-
-
-<table align="center">
+<table align="left">
   <thead>
     <tr>
-      <th>Parte [Part]</th>
-      <th>Peso [g]</th>
-      <th>Cantidad [Quantity]</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Tapa Superior [Top Cover]</td>
-      <td align="center">87</td>
-      <td align="center">1</td>
+      <th colspan="3">Pluviometer</th>
     </tr>
     <tr>
-      <td>Tapa Inferior [Bottom Cover]</td>
-      <td align="center">29</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Topes [Stoppers]</td>
-      <td align="center">6</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td>Base Porta pila [Battery Holder Base]</td>
-      <td align="center">22</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Soporte Step-Up [Step-Up Support]</td>
-      <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Soporte Holder [Holder Support]</td>
-      <td align="center">3</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Soporte Telemetría [Telemetry Support]</td>
-      <td align="center">37</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Pieza en T [T-Shaped Piece]</td>
-      <td align="center">11</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Separador PCB [PCB Separator]</td>
-      <td align="center">1</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td>Mariposa [Butterfly]</td>
-      <td align="center">3</td>
-      <td align="center">4</td>
-    </tr>
-    <tr>
-      <td>Aro Totalizador [Totalizing Ring]</td>
-      <td align="center">31</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Estanco A [Watertight Cover A]</td>
-      <td align="center">3</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Estanco B [Watertight Cover B]</td>
-      <td align="center">5</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Agarre Caño [Tube Grip]</td>
-      <td align="center">37</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Ménsula Sensor Lluvia [Rain Sensor Bracket]</td>
-      <td align="center">5</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Localizador Base [Base Locator]</td>
-      <td align="center">22</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Totalizador Pluviómetro [Rain Gauge Totalizer]</td>
-      <td align="center">82</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Protectora Viga [Beam Protective Cover]</td>
-      <td align="center">12</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Cuerpo Sensor UV [UV Sensor Body]</td>
-      <td align="center">43</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Inferior [Bottom Cover]</td>
-      <td align="center">9</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Protector de Lente [Lens Protector]</td>
-      <td align="center">3</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><strong>TOTAL</strong></td>
-      <td align="center"><strong>(hay que pesar) (-% relleno)</strong></td>
-      <td align="center"><strong>28</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-The other line of work that was considered is in materials that can be easily obtained at a hardware store, which in turn preserves the quality required for the system to function correctly.
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Product</th>
-      <th>Measure</th>
+      <th>Piece</th>
+      <th>Weight [g]</th>
       <th>Quantity</th>
     </tr>
   </thead>
   <tbody>
-   <tr>
-      <td>Six-Pole Cable</td>
-      <td align="center">3 m</td>
+    <tr>
+      <td>Aro</td>
+      <td align="center">31</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Philips or Flathead</td>
-      <td align="center">M3 x 8mm <br/> M3 x 30mm <br/> M4 x 16mm <br/> M4 x 75mm</td>
-      <td align="center">14 <br/> 1 <br/> 4 <br/> 3 <br/></td>
+      <td>Estanco A</td>
+      <td align="center">3</td>
+      <td align="center">1</td>
     </tr>
     <tr>
-      <td>Rod</td>
-      <td align="center">M4 x 210mm <br/> M4 x 60mm</td>
-      <td align="center">3 <br/> 3</td>
+      <td>Estanco B</td>
+      <td align="center">4</td>
+      <td align="center">1</td>
     </tr>
     <tr>
-      <td>Nut</td>
-      <td align="center">M4 <br/> M3 <br/> M6</td>
-      <td align="center">16 <br/> 1 <br/> 1</td>
+      <td>Localizador</td>
+      <td align="center">24</td>
+      <td align="center">1</td>
     </tr>
     <tr>
-      <td>Screw</td>
+      <td>Ménsula</td>
+      <td align="center">6</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa</td>
+      <td align="center">13</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Totalizador Pluviómetro</td>
+      <td align="center">81</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">162</td>
+      <td align="center">7</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3">Telemetry</th>
+    </tr>
+    <tr>
+      <th>Piece</th>
+      <th>Weight [g]</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Holder Cargador</td>
+      <td align="center">2</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Holder Step-Up</td>
+      <td align="center">2</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Pieza en T</td>
+      <td align="center">11</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Placa Porta pila</td>
+      <td align="center">23</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Separador</td>
+      <td align="center">1</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td>Tapa Inferior</td>
+      <td align="center">31</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa Superior</td>
+      <td align="center">88</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Topes</td>
+      <td align="center">5</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">175</td>
+      <td align="center">12</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="left">
+  <thead>
+    <tr>
+      <th colspan="3">UV</th>
+    </tr>
+    <tr>
+      <th>Piece</th>
+      <th>Weight [g]</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Base</td>
+      <td align="center">10</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Cuerpo</td>
+      <td align="center">44</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Tapa</td>
+      <td align="center">2</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">56</td>
+      <td align="center">3</td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3">Agarre</th>
+    </tr>
+    <tr>
+      <th>Piece</th>
+      <th>Weight [g]</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fijacion</td>
+      <td align="center">38</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Mariposa</td>
+      <td align="center">3</td>
+      <td align="center">4</td>
+    </tr>
+    <tr>
+      <td>Traba</td>
+      <td align="center">38</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td><strong>TOTAL</strong></td>
+      <td align="center">88</td>
+      <td align="center">6</td>
+    </tr>
+  </tbody>
+</table>
+
+The other line of work considered materials easily obtainable in a hardware store, ensuring the quality required for the system to function correctly.
+
+
+### Miscellaneous Materials
+<table align="center">
+  <thead>
+    <tr>
+      <th>Product</th>
+      <th>Measurement</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cable Cuatro Polos</td>
+      <td align="center">6 m</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>Philips o Punta Plana</td>
+      <td align="center">M3 x 8mm, M3 x 30mm, M4 x 16mm, M4 x 75mm</td>
+      <td align="center">14, 1, 4, 3</td>
+    </tr>
+    <tr>
+      <td>Varilla</td>
+      <td align="center">M4 x 210mm, M4 x 60mm</td>
+      <td align="center">3, 3</td>
+    </tr>
+    <tr>
+      <td>Tuerca</td>
+      <td align="center">M4, M3, M6</td>
+      <td align="center">16, 1, 1</td>
+    </tr>
+    <tr>
+      <td>Tornillo</td>
       <td align="center">M6 x 50mm</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tube</td>
+      <td>Tubo Unión entre 2</td>
       <td align="center">4"</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Steel Flange</td>
-      <td align="center">For 4"</td>
+      <td>Brida Acero</td>
+      <td align="center">Para 4"</td>
       <td align="center">3</td>
     </tr>
     <tr>
       <td>O' Ring</td>
-      <td align="center">W2.6 mm x D105 mm</td>
+      <td align="center">W2,6 mm x D105 mm</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td>Replacement Glass for Welding Lens</td>
-      <td align="center">Standard</td>
+      <td>Vidrio Repuesto Lente Soldadura</td>
+      <td align="center">Estándar</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Cable Clamp</td>
+      <td>Prensa Cable</td>
       <td align="center">1/2"</td>
-      <td align="center">5</td>
+      <td align="center">6</td>
     </tr>
     <tr>
-      <td>Rain Gauge</td>
+      <td>Pluviometer</td>
       <td align="center">-</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Cyanoacrylate</td>
+      <td>Ciano acrilato</td>
       <td align="center">-</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Silicone</td>
+      <td>Silicona</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td>Pintura Latex</td>
       <td align="center">-</td>
       <td align="center">-</td>
     </tr>
