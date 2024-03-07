@@ -699,3 +699,25 @@ Having completed all the previous steps, all that remains is to join each of the
 
 <img align="center" width="800" height="500" src="Imagenes/Ensamble/Sistema General/Sistema Terminado 1.png">
 
+## **Step 5** - Final Integration
+
+For this step you will need:
+
+- Completed Electrical Systems Integration
+- [4" Tube Union between 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202.jpg)
+- O’ Ring 
+- WD40
+- 3 M3 screws
+- 3 M4 screws
+
+1. If possible, drill 15 mm holes every 45 mm around the base of the tube, in two rows with a distance of 20 mm from the centers.
+
+2. [Insert O'Ring](Imagenes/Ensamble/Sistema%20General/Tapa%20con%20O'Ring.jpg) and glue the stoppers with Cyanide as shown in the image.
+
+3. [Place the Cover](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202%20con%20Tapa.jpg) on the tube and screw it.
+
+4. Insert the electrical systems. It is recommended to apply WD40 on the O’ Ring to make it slide more easily. When fitting, tighten the screws on the stoppers to hold it in place.
+
+5. Screw the UV system opposite to the fitting with the support as shown in the [photo](Imagenes/Ensamble/Sistema%20General/Sistema%20General%20Terminado.jpg)
+
+To obtain the serial number, you need to send an email to support@omixom.com.
