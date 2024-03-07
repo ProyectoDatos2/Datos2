@@ -463,9 +463,9 @@ Once the board is ready, after drilling with a 1mm drill bit, it should look lik
 >[!IMPORTANT]
 >It is important to ensure that no errors have occurred during the process. Using a multimeter in continuity mode, you can verify that there are no short circuits between Vcc and GND, as well as between each of the pins of the components.
 
-#### **Step 1** - Components
+### **Step 1** - Components
 
-Have all the necessary components on hand for the board. It is recommended to test that each of them is functioning correctly. Below is an image with each one.
+Have all the necessary components ready for the board. It is recommended to test each of them to ensure they are functioning correctly. Below is an image with each one.
 
 <br>
 
