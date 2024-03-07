@@ -494,11 +494,11 @@ To [attach the cable clamp to the antenna](Imagenes/PCB/Prensa%20Cables%20para%2
 
 <br><br><br><br><br><br>
 
-### System Assembly
+## System Assembly
 
-To begin assembling the system, you should have already finished the board and, in turn, have printed and purchased all the [pieces](Impresion%203D%20STL/) detailed in this document. <br><br><br>
+To begin assembling the system, you should have already completed the board, as well as printed and purchased all the [parts](Impresion%203D%20STL/) detailed in this document. <br><br><br>
 
-#### **Step 1** - Preparar sistema de Autonomía
+### **Step 1** - Prepare Autonomy System
 
 <br><br>
 
@@ -511,37 +511,38 @@ To begin assembling the system, you should have already finished the board and, 
 <br><br><br>
 
 The autonomy system consists of:
-
 - Two 18650 batteries
 - Step-Up board
 - Solar charging module
 
-The entire assembly is supported by the [battery holder base plate](Impresion%203D%20STL/Telemetría/Placa%20base%20portapilas.STL), and, in turn, the Step-Up board is on the [Step-Up holder](Impresion%203D%20STL/Telemetría/Holder%20step%20up.STL), while the solar charging module is on the [charger holder](Impresion%203D%20STL/Telemetría/Holder%20cargador.STL). The system, joined by super glue, should look like the image on the left.
+The entire assembly is held by the [base battery holder](Impresion%203D%20STL/Telemetría/Tel_Placa%20Portapilas.STL), with the Step-Up board placed on the [Step-Up holder](Impresion%203D%20STL/Telemetría/Tel_Holder%20Step%20Up.STL) and the solar charging module on the [charger holder](Impresion%203D%20STL/Telemetría/Tel_Holder%20Cargador.STL). The system, joined by adhesive, should resemble the image on the left.
 
 <br><br><br>
 
-The wiring must be flush so that the cables are not uncomfortable when connecting the systems with screws. To achieve this, follow these steps:
+The wiring should be flush so that the cables do not interfere when joining the systems with screws. To achieve this, follow these steps:
 
-1. First, [pass the positive cable](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) under the solar charger for later [splicing](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). All splices are insulated with heat-shrink material.
+1. First, [route the positive cable](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) beneath the solar charger and then [splice it](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). Insulate all splices with heat-shrink tubing.
 
-2. Next, [splice the negative cables](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) with that length, so they do not interfere with the screw hole. Glue them if necessary.
+2. Next, [splice the negative cables](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) to that length so they don't interfere with the screw hole. Adhere them to the holder if necessary.
 
-3. With positive braided cables, from the other battery output of the solar charger, lead them to the switch and back to the positive input of the [step-up module]().
+3. Using braided positive cables, connect from the other battery output of the solar charger to the switch and back to the positive input of the Step-Up module.
 
-4. Near the previous negative cables, from the same input as the previous step, lead the negative cable to the negative input of the [step-up module](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg).
+4. Near the previous negative cables, from the same input as the previous step, connect the negative cable to the negative input of the [Step-Up module](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg).
 
-5. Finally, insert the batteries to adjust the step-up module [using a multimeter](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
+5. For connecting the solar panel to the system, follow this [image](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Panel%20Solar.jpg).
+
+6. Finally, insert the batteries to adjust the Step-Up module [with a multimeter](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
 
 
 <img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
 
 <br><br><br><br><br>
 
-With the batteries already in place and from another perspective:
+With the batteries in place, from another perspective:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-The wiring of this system is quite simple; you just need to follow the attached [schematic](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg). When you switch it on, the entire system should power up. 
+The connection of this system is quite simple, just follow the [schematic](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) attached. When the switch is activated, the entire system should turn on.
 
 #### **Step 2** - Preparing UV sensor
 
