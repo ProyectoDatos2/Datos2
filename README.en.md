@@ -471,14 +471,13 @@ Have all the necessary components ready for the board. It is recommended to test
 
 <img align="center" width="1200" height="550" src="Imagenes/PCB/Componentes Necesarios.jpg">
 
-#### **Step 2** - Soldering
+### **Step 2** - Soldering
 
 <img align="right" width="455" height="455" src="Imagenes/PCB/Pines Placa.png">
 
 <br><br><br><br><br><br>
 
-
-With a soldering iron like [this one](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), proceed to solder the lower height components first, followed by the taller ones. If you're not familiar with soldering, [click here](https://www.youtube.com/watch?v=snM_ABjXGsw). The board should look like this when finished:
+Using a soldering iron like [this one](https://www.mercadolibre.com.ar/soldador-de-estano-30w-tipo-lapiz-punta-ceramica-zurich-profesional-para-electronica-y-electricidad/p/MLA24319090?pdp_filters=category:MLA455278#searchVariation=MLA24319090&position=2&search_layout=stack&type=product&tracking_id=12611802-c75b-4189-8a99-06b5f4bf6936), proceed to solder the lower height components first, followed by the taller ones. If you're unsure how to solder, click [here](https://www.youtube.com/watch?v=snM_ABjXGsw). The board should look like this when finished:
 
 <br><br><br><br><br><br><br><br><br>
 
