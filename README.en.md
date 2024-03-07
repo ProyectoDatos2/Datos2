@@ -544,20 +544,25 @@ With the batteries in place, from another perspective:
 
 The connection of this system is quite simple, just follow the [schematic](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) attached. When the switch is activated, the entire system should turn on.
 
-#### **Step 2** - Preparing UV sensor
+### **Step 2** - Prepare UV Sensor
 
-For the UV sensor structure, you'll need:
-- [UV Sensor Base](Impresion%203D%20STL/UV/Base%20sensor%20uv.STL)
-- [UV Sensor Body](Impresion%203D%20STL/UV/Cuerpo%20sensor%20uv.STL)
-- [UV Sensor Lid](Impresion%203D%20STL/UV/Tapa%20sensor%20uv.STL)
+For the UV sensor structure, you will need:
+
+<img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
+
+- [UV Sensor Base](Impresion%203D%20STL/UV/UV_Base.STL)
+- [UV Sensor Body](Impresion%203D%20STL/UV/UV_Cuerpo.STL)
+- [UV Sensor Cover](Impresion%203D%20STL/UV/UV_Tapa.STL)
 - [UV Sensor Lens](Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
 - UV Sensor 8511
+- 1 meter of 4-pole cable
+- 4 screws M3 x 8 mm
 
-1. First, screw or glue the sensor to the body as shown in this [image](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
-2. Next, place the lens on the body and adjust it by gluing the lid so that it looks like [this](Imagenes/Ensamble/Conjunto%20UV/Estructura%20Sensor%20UV.png) (the notches on the lid and body must align).
-3. Finally, screw the base onto the assembled body.
+1. First, solder the cables in the order indicated in this [image](Imagenes/Ensamble/Conjunto%20UV/Conexión%20sensor%20UV.png). Make sure the soldering is on the same side as the integrated circuit.
+2. Then, screw the sensor to the sensor base as seen in this [image](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
+3. Finally, tighten the lower screws between the base and the body, then glue the lens with adhesive and secure it with the cover so that it matches the notches of the cover and the body.
 
-(Imagen de todo el conjunto UV Completo).
+The assembly should look like [this](Imagenes/Ensamble/Conjunto%20UV/Posicion%20Sensor%20UV.jpg) when in the final system.
 
 #### **Step 3** - Prepare Rain Gauge
 
