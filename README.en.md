@@ -49,72 +49,74 @@ The SEHMA device is an affordable meteorological educational system, easy to ass
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e">MT3608</a></td>
     </tr>
     <tr>
-      <td>Driver Mosfet Module IRF520 24V 9A</td>
+      <td>IRF520 MOSFET Driver Module 24V 9A</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-732240129-modulo-driver-mosfet-irf520-24v-9a-controlador-arduino-pic-_JM#position=2&search_layout=grid&type=item&tracking_id=4971c395-66a7-4063-87e5-2919493828b4">IRF520</a></td>
     </tr>
     <tr>
-      <td>Raindrop Sensor</td>
+      <td>Raindrop Rain Sensor</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d">Raindrop</a></td>
     </tr>
     <tr>
-      <td>Real-Time Clock RTC DS1307 EEPROM 24C32</td>
+      <td>RTC DS1307 EEPROM 24C32</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom">DS1307</a></td>
     </tr>
     <tr>
-      <td>18650 Batteries Samsung 3000 mA</td>
+      <td>Baterías 18650 Samsung 3000 mA</td>
       <td align="center">2</td>
       <td><a href="https://www.mercadolibre.com.ar/pila-samsung-inr18650-30q-cilindrica-1-unidad/p/MLA16952001#searchVariation=MLA16952001&position=1&search_layout=stack&type=product&tracking_id=262fdb61-1f61-41e8-b207-c581f31320b5">Bateria Samsung</a></td>
     </tr>
     <tr>
-      <td>Battery Holder for 18650</td>
+      <td>Holder para baterías 18650</td>
       <td align="center">2</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Holder Baterías</a></td>
     </tr>
     <tr>
-      <td>Humidity and Temperature Sensor DHT22</td>
+      <td>Sensor de Humedad y Temperatura DHT22</td>
       <td align="center">1</td>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a">DHT22</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a">DHT22
+
+</a></td>
     </tr>
     <tr>
-      <td>Ultraviolet Light Sensor ML8511</td>
+      <td>ML8511 Ultraviolet Light Sensor</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8">ML8511</a></td>
     </tr>
     <tr>
-      <td>Mini A6 or SIM800L Modem for Telecommunications</td>
+      <td>A6 Mini Modem or SIM800L for Telecommunications</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563">A6</a> | <a href="https://articulo.mercadolibre.com.ar/MLA-1308505021-modulo-celular-gsm-gprs-sim800l-sim800-domotica-arduino-ubot-_JM#position=1&search_layout=grid&type=item&tracking_id=351d4014-7b06-4f31-87f1-ae97d6f6fd73">SIM800L</a></td>
     </tr>
     <tr>
-      <td>Solar Charger CN3791</td>
+      <td>CN3791 Solar Charger</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a">CN3791</a></td>
     </tr>
     <tr>
-      <td>10 kg Load Cell + HX711 Driver</td>
+      <td>10 Kg Load Cell + HX711 Driver</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef">HX711</a></td>
     </tr>
       <tr>
-      <td>Kit Molex x 2 Pins</td>
+      <td>Molex Kit x 2 Pins</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1530414156-kit-x-30u-2-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=3&search_layout=grid&type=item&tracking_id=feedb67d-d999-4e10-83dc-8528ae580bf2">Kit Molex x 2</a></td>
     </tr>
      <tr>
-      <td>Kit Molex x 3 Pins</td>
+      <td>Molex Kit x 3 Pins</td>
       <td align="center">3</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1547547796-kit-x-30u-3-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=51&search_layout=stack&type=item&tracking_id=4f2edef0-6c5c-400e-8229-65fce00075ec">Kit Molex x 3</a></td>
     </tr>
      <tr>
-      <td>Kit Molex x 4 Pins</td>
+      <td>Molex Kit x 4 Pins</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1544835568-kit-x-30u-4-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=1&search_layout=grid&type=item&tracking_id=8ec89334-1835-4339-9225-2a076de11fa3">Kit Molex x 4</a></td>
     </tr>
      <tr>
-      <td>Kit Molex x 5 Pins</td>
+      <td>Molex Kit x 5 Pins</td>
       <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1548402732-kit-x-30u-5-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=2&search_layout=grid&type=item&tracking_id=0542de33-9c89-4d24-a9b2-bdc8694cdf21">Kit Molex x 5</a></td>
     </tr>
@@ -124,10 +126,36 @@ The SEHMA device is an affordable meteorological educational system, easy to ass
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-841986521-10-x-resistencias-10k-ohm-1-14w-metal-film-_JM#position=8&search_layout=grid&type=item&tracking_id=424a52a9-8c38-42ca-8fbc-487ac3932614">Resistencias</a></td>
     </tr>
     <tr>
-      <td>In Pin Strip</td>
+      <td>Female Pin Strip</td>
       <td align="center">2</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-879655442-tira-de-40-pines-hembra-paso-254mm-recta-1-fila-_JM#position=4&search_layout=grid&type=item&tracking_id=f194ae8c-4a52-457f-882d-bc9aa2cb7714">Tira Pines Hembra</a></td>
     </tr>
+    <tr>
+      <td>On/Off Switch</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798">Interruptor</a></td>
+    </tr>
+    <tr>
+      <td>3G Antenna</td>
+      <td align="center">1</td>
+      <td><a href="https://tienda.ityt.com.ar/antenas-gsm-2g-3g-4g/8259-antena-modem-2g-3g-4g-lte-exterior-cable-5m-sma-itytarg.html">Antena</a></td>
+    </tr>
+    <tr>
+      <td>Pigtail Adapter</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1">Pigtail SMA a U.fl</a></td>
+    </tr>
+    <tr>
+      <td>CR2032 Battery</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec">Pila</a></td>
+    </tr>
+    <tr>
+      <td>Prepaid Chip</td>
+      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae">Chip</a></td>
+    </tr>
+
   </tbody>
 </table>
 
