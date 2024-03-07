@@ -564,41 +564,39 @@ For the UV sensor structure, you will need:
 
 The assembly should look like [this](Imagenes/Ensamble/Conjunto%20UV/Posicion%20Sensor%20UV.jpg) when in the final system.
 
-#### **Step 3** - Prepare Rain Gauge
+### **Step 3** - Prepare Rain Gauge
 
 <img align="right" width="400" height="500" src="Imagenes/Ensamble/Conjunto Pluviómetro/Terminado.png">
 
-For the rain gauge assembly, you will need the following:
+For the rain gauge assembly, you will need:
 
-- [Totalizing Ring](Impresion%203D%20STL/Pluviómetro/Aro%20totalizador%20sensor%20lluvia.STL)
-- [Bracket](Impresion%203D%20STL/Pluviómetro/Mensula%201%20sensor%20de%20lluvia.STL)
-- [Cover](Impresion%203D%20STL/Pluviómetro/Tapa%20version%20master.STL)
-- [Totalizer](Impresion%203D%20STL/Pluviómetro/Totalizador%20Pluviómetro%20Version%20Master.STL)
-- [Waterproof A](Impresion%203D%20STL/Pluviómetro/estanco_a.STL)
-- [Waterproof B](Impresion%203D%20STL/Pluviómetro/estanco%20b.STL)
-- [Locator](Impresion%203D%20STL/Pluviómetro/localizador%20vaso%20pluviómetro.STL)
+- [Totalizer Ring](Impresion%203D%20STL/Pluviómetro/Pluv_Aro.STL)
+- [Bracket](Impresion%203D%20STL/Pluviómetro/Pluv_Mensula.STL)
+- [Cover](Impresion%203D%20STL/Pluviómetro/Pluv_Tapa.STL)
+- [Totalizer](Impresion%203D%20STL/Pluviómetro/Pluv_Totalizador.STL)
+- [Seal A](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20A.STL)
+- [Seal B](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20B.STL)
+- [Locator](Impresion%203D%20STL/Pluviómetro/Pluv_Localizador.STL)
 - Load Cell + HX711 Driver
-- 13 M4 Nuts
-- 4 M4 Screws
-- 3 M4 Rods, 210 mm each
-- 0.5 m of 4 or 6-pole cable
+- 13 M4 nuts
+- 4 M4 x 16 mm screws
+- 3 M4 rods of 210 mm
+- 4 M3 screws
+- 0.5 meters of 4-pole cable
 
-1. Insert the 210 mm rods into the totalizing ring, ensuring that the ring is level with the ground as shown in the example images at the end of the section.
+1. Insert the 210 mm rods into the totalizer ring, ensuring that the ring is level with the ground as shown in the example images at the end of the section.
 
-2. On the notch side of the ring, [insert the bracket](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), also secured by another screw.
+2. Insert the bracket from the notch side into the totalizer, also secured by another nut.
 
-3. Place the [washers and screws](Imagenes/Ensamble/Conjunto%20Pluviómetro/Arandelas%20Localizador.jpg) and [screw](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientacion%20Localizador.jpg) them on the side opposite the arrow of the weight of the load cell.
+3. Place the washers and screws and screw them onto the opposite side of the weight arrow of the load cell.
 
-4. On the totalizer, place the load cell with the [correct orientation](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientación%20Celda%20de%20Carga.jpg) and [screw it from below](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg).
+4. Place the load cell on the totalizer with the correct orientation and screw it from below.
 
-5. Connect the [load cell to the driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) and the input/output cables on the other side.
+5. Connect the load cell to the driver and the input/output cables on the other side (remember how each cable was connected because this will be sealed later).
 
-6. Place the driver [inside waterproof A and B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) and [position it next to the cell](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) and then [place the cover over both](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
+6. Place the driver inside seals A and B and position it next to the load cell, then place the cover over both.
 
-7. After this, ensure there are no "phantom" weights in the cell, so use the Arduino to adjust the tare of the cell.
-
-8. Almost done, first insert the lock nuts on the rods, then place the ring on the totalizer, also adjusting nuts from the [opposite side](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) so that the rods are flush with the totalizer floor, keeping the ring level. Recheck the ring level and make necessary adjustments if not leveled.
-
+7. Insert the counter nuts on the rods first, then place the ring on the totalizer, also adjusting nuts from the opposite side, and ensuring that the rods are flush with the totalizer floor so that the ring is level. Recheck the level of the ring and make necessary adjustments if it is not level.
 
 <table align="center">
   <thead>
@@ -609,6 +607,8 @@ For the rain gauge assembly, you will need the following:
     </tr>
   </thead>
 </table>
+
+8. Finally, connect the raindrop sensor and place it on the bracket by painting over the sensor with latex paint and tightening it with the M3 screws.
 
 #### **Step 4** - Final Integration
 
