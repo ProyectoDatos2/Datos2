@@ -471,7 +471,7 @@ Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así
 
 ### **Paso 1** - Componentes
 
-Ten a mano todos los componentes necesarios para la placa. Se recomienda probar que cada uno de ellos esté funcionando correctamente. A continuación, se presenta una imagen con cada uno. (Faltan componentes, después le saco foto)
+Ten a mano todos los componentes necesarios para la placa. Se recomienda probar que cada uno de ellos esté funcionando correctamente. A continuación, se presenta una imagen con cada uno.
 
 <br>
 
