@@ -445,7 +445,7 @@ La otra línea de trabajo sobre la que se pensó es en materiales que se puedan 
 
 ## Armado PCB
 
-Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](Hardware/PCB_Datos2.pdf). Si no sabes cómo prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
+Para comenzar a armar el sistema, hay que preparar el PCB (Placa de Circuito Impreso) con el siguiente [circuito](SEHMA/Arduino_Nano+A6mini_GPRS/Hardware/PCB_Datos2.pdf). Si no sabes cómo prepararla, haz clic [aquí](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36).
 
 Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así:
 
