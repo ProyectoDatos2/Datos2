@@ -578,7 +578,7 @@ For the rain gauge assembly, you will need:
 - 13 M4 nuts
 - 4 M4 x 16 mm screws
 - 3 M4 rods of 210 mm
-- 4 M3 screws
+- 4 M3 x 8 mm screws 
 - 0.5 meters of 4-pole cable
 
 1. Insert the 210 mm rods into the totalizer ring, ensuring that the ring is level with the ground as shown in the example images at the end of the section.

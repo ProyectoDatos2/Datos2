@@ -589,7 +589,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 - 13 Tuercas M4
 - 4 Tornillos M4 x 16 mm
 - 3 Varillas M4 de 210 mm
-- 4 Tornillos M3
+- 4 Tornillos M3 x 8 mm
 - 0,5 m de cable de 4 polos
 
 1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imágenes de ejemplo al final de la sección.
