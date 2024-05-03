@@ -493,7 +493,7 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 <br><br>
 
-Ahora lo que hay que hacer es cargar el [programa](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la Arduino. Para instalar las librerias, sigue los pasos detallados en este [tutorial](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) para instalar [librerias](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias/) .zip. Insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar. Colocar el chip en el modem y [pila en el RTC](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
+Ahora lo que hay que hacer es cargar el [programa](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la Arduino. Para instalar las librerias, sigue los pasos detallados en este [tutorial](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) para importar [librerias](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias/) .zip. Insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar. Colocar el chip en el modem y [pila en el RTC](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
 Finalmente, colocar el prensa cables en la antena y, a travez del pigtail, conectarlo al modem.
 
 Para [colocar el prensa cables en la antena](Imagenes/PCB/Prensa%20Cables%20para%20Antena.jpg), hay que primero perforar el prensa cables con una mecha de 9,5 mm (sacarle la goma prensadora). Luego donde se sujetará el prensa cables, dar 6 o 7 vueltas de cinta aislante para engrosar el cable y asegurar el correcto funcionamiento del prensador.
