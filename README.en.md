@@ -484,7 +484,7 @@ Using a soldering iron like [this one](https://www.mercadolibre.com.ar/soldador-
 
 <br><br>
 
-Now, the next step is to upload the [program](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) to the Arduino and insert each component (ensuring they are functioning correctly) into their respective places. Place the chip in the modem and the battery in the RTC as shown [here](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
+Now, the next step is to upload the [program](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) to the Arduino. To install the libraries, follow the steps in this [tutorial](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) for installing .zip [libraries](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias/). Insert each component (ensuring they are functioning correctly) into their respective places. Place the chip in the modem and the battery in the RTC as shown [here](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
 Finally, attach the cable clamp to the antenna and, using the pigtail, connect it to the modem.
 
 To [attach the cable clamp to the antenna](Imagenes/PCB/Prensa%20Cables%20para%20Antena.jpg), first drill the cable clamp with a 9.5mm drill bit (remove the pressing rubber). Then, where the cable clamp will be secured, wrap 6 or 7 turns of electrical tape around it to thicken the cable and ensure the proper functioning of the clamp.
