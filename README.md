@@ -550,9 +550,11 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se debería prender todo el sistema. 
 
-### **Paso 2** - Preparar sensor UV
 
 <img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
+
+### **Paso 2** - Preparar sensor UV
+
 
 1. Primero se debe soldar los cables en el orden indicado en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Conexión%20sensor%20UV.png). Asegurarse de que la soldadura sea del mismo lado que el integrado.
 2. Luego, atornillar el sensor a la base del sensor como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
@@ -564,21 +566,6 @@ El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posi
 
 <img align="right" width="400" height="500" src="Imagenes/Ensamble/Conjunto Pluviómetro/Terminado.png">
 
-Para el conjunto del pluviómetro se precisa de lo siguiente:
-
-- [Aro Totalizador](Impresion%203D%20STL/Pluviómetro/Pluv_Aro.STL)
-- [Ménsula](Impresion%203D%20STL/Pluviómetro/Pluv_Mensula.STL)
-- [Tapa](Impresion%203D%20STL/Pluviómetro/Pluv_Tapa.STL)
-- [Totalizador](Impresion%203D%20STL/Pluviómetro/Pluv_Totalizador.STL)
-- [Estanco A](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20A.STL)
-- [Estanco B](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20B.STL)
-- [Localizador](Impresion%203D%20STL/Pluviómetro/Pluv_Localizador.STL)
-- Celda de Carga + Driver HX711
-- 13 Tuercas M4
-- 4 Tornillos M4 x 16 mm
-- 3 Varillas M4 de 210 mm
-- 4 Tornillos M3 x 8 mm
-- 0,5 m de cable de 4 polos
 
 1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imágenes de ejemplo al final de la sección.
 
