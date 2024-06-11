@@ -552,19 +552,7 @@ El conexionado de este sistema es bastante simple, solo hay que seguir el [esque
 
 ### **Paso 2** - Preparar sensor UV
 
-
-Para la estructura sensor UV se necesita:
-
 <img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
-
-
-- [Base Sensor UV](Impresion%203D%20STL/UV/UV_Base.STL)
-- [Cuerpo Sensor UV](Impresion%203D%20STL/UV/UV_Cuerpo.STL)
-- [Tapa Sensor UV](Impresion%203D%20STL/UV/UV_Tapa.STL)
-- [Lente Sensor UV](Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
-- Sensor UV 8511
-- 1 m de cable de 4 polos
-- 4 tornillos M3 x 8 mm
 
 1. Primero se debe soldar los cables en el orden indicado en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Conexión%20sensor%20UV.png). Asegurarse de que la soldadura sea del mismo lado que el integrado.
 2. Luego, atornillar el sensor a la base del sensor como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
@@ -620,21 +608,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 ### **Paso 4** - Integración Sistemas Eléctricos
 
-Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
-
-- [Tapa Inferior](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Inferior.STL)
-- [Separador PCB a Techo Pila](Impresion%203D%20STL/Telemetría/Tel_Separador.STL)
-- [Tapa Superior](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Superior.STL)
-- [Tope Interno](Impresion%203D%20STL/Telemetría/Tel_Tope.STL)
-- [Pieza en T](Impresion%203D%20STL/Telemetría/Tel_Pieza%20T.STL)
-- Conjunto UV
-- Conjunto Pluviómetro
-- PCB Terminada
-- Interruptor
-- Prensa Cables
-- O’ Ring 
-- Cable unipolar (Medición de carga de Batería)
-- 3 Tuercas M4
+Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales.
 
 1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocación.jpg) de 60 mm y [atornillar la pieza en T](Imagenes/Ensamble/Sistema%20General/Colocación%20Pieza%20en%20T.jpg) en la Tapa Inferior.
 
@@ -705,15 +679,6 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 <img align="center" width="800" height="500" src="Imagenes/Ensamble/Sistema General/Sistema Terminado 1.png">
 
 ## **Paso 5** - Integración Final
-
-Para este paso se necesita:
-
-- Integración Sistemas Eléctricos Terminado
-- [Tubo 4" Unión entre 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202.jpg)
-- O’ Ring 
-- WD40
-- 3 tornillos M3
-- 3 tornillos M4
 
 1. De ser posible, agujerear huecos de 15 mm cada 45 mm alrededor de la base del tubo, en dos hileras con una distancia de 20 mm desde los centros.
 
