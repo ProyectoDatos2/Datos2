@@ -548,10 +548,14 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 ### **Paso 2** - Preparar sensor UV
 
-
 1. Primero se debe soldar los cables en el orden indicado en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Conexión%20sensor%20UV.png). Asegurarse de que la soldadura sea del mismo lado que el integrado.
+
 2. Luego, atornillar el sensor a la base del sensor como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
-3. Finalmente, ajustar los tornillos inferiores entre la base y el cuerpo, para luego pegar con la gotita el lente y asegurarlo con la tapa para que quede como la imagen a la derecha (deben coincidir las muescas de la tapa y el cuerpo).
+
+3. Pasar el cable de 4 polos por el hueco de la base y ajustar los tornillos inferiores entre la base y el cuerpo, 
+
+4. Finalmente, pegar con la gotita el lente y asegurarlo con la tapa para que quede como la imagen a la derecha (deben coincidir las muescas de la tapa y el cuerpo).
+
 
 El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posicion%20Sensor%20UV.jpg) al estar en el sistema final.
 
