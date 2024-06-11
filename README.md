@@ -493,8 +493,8 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 <br><br>
 
-Ahora lo que hay que hacer es cargar el [programa](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la Arduino. Para instalar las librerias, sigue los pasos detallados en este [tutorial](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) para importar [librerias](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias/) .zip. Insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar. Colocar el chip en el modem y [pila en el RTC](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
-Finalmente, hay que [colocar el prensa cables en la antena](Imagenes/PCB/Prensa%20Cables%20para%20Antena.jpg). Primero perforar el prensa cables para agrandar su agujero con una mecha de 9,5 mm (sacarle la goma prensadora previo a la perforacion). Luego donde se sujetará el prensa cables, dar 6 o 7 vueltas de cinta aislante para engrosar el cable y asegurar el correcto funcionamiento del prensador. Al armar el sistema se conecta el cable de la antena a un adaptador pigtail para poder conectarlo al conector UFL del modem. 
+Ahora lo que hay que hacer es cargar el [programa](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la Arduino. Para instalar las librerías, sigue los pasos detallados en este [tutorial](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) para importar [librerias](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias/) .zip. Insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar. Colocar el chip en el modem y [pila en el RTC](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
+Finalmente, hay que [colocar el prensa cables en la antena](Imagenes/PCB/Prensa%20Cables%20para%20Antena.jpg). Primero perforar el prensa cables para agrandar su agujero con una mecha de 9,5 mm (sacarle la goma prensadora previo a la perforación). Luego donde se sujetará el prensa cables, dar 6 o 7 vueltas de cinta aislante para engrosar el cable y asegurar el correcto funcionamiento del prensador. Al armar el sistema se conecta el cable de la antena a un adaptador pigtail para poder conectarlo al conector UFL del modem. 
 
 <br><br><br><br><br><br>
 
@@ -523,18 +523,17 @@ Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20
 
 <br><br><br>
 
-El cableado detallado por el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) debe ser al ras asi los cables no nos quedan incomodos al unir los sistemas con tornillos y aislar todos los empalmes con un aislante termo-contraíble. Los pasos del cableado son: 
+El cableado detallado por el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) debe ser al ras así los cables no nos quedan incomodos al unir los sistemas con tornillos y aislar todos los empalmes con un aislante termo-contraíble. Los pasos del cableado son: 
 
-1. [Pasar los cables positivos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) de las placas portapilas por el lado del cargador solar para luego [empalmarlo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg) con uno de los molex que viene con el cargador. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, asi no molestan con el hueco para el tornillo. Pegar los cables con la gotita al holder si es necesario y conectar este molex a la salida superior del cargador.
+1. [Pasar los cables positivos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) de las placas porta pilas por el lado del cargador solar para luego [empalmarlo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg) con uno de los molex que viene con el cargador. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, así no molestan con el hueco para el tornillo. Pegar los cables con la gotita al holder si es necesario y conectar este molex a la salida superior del cargador.
 
-3. Llevar el cable positivo de la salida inferior del cargador al interruptor, empalmandolo con un par trenzado de cables de 20 cm y traerlo devuelta tambien con un par trenzado a la entrada del modulo step up. El negativo de esta salida del cargador se conecta directamente a la entrada del step up como se visualiza [aqui](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
+3. Llevar el cable positivo de la salida inferior del cargador al interruptor, empalmándolo con un par trenzado de cables de 20 cm y traerlo devuelta también con un par trenzado a la entrada del módulo step up. El negativo de esta salida del cargador se conecta directamente a la entrada del step up como se visualiza [aqui](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
 
-4. Cerca de los cables negativos del paso 1, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [modulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
+4. Cerca de los cables negativos del paso 1, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [módulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
 
 5. Para el conexionado del panel solar al sistema, se debe seguir la siguiente [imagen](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Panel%20Solar.jpg).
 
 6. Por último, insertar las baterías y accionar el interruptor para regular el módulo de step up [con un voltimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
-
 
 <img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
 
@@ -556,17 +555,15 @@ Con las pilas ya puestas y desde otra perspectiva:
 
 4. Finalmente, pegar con la gotita el lente y asegurarlo con la tapa para que quede como la imagen a la derecha (deben coincidir las muescas de la tapa y el cuerpo).
 
-
-El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posicion%20Sensor%20UV.jpg) al estar en el sistema final.
+El conjunto se debería ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posicion%20Sensor%20UV.jpg) al estar en el sistema final.
 
 ### **Paso 3** - Preparar Pluviómetro
 
 <img align="right" width="400" height="500" src="Imagenes/Ensamble/Conjunto Pluviómetro/Terminado.png">
 
-
 1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imágenes de ejemplo al final de la sección.
 
-2. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
+2. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada también por otra rosca.
 
 3. Se colocan las [arandelas y tornillos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Arandelas%20Localizador.jpg) y se [atornilla](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientacion%20Localizador.jpg) sobre la cara contraria a la flecha del peso de la celda de carga
 
@@ -576,7 +573,7 @@ El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posi
 
 6. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
 
-7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, asi queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no esté a nivel.
+7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando también roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, así queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no esté a nivel.
 
 <table align="center">
   <thead>
@@ -588,7 +585,7 @@ El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posi
   </thead>
 </table>
 
-8. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar sobre la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Pintado%20y%20Colocacion%20Sensor%20Raindrop.png) pintando con la pintura latex por encima del sensor y ajustando con los tornillos M3.
+8. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar sobre la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Pintado%20y%20Colocacion%20Sensor%20Raindrop.png) pintando con la pintura látex por encima del sensor y ajustando con los tornillos M3.
 
 ### **Paso 4** - Integración Sistemas Eléctricos
 
@@ -604,7 +601,7 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-3. Cortar pines del DHT a la mitad, soldar los cables del cable de 4 o 6 polos y pasar una película de [laca](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) o un termo contraíble para que la humedad no interfiera. Se debería ver [asi](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
+3. Cortar pines del DHT a la mitad, soldar los cables del cable de 4 o 6 polos y pasar una película de [laca](https://www.google.com/search?q=laca+delta+electroquimica&tbm=isch&ved=2ahUKEwjtp9-atLKDAxXlhJUCHatYAYcQ2-cCegQIABAA&oq=laca+delta+electroquimica&gs_lcp=CgNpbWcQAzoECCMQJzoKCAAQgAQQigUQQzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGDoJCAAQgAQQGBAKUL8MWIopYO4paABwAHgAgAFniAGfD5IBBDIwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=AY-NZa2jG-WJ1sQPq7GFuAg&bih=945&biw=1920&rlz=1C1ALOY_esAR997AR998#imgrc=js21fCIKTrFWCM) o un termo contraíble para que la humedad no interfiera. Se debería ver [así](Imagenes/Ensamble/Sistema%20General/Preparado%20AHT.jpg).
 
 3. Pegar con la gotita el sensor DHT sobre la pieza en T, como se puede ver en esta [imagen](Imagenes/Ensamble/Sistema%20General/Colocación%20Sensor%20AHT.jpg)
 
@@ -674,4 +671,4 @@ Ya teniendo completados todos los pasos anteriores, lo único que queda es unir 
 
 5. Atornillar el sistema UV contrario al encaje con el soporte como se muestra en la [foto.](Imagenes/Ensamble/Sistema%20General/Sistema%20General%20Terminado.jpg)
 
-Para conseguir el numero serial, hay que enviar un correo electronico a soporte@omixom.com.
+Para conseguir el numero serial, hay que enviar un correo electrónico a soporte@omixom.com.
