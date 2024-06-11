@@ -529,7 +529,7 @@ El cableado debe ser al ras asi los cables no nos quedan incomodos al unir los s
 
 2. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, asi no molestan con el hueco para el tornillo. Pegarlo con la gotita al holder si es necesario.
 
-3. Con cables trenzados positivos, desde la otra salida de batería del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del modulo step up. 
+3. Con cables trenzados positivos de 20 cm de largo, desde la otra salida de batería del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del modulo step up. 
 
 4. Cerca de los cables negativos anteriores, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [modulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
 
