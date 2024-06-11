@@ -182,37 +182,37 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Aro</td>
+      <td><a href = [](Impresion%203D%20STL/Pluviómetro/Pluv_Aro.STL)>ARO</a></td>
       <td align="center">31</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Estanco A</td>
+      <td><a href = [](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20A.STL)>ESTANCO A</a></td>
       <td align="center">3</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Estanco B</td>
+      <td><a href = [](Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20B.STL)>ESTANCO B</a></td>
       <td align="center">4</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Localizador</td>
+      <td><a href = [](Impresion%203D%20STL/Pluviómetro/Pluv_Localizador.STL)>LOCALIZADOR</a></td>
       <td align="center">24</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Ménsula</td>
+      <td><a href = [](Impresion%203D%20STL/Pluviómetro/Pluv_Mensula.STL)>MENSULA</a></td>
       <td align="center">6</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa</td>
+      <td><a href = [](Impresion%203D%20STL/Pluviómetro/Pluv_Tapa.STL)>TAPA</a></td>
       <td align="center">13</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Totalizador Pluviómetro</td>
+      <td><a href = [](Impresion%203D%20STL/Pluviómetro/Pluv_Totalizador.STL)>Totalizador</a></td>
       <td align="center">81</td>
       <td align="center">1</td>
     </tr>
@@ -239,42 +239,42 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Holder Cargador</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Holder%20Cargador.STL)>Holder Cargador</a></td>
       <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Holder Step-Up</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Holder%20Step%20Up.STL)>Holder Step-Up</a></td>
       <td align="center">2</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Pieza en T</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Pieza%20T.STL)>Pieza en T</a></td>
       <td align="center">11</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Placa Porta pila</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Placa%20Portapilas.STL)>Placa Porta Pila</a></td>
       <td align="center">23</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Separador</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Separador.STL)>Separador</a></td>
       <td align="center">1</td>
       <td align="center">3</td>
     </tr>
     <tr>
-      <td>Tapa Inferior</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Inferior.STL)>Tapa Inferior</a></td>
       <td align="center">31</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa Superior</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Superior.STL)>Tapa Superior</a></td>
       <td align="center">88</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Topes</td>
+      <td><a href = [](Impresion%203D%20STL/Telemetría/Tel_Tope.STL)>Topes</a></td>
       <td align="center">5</td>
       <td align="center">3</td>
     </tr>
@@ -301,17 +301,17 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Base</td>
+      <td><a href = [](Impresion%203D%20STL/UV/UV_Base.STL)>Base</a></td>
       <td align="center">10</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Cuerpo</td>
+      <td><a href = [](Impresion%203D%20STL/UV/UV_Cuerpo.STL)>Cuerpo</a></td>
       <td align="center">44</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Tapa</td>
+      <td><a href = [](Impresion%203D%20STL/UV/UV_Tapa.STL)>Tapa</a></td>
       <td align="center">2</td>
       <td align="center">1</td>
     </tr>
@@ -338,17 +338,17 @@ A la estructura se la pensó a partir de dos líneas de trabajo. La primera es e
   </thead>
   <tbody>
     <tr>
-      <td>Fijacion</td>
+      <td><a href = [](Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL)>Fijacion</a></td>
       <td align="center">38</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td>Mariposa</td>
+      <td><a href = [](Impresion%203D%20STL/Agarre/Agarre_Mariposa.STL)>Mariposa</a></td>
       <td align="center">3</td>
       <td align="center">4</td>
     </tr>
     <tr>
-      <td>Traba</td>
+      <td><a href = [](Impresion%203D%20STL/Agarre/Agarre_Traba.STL)>Traba</a></td>
       <td align="center">38</td>
       <td align="center">1</td>
     </tr>
