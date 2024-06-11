@@ -13,7 +13,7 @@ Buscamos que cada uno pueda apropiarse del proyecto de la manera más convenient
 
 <img align="right" width="260" height="430" src="Imagenes/FotoSEHMA.png">
 
-El dispositivo SEHMA es un sistema educativo meteorológico de bajo costo, fácil ensamble y con componentes accesibles, que permite a cualquier persona armar su propia SEHMA. La estructura principal consta de piezas de contención impresas en 3D y una placa de control con comunicación GPRS que permite la lectura de sensores y carga de datos a la red. 
+El dispositivo SEHMA es un sistema educativo meteorológico de bajo costo, fácil ensamble y con componentes accesibles, que permite a cualquier persona armar su propia SEHMA. La estructura principal consta de piezas de contención impresas en 3D y una placa de control con comunicación GPRS que permite la lectura de sensores y carga de datos a la red. El sistema completo tiene un costo de 200 dólares aproximadamente. 
 Tiene las siguientes funciones y sensores:
 <br>
 <br>
@@ -99,22 +99,22 @@ Tiene las siguientes funciones y sensores:
     </tr>
       <tr>
       <td>Kit Molex x 2 Pines</td>
-      <td align="center">1</td>
+      <td align="center">1 unidad</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1530414156-kit-x-30u-2-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=3&search_layout=grid&type=item&tracking_id=feedb67d-d999-4e10-83dc-8528ae580bf2">Kit Molex x 2</a></td>
     </tr>
      <tr>
       <td>Kit Molex x 3 Pines</td>
-      <td align="center">3</td>
+      <td align="center">3 unidades</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1547547796-kit-x-30u-3-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=51&search_layout=stack&type=item&tracking_id=4f2edef0-6c5c-400e-8229-65fce00075ec">Kit Molex x 3</a></td>
     </tr>
      <tr>
       <td>Kit Molex x 4 Pines</td>
-      <td align="center">1</td>
+      <td align="center">1 unidad</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1544835568-kit-x-30u-4-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=1&search_layout=grid&type=item&tracking_id=8ec89334-1835-4339-9225-2a076de11fa3">Kit Molex x 4</a></td>
     </tr>
      <tr>
       <td>Kit Molex x 5 Pines</td>
-      <td align="center">1</td>
+      <td align="center">1 unidad</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1548402732-kit-x-30u-5-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=2&search_layout=grid&type=item&tracking_id=0542de33-9c89-4d24-a9b2-bdc8694cdf21">Kit Molex x 5</a></td>
     </tr>
      <tr>
@@ -124,7 +124,7 @@ Tiene las siguientes funciones y sensores:
     </tr>
     <tr>
       <td>Tira Pines Hembra</td>
-      <td align="center">2</td>
+      <td align="center">2 Tiras</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-879655442-tira-de-40-pines-hembra-paso-254mm-recta-1-fila-_JM#position=4&search_layout=grid&type=item&tracking_id=f194ae8c-4a52-457f-882d-bc9aa2cb7714">Tira Pines Hembra</a></td>
     </tr>
     <tr>
