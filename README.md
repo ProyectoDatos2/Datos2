@@ -1,51 +1,32 @@
 To change language:&nbsp;&nbsp;
 [![en](https://img.shields.io/badge/lang-en-red.svg)](/README.en.md)
 
-# Datos²
+# Datos² y EME
 
-## Introducción
+Datos² es una plataforma ofrecida por OMIXOM que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana de la comunidad.
 
-El proyecto Datos² es un desarrollo científico tecnológico que está brindando una herramienta y una plataforma para proyectos de ciencia ciudadana y la comunidad en general. El dispositivo que ofrece es Open-Source con el fin de recolectar, almacenar y compartir datos ambientales que se visualizan en la plataforma.
+Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado EME (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EME está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
 
-Buscamos que cada uno pueda apropiarse del proyecto de la manera más conveniente, generando un impacto en el presente y futuro de nuestra sociedad. Para ello diseñamos SEHMA (Sistema Educativo Hidro Metrológico y Ambiental) formada por diversos sensores que podrán ser incorporados según las necesidades de las comunidades, y por una telemetría que se encargará de subir los datos a una plataforma web para su visualización. Desde aquí, toda la comunidad podrá utilizar los datos generados para distintos proyectos o necesidades.
-
-## SEHMA
-
-<img align="right" width="260" height="430" src="Imagenes/FotoSEHMA.png">
-
-El dispositivo SEHMA es un sistema educativo meteorológico de bajo costo, fácil ensamble y con componentes accesibles, que permite a cualquier persona armar su propia SEHMA. La estructura principal consta de piezas de contención impresas en 3D y una placa de control con comunicación GPRS que permite la lectura de sensores y carga de datos a la red. 
-Tiene las siguientes funciones y sensores:
-<br>
-<br>
-<br>
-- Pluviómetro totalizador que mide el volumen de agua acumulada durante el evento
-- Sensor Ultravioleta que mide la radiación UV global
--  Sensor de temperatura
-- Sensor de humedad
-- Panel solar que permite autonomía a través de energía renovable
-<br>
+<img align="center" width="260" height="430" src="Imagenes/FotoSEHMA.png">
 <br>
 
-### Componentes Electrónicos
+## Componentes y materiales
 
 <table align="center">
   <thead>
     <tr>
       <th>Componentes</th>
       <th>Cantidad</th>
-      <th>Enlace de Compra</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Arduino Nano</td>
-      <td align="center">1</td>
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30">Arduino Nano</a></td>
+      <td align="center">1</td>
     </tr>
     <tr>
-      <td>Modulo Step-Up MT3608</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e">Modulo Step-Up MT3608</a></td>
       <td align="center">1</td>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e">MT3608</a></td>
     </tr>
     <tr>
       <td>Modulo Driver Mosfet IRF520 24V 9A</td>
@@ -53,9 +34,8 @@ Tiene las siguientes funciones y sensores:
       <td><a href="https://articulo.mercadolibre.com.ar/MLA-732240129-modulo-driver-mosfet-irf520-24v-9a-controlador-arduino-pic-_JM#position=2&search_layout=grid&type=item&tracking_id=4971c395-66a7-4063-87e5-2919493828b4">IRF520</a></td>
     </tr>
     <tr>
-      <td>Sensor de Lluvia Raindrop</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d">Sensor de Lluvia Raindrop</a></td>
       <td align="center">1</td>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d">Raindrop</a></td>
     </tr>
     <tr>
       <td>Reloj de Tiempo Real RTC DS1307 EEPROM 24C32</td>
