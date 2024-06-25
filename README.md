@@ -17,7 +17,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
 - Líneas de pared: 3
 - Capas de Superficie: 3
 
-<table align="right">
+<table align="left">
   <thead>
     <tr>
       <th>Impresión 3D</th>
