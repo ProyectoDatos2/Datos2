@@ -1,11 +1,11 @@
 To change language:&nbsp;&nbsp;
 [![en](https://img.shields.io/badge/lang-en-red.svg)](/README.en.md)
 
-# Datos² y EME
+# Datos² y EMA
 
 Datos² es una plataforma ofrecida por OMIXOM que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana de la comunidad.
 
-Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado EME (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EME está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
+Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado [EMA](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica Automática), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EMA está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
 
 <img align="center" width="260" height="430" src="Imagenes/FotoSEHMA.png">
 <br>
@@ -351,12 +351,7 @@ Para [colocar el prensa cables en la antena](Imagenes/PCB/Prensa%20Cables%20para
 <br><br><br><br><br><br>
 
 ## Ensamblaje Sistema
-
-Para comenzar a armar el sistema, hay que ya haber terminado la placa, como a su vez ya tener impreso y compradas todas las [piezas](Impresion%203D%20STL/) detalladas en este documento. <br><br><br>
-
 ### **Paso 1** - Preparar sistema de Autonomía
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Blanco.png">
