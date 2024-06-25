@@ -45,7 +45,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center">2</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Holder para Baterías</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Porta Baterías</a></td>
       <td align="center">2</td>
     </tr>
     <tr>
@@ -352,48 +352,33 @@ Para [colocar el prensa cables en la antena](Imagenes/PCB/Prensa%20Cables%20para
 
 ## Ensamblaje Sistema
 ### **Paso 1** - Preparar sistema de Autonomía
+  Todos los empalmes se los aísla con un termocontraíble y el cableado debe ser con el largo necesario así los cables no incomodan:
+1. Pegar con el pegamento instantáneo: los [porta baterías](https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569) a la [placa porta baterías](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Placa%20Portapilas.STL), el [cargador solar](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a) al [holder del cargador solar](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Cargador.STL), el [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-desarrollo-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e) al [holder del Step-Up](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Step%20Up.STL) y los holders a la [placa porta batería](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Placa%20Portapilas.STL).
+   
+(colocar imagen)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Blanco.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ProyectoDatos2/Datos2/blob/Readme-Writing/Imagenes/Ensamble/Sistema%20de%20Autonom%C3%ADa/Base%20PortaPila%20Completa%20-%20Negro.png">
-  <img align="left" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa - Negro.png">
-</picture>
+2. Colocar un [cable molex de 2 pines](https://www.google.com/search?sca_esv=37db28bfa134011b&rlz=1C1ONGR_esAR1060AR1060&q=cable+molex+de+2+pines&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwi2udTDtPeGAxW8qZUCHSHgAloQtKgLegQIDxAB&biw=1366&bih=651&dpr=1) a todas las entradas y salidas del cargador solar.
+3. Colocar los 2 positivos de la entrada del cargador solar en una sola [bornera](https://articulo.mercadolibre.com.ar/MLA-1123750333-bornera-divisible-new-motion-pcable-25mm-_JM?variation=179893909693#reco_item_pos=2&reco_backend=ranker_vip_v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=590e2a83-78eb-46df-b734-4a96798e51a0). Colocar los 2 negativos de la entrada del cargador solar en otra [bornera](https://articulo.mercadolibre.com.ar/MLA-1123750333-bornera-divisible-new-motion-pcable-25mm-_JM?variation=179893909693#reco_item_pos=2&reco_backend=ranker_vip_v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=590e2a83-78eb-46df-b734-4a96798e51a0).   
 
-<br><br><br>
+(colocar imagen)
+ 
+4. Empalmar el positivo de la salida superior del cargador solar con los positivos de los porta baterías. Empalmar el negativo de la salida superior del cargador solar con los negativos de los porta baterías.
 
-El sistema de autonomía está formado por: 
-- Dos baterías 18650
-- Placa de Step Up 
-- Módulo de carga solar 
+(colocar imagen)
+ 
+5. Conectar el negativo de la salida inferior del cargador solar con el negativo de la entrada del módulo Step-Up.
 
-Todo el conjunto esta sostenido por la [placa base portapilas](Impresion%203D%20STL/Telemetría/Tel_Placa%20Portapilas.STL) y a su vez la placa de Step Up esta sobre el [holder Step Up](Impresion%203D%20STL/Telemetría/Tel_Holder%20Step%20Up.STL) y el módulo de carga solar esta sobre el [holder cargador](Impresion%203D%20STL/Telemetría/Tel_Holder%20Cargador.STL). El sistema unido por la gotita debería quedar como la imagen a la izquierda.
+(colocar imagen)
+ 
+6. Colocar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) de 10cm en la salida del Step-Up, 2 hilos se conectan al positivo y los otros 2 al negativo.
 
-<br><br><br>
-
-El cableado debe ser al ras asi los cables no nos quedan incomodos al unir los sistemas con tornillos. Para eso hay que seguir los siguientes pasos: 
-
-1. Primero hay que [pasar el cable positivo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Positivo%20por%20Abajo.jpg) por debajo del cargador solar para luego [empalmarlo](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Positivos.jpg). A todos los empalmes se los aísla con un aislante termo-contraíble.
-
-2. Luego, [empalmar los cables negativos](Imagenes/Ensamble/Sistema%20de%20Autonomía/Empalme%20Negativos.jpg) con ese largo, asi no molestan con el hueco para el tornillo. Pegarlo con la gotita al holder si es necesario.
-
-3. Con cables trenzados positivos, desde la otra salida de batería del cargador solar, llevar hasta el interruptor y devuelta a la entrada positiva del modulo step up. 
-
-4. Cerca de los cables negativos anteriores, desde la misma entrada que el paso anterior, llevar el cable negativo a la entrada negativa del [modulo de step up](Imagenes/Ensamble/Sistema%20de%20Autonomía/Cable%20Negativo%20a%20Step%20Up.jpg). 
-
-5. Para el conexionado del panel solar al sistema, se debe seguir la siguiente [imagen](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Panel%20Solar.jpg).
-
-6. Por último, insertar las baterías para regular el módulo de step up [con un multimetro](Imagenes/Ensamble/Sistema%20de%20Autonomía/Regulacion%20de%20Step%20Up.jpg).
+(colocar imagen)
 
 
-<img align="right" width="440" height="400" src="Imagenes/Ensamble/Sistema de Autonomía/Base PortaPila Completa (2).png">
+Para comprobar que funcione y calibrar el Step-Up: poner las baterías, conectar una fuente de alimentación (18V y 0,6A) en las borneras, puentear el positivo de la salida inferior del cargador solar con el positivo de la entrada del Step-Up, conectar un voltímetro a la salida del Step-Up y regular el trimmer del Step-Up hasta tener una salida de 5V.
 
-<br><br><br><br><br>
-
-Con las pilas ya puestas y desde otra perspectiva: 
-
-<br><br><br><br><br><br><br><br><br><br><br>
-
-El conexionado de este sistema es bastante simple, solo hay que seguir el [esquematico](Imagenes/Ensamble/Sistema%20de%20Autonomía/Conexionado%20Sistema%20de%20Autonomia.jpg) adjunto. Al accionar el interruptor, se debería prender todo el sistema. 
+(colocar imagen)
+<br>
 
 ### **Paso 2** - Preparar sensor UV
 
