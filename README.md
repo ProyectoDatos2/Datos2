@@ -454,25 +454,15 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 ### **Paso 4** - Integración Sistemas Eléctricos
 
-Ya teniendo completados todos los pasos anteriores, lo único que queda es unir cada uno de los sistemas individuales. Necesitaremos las siguientes piezas:
+1. En la tapa inferior: colocar el O-Ring, enroscar las varillas de 60 mm y atornillar y pegar con pegamento instantáneo la pieza en T.
+2. Insertar los prensacables y el interruptor.
+3. De un lado del interruptor soldar un cable de 4 hilos empalmados de 10cm. Del otro lado del interruptor soldar un cable de 4 hilos empalmados de 10cm y 2 cables trenzados de 12cm.
+4. Cortar a la mitad los pines del DHT, soldar un cable de 4 polos de 20cm a los pines utilizando termocontraíble y pegarlo con pegamento instantáneo a la pieza en T.
+5. Pasar los cables por los prensacables, colocar el PCB en las varillas de metal y poner cinta aislante en el conector SMA.
+6. Armar los molex así: (tabla)
+7. Colocar los separadores, el sistema de autonomía y tuercas M4 en las varillas de metal.
+8. Empalmar un cable de 4 hilos del interruptor en el positivo de la salida inferior del cargador solar. Soldar el otro cable de 4 hilos del interruptor en el positivo de la entrada del Step-Up.
 
-- [Tapa Inferior](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Inferior.STL)
-- [Separador PCB a Techo Pila](Impresion%203D%20STL/Telemetría/Tel_Separador.STL)
-- [Tapa Superior](Impresion%203D%20STL/Telemetría/Tel_Tapa%20Superior.STL)
-- [Tope Interno](Impresion%203D%20STL/Telemetría/Tel_Tope.STL)
-- [Pieza en T](Impresion%203D%20STL/Telemetría/Tel_Pieza%20T.STL)
-- Conjunto UV
-- Conjunto Pluviómetro
-- PCB Terminada
-- Interruptor
-- Prensa Cables
-- O’ Ring 
-- Cable unipolar (Medición de carga de Batería)
-- 3 Tuercas M4
-
-1. Para comenzar, lo que haremos es colocar el O-Ring, [enroscar las varillas](Imagenes/Ensamble/Sistema%20General/O'Ring%20Colocación.jpg) de 60 mm y [atornillar la pieza en T](Imagenes/Ensamble/Sistema%20General/Colocación%20Pieza%20en%20T.jpg) en la Tapa Inferior.
-
-2. Insertar los prensa cables y el interruptor de encendido como se muestra en las imágenes de abajo
 
   <img align="left" width="380" height="380" src="Imagenes/Ensamble/Sistema General/Indicacion de In-Out.png">
 
