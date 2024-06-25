@@ -33,7 +33,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center">1</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d">Sensor Lluvia</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d">Sensor de Lluvia</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -45,19 +45,19 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center">2</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Holder Baterías</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Holder para Baterías</a></td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a">Sensor Humedad y Temperatura DHT22</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a">Sensor de Humedad y Temperatura DHT22</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8">Sensor Ultravioleta ML8511</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8">Sensor de Luz Ultravioleta ML8511</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563">Modem Gprs A6 Mini</a> | <a href="https://articulo.mercadolibre.com.ar/MLA-1308505021-modulo-celular-gsm-gprs-sim800l-sim800-domotica-arduino-ubot-_JM#position=1&search_layout=grid&type=item&tracking_id=351d4014-7b06-4f31-87f1-ae97d6f6fd73">SIM800L</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563">Módem GPRS A6 Mini</a> | <a href="https://articulo.mercadolibre.com.ar/MLA-1308505021-modulo-celular-gsm-gprs-sim800l-sim800-domotica-arduino-ubot-_JM#position=1&search_layout=grid&type=item&tracking_id=351d4014-7b06-4f31-87f1-ae97d6f6fd73">SIM800L</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -69,23 +69,23 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center">1</td>
     </tr>
       <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1530414156-kit-x-30u-2-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=3&search_layout=grid&type=item&tracking_id=feedb67d-d999-4e10-83dc-8528ae580bf2">Kit Molex x 2 Pines</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1530414156-kit-x-30u-2-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=3&search_layout=grid&type=item&tracking_id=feedb67d-d999-4e10-83dc-8528ae580bf2">Kit Molex de 2 Pines</a></td>
       <td align="center">1</td>
     </tr>
      <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1547547796-kit-x-30u-3-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=51&search_layout=stack&type=item&tracking_id=4f2edef0-6c5c-400e-8229-65fce00075ec">Kit Molex x 3 Pines</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1547547796-kit-x-30u-3-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=51&search_layout=stack&type=item&tracking_id=4f2edef0-6c5c-400e-8229-65fce00075ec">Kit Molex de 3 Pines</a></td>
       <td align="center">3</td>
     </tr>
      <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1544835568-kit-x-30u-4-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=1&search_layout=grid&type=item&tracking_id=8ec89334-1835-4339-9225-2a076de11fa3">Kit Molex x 4 Pines</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1544835568-kit-x-30u-4-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=1&search_layout=grid&type=item&tracking_id=8ec89334-1835-4339-9225-2a076de11fa3">Kit Molex de 4 Pines</a></td>
       <td align="center">1</td>
     </tr>
      <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1548402732-kit-x-30u-5-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=2&search_layout=grid&type=item&tracking_id=0542de33-9c89-4d24-a9b2-bdc8694cdf21">Kit Molex x 5 Pines</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1548402732-kit-x-30u-5-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=2&search_layout=grid&type=item&tracking_id=0542de33-9c89-4d24-a9b2-bdc8694cdf21">Kit Molex de 5 Pines</a></td>
       <td align="center">1</td>
     </tr>
      <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-841986521-10-x-resistencias-10k-ohm-1-14w-metal-film-_JM#position=8&search_layout=grid&type=item&tracking_id=424a52a9-8c38-42ca-8fbc-487ac3932614">Resistencias 10KΩ</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-841986521-10-x-resistencias-10k-ohm-1-14w-metal-film-_JM#position=8&search_layout=grid&type=item&tracking_id=424a52a9-8c38-42ca-8fbc-487ac3932614">Resistencias 10 KΩ</a></td>
       <td align="center">2</td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center">2</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798">Interruptor Encendido/Apagado</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798">Interruptor de Encendido/Apagado</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -116,7 +116,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
   </tbody>
 </table>
 
-<table align="center">
+<table align="left">
   <thead>
     <tr>
       <th>Impresión 3D</th>
@@ -141,7 +141,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center">1</td>
     </tr>
     <tr>
-      <td><a href = "Impresion 3D STL\Pluviómetro\Pluv_Mensula.STL">Mensula</a></td>
+      <td><a href = "Impresion 3D STL\Pluviómetro\Pluv_Mensula.STL">Ménsula</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -197,7 +197,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center">1</td>
     </tr>
     <tr>
-      <td><a href = "Impresion 3D STL\Agarre\Agarre_Fijacion.STL">Fijacion</a></td>
+      <td><a href = "Impresion 3D STL\Agarre\Agarre_Fijacion.STL">Fijación</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
@@ -212,14 +212,18 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
   </tbody>
 </table>
 
-<table align="right">
+<table align="center">
   <thead>
     <tr>
-      <th>Materiales</th>
+      <th>Ferreteria</th>
       <th>Cantidad</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-935747094-pluviometro-plastico-luft-aro-medidor-lluvia-soporte-pared-_JM#position=8&search_layout=grid&type=item&tracking_id=40f3e3c5-67b8-4b75-a9dc-d82897870d00">Pluviómetro</a></td>
+      <td align="center">1</td>
+    </tr>
     <tr>
       <td>Tornillos</td>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d">M3 x 8mm x 8</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513">M3 x 30mm x 1</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2">M4 x 15mm x 4</a><br/><a href="https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1">M4 x 75mm x 3</a></td>
@@ -229,94 +233,57 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032">M3 x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d">M4 x 16</a></td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-732240129-modulo-driver-mosfet-irf520-24v-9a-controlador-arduino-pic-_JM#position=2&search_layout=grid&type=item&tracking_id=4971c395-66a7-4063-87e5-2919493828b4">Modulo Driver Mosfet IRF520 24V 9A</a></td>
-      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a">Varilla Roscada</a></td>
+      <td align="center">M4 x 60mm x 3</a><br/>M4 x 210mm x 3</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d">Sensor de Lluvia Raindrop</a></td>
-      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1">Cable de 4 Hilos</a></td>
+      <td align="center">3m</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom">Reloj de Tiempo Real RTC DS1307 EEPROM 24C32</a></td>
-      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3">Prensacable Plástico 1/2</a></td>
+      <td align="center">6</td>
     </tr>
     <tr>
-      <td><a href="https://www.mercadolibre.com.ar/pila-samsung-inr18650-30q-cilindrica-1-unidad/p/MLA16952001#searchVariation=MLA16952001&position=1&search_layout=stack&type=product&tracking_id=262fdb61-1f61-41e8-b207-c581f31320b5">Baterías 18650 Samsung 3000 mA</a></td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1123750333-bornera-divisible-new-motion-pcable-25mm-_JM?variation=179893909693#reco_item_pos=2&reco_backend=ranker_vip_v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=590e2a83-78eb-46df-b734-4a96798e51a0">Bornera</a></td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569">Holder Baterías</a></td>
+      <td><a href="https://www.herrerocons.es/producto/manguito-union-tubo-pvc-110mm-claro-cod-1000717/">Tubo Unión PVC 110mm</a></td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30">O'ring 110mm</a></td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a">Sensor de Humedad y Temperatura DHT22</a></td>
+      <td><a href="https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668">Cristal de Soldadura</a></td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8">Sensor de Luz Ultravioleta ML8511</a></td>
-      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-926213442-termocontraible-negro-6-mm-contrae-a-3-mm-por-1-metro-_JM#position=24&search_layout=stack&type=item&tracking_id=e86bf665-c37a-4c91-992f-f2ff9ed5f905">Termocontraíble 3mm</a></td>
+      <td align="center">Poco</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563">Modem A6 Mini</a> | <a href="https://articulo.mercadolibre.com.ar/MLA-1308505021-modulo-celular-gsm-gprs-sim800l-sim800-domotica-arduino-ubot-_JM#position=1&search_layout=grid&type=item&tracking_id=351d4014-7b06-4f31-87f1-ae97d6f6fd73">SIM800L</a></td>
-      <td align="center">1</td>
+      <td><a href="https://www.mercadolibre.com.ar/sellador-tacsa-silicona-acetica-color-transparente/p/MLA27649062#searchVariation=MLA27649062&position=3&search_layout=stack&type=product&tracking_id=52e10322-f6e2-4aa6-902a-391dd70c1d53">Silicona</a></td>
+      <td align="center">Poco</td>
     </tr>
     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a">Cargador Solar CN3791</a></td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef">Celda de Carga de 10 Kg y Driver HX711</a></td>
-      <td align="center">1</td>
+      <td><a href="https://www.mercadolibre.com.ar/la-gotita-adhesivo-instantaneo-2ml/p/MLA28207746#searchVariation=MLA28207746&position=21&search_layout=grid&type=product&tracking_id=c36740ee-e7bf-424d-8e3e-31748246c240">Pegamento Instantáneo</a></td>
+      <td align="center">Poco</td>
     </tr>
       <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1530414156-kit-x-30u-2-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=3&search_layout=grid&type=item&tracking_id=feedb67d-d999-4e10-83dc-8528ae580bf2">Kit Molex x 2 Pines</a></td>
-      <td align="center">1</td>
+      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1320701568-acuarel-interior-y-exterior-latex-x-1-lt-_JM?attributes=COLOR_SECONDARY_COLOR%3AVmVyZGUgRm9yZXN0YWw%3D&quantity=1">Pintura Látex</a></td>
+      <td align="center">Poco</td>
     </tr>
      <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1547547796-kit-x-30u-3-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=51&search_layout=stack&type=item&tracking_id=4f2edef0-6c5c-400e-8229-65fce00075ec">Kit Molex x 3 Pines</a></td>
-      <td align="center">3</td>
+      <td><a href="https://www.google.com/search?q=grasa+ferreteria&sca_esv=0bc43c4c8dd2597c&rlz=1C1ONGR_esAR1060AR1060&udm=2&ei=JcJ6Zo_iB67c1sQPv-WS0AE&ved=0ahUKEwjPiKyn6vaGAxUurpUCHb-yBBoQ4dUDCBA&uact=5&oq=grasa+ferreteria&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGdyYXNhIGZlcnJldGVyaWEyBRAAGIAESP4RUBdYuQ5wAHgAkAEAmAHlAaABlQuqAQU3LjMuMrgBA8gBAPgBAZgCDKACwAvCAg0QABiABBixAxhDGIoFwgIKEAAYgAQYQxiKBcICBhAAGAUYHsICBhAAGAgYHsICBxAAGIAEGBiYAwCIBgGSBwU3LjMuMqAH0B4&sclient=gws-wiz-serp">Grasa</a></td>
+      <td align="center">Poco</td>
     </tr>
-     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1544835568-kit-x-30u-4-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=1&search_layout=grid&type=item&tracking_id=8ec89334-1835-4339-9225-2a076de11fa3">Kit Molex x 4 Pines</a></td>
-      <td align="center">1</td>
-    </tr>
-     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1548402732-kit-x-30u-5-pin-terminal-molex-hembra-macho-y-pines-htec-_JM#position=2&search_layout=grid&type=item&tracking_id=0542de33-9c89-4d24-a9b2-bdc8694cdf21">Kit Molex x 5 Pines</a></td>
-      <td align="center">1</td>
-    </tr>
-     <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-841986521-10-x-resistencias-10k-ohm-1-14w-metal-film-_JM#position=8&search_layout=grid&type=item&tracking_id=424a52a9-8c38-42ca-8fbc-487ac3932614">Resistencias 10 KΩ</a></td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-879655442-tira-de-40-pines-hembra-paso-254mm-recta-1-fila-_JM#position=4&search_layout=grid&type=item&tracking_id=f194ae8c-4a52-457f-882d-bc9aa2cb7714">Tira Pines Hembra</a></td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798">Interruptor Encendido/Apagado</a></td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><a href="https://tienda.ityt.com.ar/antenas-gsm-2g-3g-4g/8259-antena-modem-2g-3g-4g-lte-exterior-cable-5m-sma-itytarg.html">Antena 3G</a></td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1">Adaptador Pigtail SMA a U.fl</a></td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec">Pila CR2032</a></td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><a href="https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae">Chip</a></td>
-      <td align="center">1</td>
-    </tr>
-
   </tbody>
 </table>
 
-
+<br><br><br><br><br><br><br>
 >[!IMPORTANT]
 >**Configuración de Impresión:**
 >- Altura de Capa: 0,2 mm
@@ -324,281 +291,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
 >- Líneas de pared: 3
 >- Capas de Superficie: 3
 
-<table align="left">
-  <thead>
-    <tr>
-      <th colspan="3">Pluviometro</th>
-    </tr>
-  </thead>
-    <thead>
-    <tr>
-      <th>Pieza</th>
-      <th>Peso [g]</th>
-      <th>Cantidad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aro</td>
-      <td align="center">31</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Estanco A</td>
-      <td align="center">3</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Estanco B</td>
-      <td align="center">4</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Localizador</td>
-      <td align="center">24</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Ménsula</td>
-      <td align="center">6</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa</td>
-      <td align="center">13</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Totalizador Pluviómetro</td>
-      <td align="center">81</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><strong>TOTAL</strong></td>
-      <td align="center">162</td>
-      <td align="center">7</td>
-    </tr>
-  </tbody>
-</table>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3">Telemetria</th>
-    </tr>
-  </thead>
-    <thead>
-    <tr>
-      <th>Pieza</th>
-      <th>Peso [g]</th>
-      <th>Cantidad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Holder Cargador</td>
-      <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Holder Step-Up</td>
-      <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Pieza en T</td>
-      <td align="center">11</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Placa Porta pila</td>
-      <td align="center">23</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Separador</td>
-      <td align="center">1</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td>Tapa Inferior</td>
-      <td align="center">31</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa Superior</td>
-      <td align="center">88</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Topes</td>
-      <td align="center">5</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td><strong>TOTAL</strong></td>
-      <td align="center">175</td>
-      <td align="center">12</td>
-    </tr>
-  </tbody>
-</table>
-
-<table align="left">
-  <thead>
-    <tr>
-      <th colspan="3">UV</th>
-    </tr>
-  </thead>
-    <thead>
-    <tr>
-      <th>Pieza</th>
-      <th>Peso [g]</th>
-      <th>Cantidad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Base</td>
-      <td align="center">10</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Cuerpo</td>
-      <td align="center">44</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tapa</td>
-      <td align="center">2</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><strong>TOTAL</strong></td>
-      <td align="center">56</td>
-      <td align="center">3</td>
-    </tr>
-  </tbody>
-</table>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3">Agarre</th>
-    </tr>
-  </thead>
-    <thead>
-    <tr>
-      <th>Pieza</th>
-      <th>Peso [g]</th>
-      <th>Cantidad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Fijacion</td>
-      <td align="center">38</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Mariposa</td>
-      <td align="center">3</td>
-      <td align="center">4</td>
-    </tr>
-    <tr>
-      <td>Traba</td>
-      <td align="center">38</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td><strong>TOTAL</strong></td>
-      <td align="center">88</td>
-      <td align="center">6</td>
-    </tr>
-  </tbody>
-</table>
-
-La otra línea de trabajo sobre la que se pensó es en materiales que se puedan conseguir fácilmente en una ferretería, que a su vez conserva la calidad que se requiere para que funcione correctamente el sistema.
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Producto</th>
-      <th>Medida</th>
-      <th>Cantidad</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr>
-      <td>Cable Cuatro Polos</td>
-      <td align="center">6 m</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Philips o Punta Plana</td>
-      <td align="center">M3 x 8mm <br/> M3 x 30mm <br/> M4 x 16mm <br/> M4 x 75mm</td>
-      <td align="center">14 <br/> 1 <br/> 4 <br/> 3 <br/></td>
-    </tr>
-    <tr>
-      <td>Varilla</td>
-      <td align="center">M4 x 210mm<br/> M4 x 60mm</td>
-      <td align="center">3 <br/> 3</td>
-    </tr>
-    <tr>
-      <td>Tuerca</td>
-      <td align="center">M4 <br/> M3 <br/> M6</td>
-      <td align="center">16 <br/> 1 <br/> 1</td>
-    </tr>
-    <tr>
-      <td>Tornillo</td>
-      <td align="center">M6 x 50mm</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Tubo Unión entre 2</td>
-      <td align="center">4"</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Brida Acero</td>
-      <td align="center">Para 4"</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td>O' Ring</td>
-      <td align="center">W2,6 mm x D105 mm</td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td>Vidrio Repuesto Lente Soldadura</td>
-      <td align="center">Estándar</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Prensa Cable</td>
-      <td align="center">1/2"</td>
-      <td align="center">6</td>
-    </tr>
-    <tr>
-      <td>Pluviómetro</td>
-      <td align="center">-</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Ciano acrilato</td>
-      <td align="center">-</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td>Silicona</td>
-      <td align="center">-</td>
-      <td align="center">-</td>
-          <tr>
-      <td>Pintura Latex</td>
-      <td align="center">-</td>
-      <td align="center">-</td>
-    </tr>
-  </tbody>
-</table>
+<br>
 
 ## Armado PCB
 
