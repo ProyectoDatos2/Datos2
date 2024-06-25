@@ -212,7 +212,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
   </tbody>
 </table>
 
-<table align="center">
+<table align="left">
   <thead>
     <tr>
       <th>Ferreteria</th>
