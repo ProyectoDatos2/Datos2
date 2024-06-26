@@ -67,9 +67,9 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-935747094-pluviometro-plastico-luft-aro-medidor-lluvia-soporte-pared-_JM#position=8&search_layout=grid&type=item&tracking_id=40f3e3c5-67b8-4b75-a9dc-d82897870d00">Pluviómetro</a></td>
       <td align="center">1 de Ø125 mm</td></tr><tr>
       <td align="center">Tornillos</td>
-      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d">M3 x 8 mm x 8</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513">M3 x 30 mm x 1</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2">M4 x 15 mm x 4</a><br/><a href="https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1">M4 x 75 mm x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-931254077-bulon-grado-88-m6-50-ma-100-unid-_JM#position=14&search_layout=stack&type=item&tracking_id=b18d336e-463e-4b2a-a2ef-7199dae64cab">M6 x 50 mm x 2</a></td></tr><tr>
+      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d">M3 x 8 mm x 8</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513">M3 x 30 mm x 1</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2">M4 x 15 mm x 4</a><br/><a href="https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1">M4 x 75 mm x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1161252470-bulon-tornillo-motor-m6-x-45mm-exagono-8mm-tornado-shop-_JM#position=4&search_layout=stack&type=item&tracking_id=4b230858-6045-4172-8137-ba08bb35db4a">M6 x 45 mm x 2</a></td></tr><tr>
       <td align="center">Tuercas</td>
-      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032">M3 x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d">M4 x 16</a></td></tr><tr>
+      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032">M3 x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d">M4 x 16</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1754670680-tuerca-metrica-m6-x-1-por-100u-_JM#position=10&search_layout=grid&type=item&tracking_id=58a8e696-384b-4eec-be72-f6eadc923bd2">M6 x 2</a></td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a">Varilla Roscada</a></td>
       <td align="center">M4 x 60 mm x 3</a><br/>M4 x 210 mm x 3</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1">Cable de 4 Hilos</a></td>
@@ -96,6 +96,8 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
 <table align="center"><thead><tr>
       <th>Componentes</th>
       <th>Cantidad</th></tr></thead><tbody><tr>
+      <td align="center"><a href="https://www.trvstore.com/paneles-solares/113-mod-fotovoltaico-15-wp-18v-083a-16mm-tipo-szyl-p15-18c.html) y el [sensor de luz ultravioleta](https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8">Panel Solar</a></td>
+      <td align="center">1</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30">Arduino Nano</a></td>
       <td align="center">1</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e">Step-Up MT3608</a></td>
@@ -347,10 +349,8 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 (imagen)
 
-
-
 ## **Paso 5** - Integración Final
-grasa
+
 1. Agujerear el [tubo](https://www.herrerocons.es/producto/manguito-union-tubo-pvc-110mm-claro-cod-1000717/) con huecos de 12 mm siguiendo esta [guía](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/Guia%20de%20perforaciones%20para%20refugio.PDF).
 
 (imagen)
@@ -359,13 +359,21 @@ grasa
 
 (imagen)
 
-3. Colocar el tubo en la tapa superior y atornillar la [base del sensor de luz ultravioleta](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con tornillos M3 de 8 mm y tuercas M3.
+3. Colocar el tubo en la tapa superior y atornillar la [base del sensor de luz ultravioleta](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con tornillos [M3 de 8 mm](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d) y [tuercas M3](https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032).
 
 (imagen)
 
-4. Insertar el sistema eléctrico en el tubo y atornillar los tornillos M4 de 75 mm en los orificios de los topes.
+4. Insertar el sistema eléctrico en el tubo y atornillar los tornillos [M4 de 75 mm](https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1) en los orificios de los topes.
 
 (imagen)
 
-5. Enviar un correo electrónico a soporte@omixom.com para conseguir el número serial.
+5. Colocar las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) con un [tornillo](https://articulo.mercadolibre.com.ar/MLA-1161252470-bulon-tornillo-motor-m6-x-45mm-exagono-8mm-tornado-shop-_JM#position=4&search_layout=stack&type=item&tracking_id=4b230858-6045-4172-8137-ba08bb35db4a) y [tuerca](https://articulo.mercadolibre.com.ar/MLA-1754670680-tuerca-metrica-m6-x-1-por-100u-_JM#position=10&search_layout=grid&type=item&tracking_id=58a8e696-384b-4eec-be72-f6eadc923bd2) M6 y las [mariposas](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Mariposa.STL) en el agujero de la [tapa superior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Superior.STL) y en el [totalizador](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Totalizador.STL).
+   
+(imagen)
+
+6. Enviar un correo electrónico a soporte@omixom.com para conseguir el número de serie.
+   
+La instalación tiene que ser en un lugar despejado y con el [panel solar](https://www.trvstore.com/paneles-solares/113-mod-fotovoltaico-15-wp-18v-083a-16mm-tipo-szyl-p15-18c.html) y el [sensor de luz ultravioleta](https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8) apuntando al norte. Para facilitar esta instalación, las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) tienen un agujero ovalado que se puede usar para sujetar el dispositivo, con precintos por ejemplo, a algún soporte.
+Se reomienda leer el [manual de uso](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) para más información sobre el proyecto, el dispositivo y el cuidado y mantenimiento que hay que darle. 
+
 
