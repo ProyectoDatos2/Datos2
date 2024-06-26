@@ -59,9 +59,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center"><a href = "Impresion 3D STL\Agarre\Agarre_Fijacion.STL">Fijación</a></td>
       <td align="center">1</td></tr><tr>
       <td align="center"><a href = "Impresion 3D STL\Agarre\Agarre_Mariposa.STL">Mariposa</a></td>
-      <td align="center">1</td></tr><tr>
-      <td align="center"><a href = "Impresion 3D STL\Agarre\Agarre_Traba.STL">Traba</a></td>
-      <td align="center">1</td></tr></tbody></table>
+      <td align="center">4</td></tr></tbody></table>
 
 <table align="left"><thead><tr>
       <th>Ferretería</th>
@@ -69,32 +67,30 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-935747094-pluviometro-plastico-luft-aro-medidor-lluvia-soporte-pared-_JM#position=8&search_layout=grid&type=item&tracking_id=40f3e3c5-67b8-4b75-a9dc-d82897870d00">Pluviómetro</a></td>
       <td align="center">1 de Ø125 mm</td></tr><tr>
       <td align="center">Tornillos</td>
-      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d">M3 x 8mm x 8</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513">M3 x 30mm x 1</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2">M4 x 15mm x 4</a><br/><a href="https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1">M4 x 75mm x 3</a></td></tr><tr>
+      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d">M3 x 8 mm x 8</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513">M3 x 30 mm x 1</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2">M4 x 15 mm x 4</a><br/><a href="https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1">M4 x 75 mm x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-931254077-bulon-grado-88-m6-50-ma-100-unid-_JM#position=14&search_layout=stack&type=item&tracking_id=b18d336e-463e-4b2a-a2ef-7199dae64cab">M6 x 50 mm x 2</a></td></tr><tr>
       <td align="center">Tuercas</td>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032">M3 x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d">M4 x 16</a></td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a">Varilla Roscada</a></td>
-      <td align="center">M4 x 60mm x 3</a><br/>M4 x 210mm x 3</td></tr><tr>
+      <td align="center">M4 x 60 mm x 3</a><br/>M4 x 210 mm x 3</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1">Cable de 4 Hilos</a></td>
-      <td align="center">3m</td></tr><tr>
+      <td align="center">3 m</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3">Prensacable Plástico 1/2</a></td>
       <td align="center">6</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1123750333-bornera-divisible-new-motion-pcable-25mm-_JM?variation=179893909693#reco_item_pos=2&reco_backend=ranker_vip_v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=590e2a83-78eb-46df-b734-4a96798e51a0">Bornera</a></td>
       <td align="center">2</td></tr><tr>
-      <td align="center"><a href="https://www.herrerocons.es/producto/manguito-union-tubo-pvc-110mm-claro-cod-1000717/">Tubo Unión PVC 110mm</a></td>
+      <td align="center"><a href="https://www.herrerocons.es/producto/manguito-union-tubo-pvc-110mm-claro-cod-1000717/">Tubo Unión PVC 110 mm</a></td>
       <td align="center">1</td></tr><tr>
-      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30">O'ring 110mm</a></td>
+      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30">O-Ring Ø110 mm</a></td>
       <td align="center">2</td></tr><tr>
       <td align="center"><a href="https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668">Cristal de Soldadura</a></td>
       <td align="center">1</td></tr><tr>
-      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-926213442-termocontraible-negro-6-mm-contrae-a-3-mm-por-1-metro-_JM#position=24&search_layout=stack&type=item&tracking_id=e86bf665-c37a-4c91-992f-f2ff9ed5f905">Termocontraíble 3mm</a></td>
-      <td align="center">Poco</td></tr><tr>
+      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-926213442-termocontraible-negro-6-mm-contrae-a-3-mm-por-1-metro-_JM#position=24&search_layout=stack&type=item&tracking_id=e86bf665-c37a-4c91-992f-f2ff9ed5f905">Termocontraíble Ø3 mm</a></td>
+      <td align="center">30 cm</td></tr><tr>
       <td align="center"><a href="https://www.mercadolibre.com.ar/sellador-tacsa-silicona-acetica-color-transparente/p/MLA27649062#searchVariation=MLA27649062&position=3&search_layout=stack&type=product&tracking_id=52e10322-f6e2-4aa6-902a-391dd70c1d53">Silicona</a></td>
       <td align="center">Poco</td></tr><tr>
       <td align="center"><a href="https://www.mercadolibre.com.ar/la-gotita-adhesivo-instantaneo-2ml/p/MLA28207746#searchVariation=MLA28207746&position=21&search_layout=grid&type=product&tracking_id=c36740ee-e7bf-424d-8e3e-31748246c240">Pegamento Instantáneo</a></td>
       <td align="center">Poco</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1320701568-acuarel-interior-y-exterior-latex-x-1-lt-_JM?attributes=COLOR_SECONDARY_COLOR%3AVmVyZGUgRm9yZXN0YWw%3D&quantity=1">Pintura Látex</a></td>
-      <td align="center">Poco</td></tr><tr>
-      <td align="center"><a href="https://www.google.com/search?q=grasa+ferreteria&sca_esv=0bc43c4c8dd2597c&rlz=1C1ONGR_esAR1060AR1060&udm=2&ei=JcJ6Zo_iB67c1sQPv-WS0AE&ved=0ahUKEwjPiKyn6vaGAxUurpUCHb-yBBoQ4dUDCBA&uact=5&oq=grasa+ferreteria&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGdyYXNhIGZlcnJldGVyaWEyBRAAGIAESP4RUBdYuQ5wAHgAkAEAmAHlAaABlQuqAQU3LjMuMrgBA8gBAPgBAZgCDKACwAvCAg0QABiABBixAxhDGIoFwgIKEAAYgAQYQxiKBcICBhAAGAUYHsICBhAAGAgYHsICBxAAGIAEGBiYAwCIBgGSBwU3LjMuMqAH0B4&sclient=gws-wiz-serp">Grasa</a></td>
       <td align="center">Poco</td></tr></tbody></table>
 
 <table align="center"><thead><tr>
@@ -323,8 +319,8 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 5. Colocar el PCB en las varillas de metal con la orientación de la imagen y armar los Molex así: 
 <table align="center"><thead><tr>
       <th>Molex</th>
-      <th>Pin del Molex</th>
-      <th>Uso del Pin</th></tr></thead><tbody><tr>
+      <th>Pin</th>
+      <th>Uso</th></tr></thead><tbody><tr>
       <td align="center">Driver celda de carga</td>
       <td align="center">1<br>2<br>3<br>4</td>
       <td align="center">CLK<br>Datos<br>GND<br>VCC</td></tr><tr>
@@ -354,24 +350,22 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 
 ## **Paso 5** - Integración Final
+grasa
+1. Agujerear el [tubo](https://www.herrerocons.es/producto/manguito-union-tubo-pvc-110mm-claro-cod-1000717/) con huecos de 12 mm siguiendo esta [guía](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/Guia%20de%20perforaciones%20para%20refugio.PDF).
 
-Para este paso se necesita:
+(imagen)
 
-- Integración Sistemas Eléctricos Terminado
-- [Tubo 4" Unión entre 2](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202.jpg)
-- O’ Ring 
-- WD40
-- 3 tornillos M3
-- 3 tornillos M4
+2. Colocar el [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30) y pegar los [topes](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tope.STL) con pegamento instantáneo en la [tapa superior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Superior.STL).
 
-1. De ser posible, agujerear huecos de 15 mm cada 45 mm alrededor de la base del tubo, en dos hileras con una distancia de 20 mm desde los centros.
+(imagen)
 
-2. [Insertar O'Ring](Imagenes/Ensamble/Sistema%20General/Tapa%20con%20O'Ring.jpg) y pegar con Ciano los topes como se observa en la imagen.
+3. Colocar el tubo en la tapa superior y atornillar la [base del sensor de luz ultravioleta](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con tornillos M3 de 8 mm y tuercas M3.
 
-3. [Colocar Tapa](Imagenes/Ensamble/Sistema%20General/Tubo%20Union%20entre%202%20con%20Tapa.jpg) sobre el tubo y atornillar.
+(imagen)
 
-4. Insertar los sistemas eléctricos. Se recomienda aplicar WD40 sobre el O’ Ring para que deslice más fácilmente. Al encajar, ajuste los tornillos sobre los topes para que quede sujetado.
+4. Insertar el sistema eléctrico en el tubo y atornillar los tornillos M4 de 75 mm en los orificios de los topes.
 
-5. Atornillar el sistema UV contrario al encaje con el soporte como se muestra en la [foto.](Imagenes/Ensamble/Sistema%20General/Sistema%20General%20Terminado.jpg)
+(imagen)
 
-Para conseguir el numero serial, hay que enviar un correo electronico a soporte@omixom.com.
+5. Enviar un correo electrónico a soporte@omixom.com para conseguir el número serial.
+
