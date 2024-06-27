@@ -5,7 +5,7 @@ To change language:&nbsp;&nbsp;
 
 Datos² es una plataforma ofrecida por OMIXOM que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana de la comunidad.
 
-Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado [EME](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica de uso educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EMA está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
+Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado [EME](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EMA está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
 
 <img align="center" width="260" height="430" src="Imagenes/FotoSEHMA.png">
 <br>
