@@ -234,25 +234,11 @@ Para comprobar que funcione y calibrar el Step-Up: poner las baterías, conectar
 
 ### **Paso 2** - Preparar sensor UV
 
-
-Para la estructura sensor UV se necesita:
-
-<img align="right" width="300" height="300" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png">
-
-
-- [Base Sensor UV](Impresion%203D%20STL/UV/UV_Base.STL)
-- [Cuerpo Sensor UV](Impresion%203D%20STL/UV/UV_Cuerpo.STL)
-- [Tapa Sensor UV](Impresion%203D%20STL/UV/UV_Tapa.STL)
-- [Lente Sensor UV](Imagenes/Ensamble/Conjunto%20UV/Lente%20Sensor%20UV.jpg)
-- Sensor UV 8511
-- 1 m de cable de 4 polos
-- 4 tornillos M3 x 8 mm
-
 1. Primero se debe soldar los cables en el orden indicado en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Conexión%20sensor%20UV.png). Asegurarse de que la soldadura sea del mismo lado que el integrado.
 2. Luego, atornillar el sensor a la base del sensor como se ve en esta [imagen](Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png).
 3. Finalmente, ajustar los tornillos inferiores entre la base y el cuerpo, para luego pegar con la gotita el lente y asegurarlo con la tapa para que quede como la imagen a la derecha (deben coincidir las muescas de la tapa y el cuerpo).
 
-El conjunto se deberia ver de [esta manera](Imagenes/Ensamble/Conjunto%20UV/Posicion%20Sensor%20UV.jpg) al estar en el sistema final.
+Pasar el cable de 4 polos por el hueco de la base
 
 ### **Paso 3** - Preparar Pluviómetro
 
