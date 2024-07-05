@@ -191,16 +191,13 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 ### **Paso 3** - Integración
 
-<img align="right" width="500" height="455" src="Imagenes/PCB/Placa Terminada.png">
+1. [Instalar](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) las [librerías](https://github.com/ProyectoDatos2/Datos2/tree/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias) y [cargar](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-uploading-a-sketch/) el [programa](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en el [Arduino](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30).
 
-<br><br>
+(imagen)
 
-Ahora lo que hay que hacer es cargar el [programa](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en la Arduino. Para instalar las librerias, sigue los pasos detallados en este [tutorial](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) para importar [librerias](SEHMA/Arduino_Nano+A6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias/) .zip. Insertar cada componente (habiendo asegurado que funcionan correctamente) en su lugar. Colocar el chip en el modem y [pila en el RTC](Imagenes/PCB/Posicion%20Pila%20RTC.jpg).
-Finalmente, colocar el prensa cables en la antena y, a travez del pigtail, conectarlo al modem.
+2. Colocar los componentes. Poner el [chip](https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae) en el [modem](https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563) y la [pila](https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec) en el [RTC](https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom). 
 
-Para [colocar el prensa cables en la antena](Imagenes/PCB/Prensa%20Cables%20para%20Antena.jpg), hay que primero perforar el prensa cables con una mecha de 9,5 mm (sacarle la goma prensadora). Luego donde se sujetará el prensa cables, dar 6 o 7 vueltas de cinta aislante para engrosar el cable y asegurar el correcto funcionamiento del prensador.
-
-<br><br><br><br><br><br>
+(imagen)
 
 ## Ensamblaje Sistema
 ### **Paso 1** - Preparar sistema de Autonomía
@@ -356,8 +353,6 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 5. Colocar las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) con un [tornillo](https://articulo.mercadolibre.com.ar/MLA-1161252470-bulon-tornillo-motor-m6-x-45mm-exagono-8mm-tornado-shop-_JM#position=4&search_layout=stack&type=item&tracking_id=4b230858-6045-4172-8137-ba08bb35db4a) y [tuerca](https://articulo.mercadolibre.com.ar/MLA-1754670680-tuerca-metrica-m6-x-1-por-100u-_JM#position=10&search_layout=grid&type=item&tracking_id=58a8e696-384b-4eec-be72-f6eadc923bd2) M6 y las [mariposas](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Mariposa.STL) en el agujero de la [tapa superior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Superior.STL) y en el [totalizador](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Totalizador.STL).
    
 (imagen)
-
-6. Enviar un correo electrónico a soporte@omixom.com para conseguir el número de serie.
    
 La instalación tiene que ser en un lugar despejado y con el [panel solar](https://www.trvstore.com/paneles-solares/113-mod-fotovoltaico-15-wp-18v-083a-16mm-tipo-szyl-p15-18c.html) y el [sensor de luz ultravioleta](https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8) apuntando al norte. Para facilitar esta instalación, las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) tienen un agujero ovalado que se puede usar para sujetar el dispositivo, con precintos por ejemplo, a algún soporte.
 Se reomienda leer el [manual de uso](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) para más información sobre el proyecto, el dispositivo y el cuidado y mantenimiento que hay que darle. 
