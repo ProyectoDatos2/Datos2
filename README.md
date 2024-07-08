@@ -178,7 +178,7 @@ Ten a mano todos los componentes necesarios para la placa. Se recomienda probar 
 <br>
 
 <img align="center" width="1200" height="550" src="Imagenes/PCB/Componentes Necesarios.jpg">
-
+<br>
 ### **Paso 2** - Soldadura
 
 <img align="right" width="455" height="455" src="Imagenes/PCB/Pines Placa.png">
@@ -229,6 +229,7 @@ Todos los empalmes se los aísla con un termocontraíble y el cableado debe ser 
 Para comprobar que funcione y calibrar el Step-Up: poner las baterías, conectar una fuente de alimentación (18V y 0,6A) en las borneras, puentear el positivo de la salida inferior del cargador solar con el positivo de la entrada del Step-Up, conectar un voltímetro a la salida del Step-Up y regular el trimmer del Step-Up hasta tener una salida de 5V.
 
 (colocar imagen)
+
 <br>
 
 ### **Paso 2** - Preparar sensor UV
@@ -238,6 +239,8 @@ Para comprobar que funcione y calibrar el Step-Up: poner las baterías, conectar
 3. Finalmente, ajustar los tornillos inferiores entre la base y el cuerpo, para luego pegar con la gotita el lente y asegurarlo con la tapa para que quede como la imagen a la derecha (deben coincidir las muescas de la tapa y el cuerpo).
 
 Pasar el cable de 4 polos por el hueco de la base
+
+<br>
 
 ### **Paso 3** - Preparar Pluviómetro
 
@@ -284,6 +287,8 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 </table>
 
 8. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar sobre la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Pintado%20y%20Colocacion%20Sensor%20Raindrop.png) pintando con la pintura latex por encima del sensor y ajustando con los tornillos M3.
+
+<br>
 
 ### **Paso 4** - Integración Sistemas Eléctricos
 
@@ -333,6 +338,8 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 7. Empalmar un cable de 4 hilos del interruptor en el positivo de la salida inferior del cargador solar. Soldar el otro cable de 4 hilos del interruptor en el positivo de la entrada del Step-Up.
 
 (imagen)
+
+<br>
 
 ## **Paso 5** - Integración Final
 
