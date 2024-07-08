@@ -3,9 +3,9 @@ To change language:&nbsp;&nbsp;
 
 # Datos² y EME
 
-Datos² es una plataforma ofrecida por OMIXOM que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana de la comunidad.
+Datos² es una plataforma ofrecida por [OMIXOM](https://www.omixom.com/) que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana de la comunidad.
 
-Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado [EME](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EMA está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
+Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado [EME](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EME está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
 
 <img align="center" width="260" height="430" src="Imagenes/FotoSEHMA.png">
 <br>
@@ -195,9 +195,11 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 (imagen)
 
-2. Colocar el Arduino, el sensor de lluvia, el driver MOSFET, el [modem](https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563) (ponerle [adaptador pigtail](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) y [chip](https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae)) y el [RTC](https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom) (ponerle la [pila](https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec)).
+2. Colocar el [Arduino](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30), el [sensor de lluvia](https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d), el [driver MOSFET](https://articulo.mercadolibre.com.ar/MLA-732240129-modulo-driver-mosfet-irf520-24v-9a-controlador-arduino-pic-_JM#position=2&search_layout=grid&type=item&tracking_id=4971c395-66a7-4063-87e5-2919493828b4), el [modem](https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563) (ponerle [adaptador pigtail](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) y [chip](https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae)) y el [RTC](https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom) (ponerle la [pila](https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec)).
 
 (imagen)
+
+<br>
 
 ## Ensamblaje Sistema
 ### **Paso 1** - Preparar sistema de Autonomía
