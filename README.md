@@ -195,7 +195,8 @@ Con un soldador de estaño como [este](https://www.mercadolibre.com.ar/soldador-
 
 ### **Paso 3** - Integración
 
-1. [Instalar](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) las [librerías](https://github.com/ProyectoDatos2/Datos2/tree/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias) y [cargar](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-uploading-a-sketch/) el [programa](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) en el [Arduino](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30).
+1. Enviar un correo electrónico a soporte@omixom.com para conseguir su número de serie.
+2. [Instalar](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) las [librerías](https://github.com/ProyectoDatos2/Datos2/tree/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias) y [cargar](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-uploading-a-sketch/) el [programa](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) (modificar la línea 30 con su número de serie) en el [Arduino](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30).
 
 (imagen)
 
