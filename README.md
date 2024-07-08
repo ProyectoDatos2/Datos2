@@ -171,6 +171,8 @@ Al ya tener la placa lista, perforando con una mecha de 1mm, debería verse así
 >[!IMPORTANT]
 >Hay que estar seguro de que no se hayan cometido errores durante el proceso, así que con un multímetro en modo continuidad se puede verificar que no haya cortocircuitos entre Vcc y GND, como también entre cada uno de los pines de los componentes.
 
+<br>
+
 ### **Paso 1** - Componentes
 
 Ten a mano todos los componentes necesarios para la placa. Se recomienda probar que cada uno de ellos esté funcionando correctamente. A continuación, se presenta una imagen con cada uno.
@@ -178,7 +180,9 @@ Ten a mano todos los componentes necesarios para la placa. Se recomienda probar 
 <br>
 
 <img align="center" width="1200" height="550" src="Imagenes/PCB/Componentes Necesarios.jpg">
+
 <br>
+
 ### **Paso 2** - Soldadura
 
 <img align="right" width="455" height="455" src="Imagenes/PCB/Pines Placa.png">
@@ -209,7 +213,10 @@ Todos los empalmes se los aísla con un termocontraíble y el cableado debe ser 
 (colocar imagen)
 
 2. Colocar un [cable molex de 2 pines](https://www.google.com/search?sca_esv=37db28bfa134011b&rlz=1C1ONGR_esAR1060AR1060&q=cable+molex+de+2+pines&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwi2udTDtPeGAxW8qZUCHSHgAloQtKgLegQIDxAB&biw=1366&bih=651&dpr=1) a todas las entradas y salidas del cargador solar.
-3. Colocar los 2 positivos de la entrada del cargador solar en una sola [bornera](https://articulo.mercadolibre.com.ar/MLA-1123750333-bornera-divisible-new-motion-pcable-25mm-_JM?variation=179893909693#reco_item_pos=2&reco_backend=ranker_vip_v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=590e2a83-78eb-46df-b734-4a96798e51a0). Colocar los 2 negativos de la entrada del cargador solar en otra [bornera](https://articulo.mercadolibre.com.ar/MLA-1123750333-bornera-divisible-new-motion-pcable-25mm-_JM?variation=179893909693#reco_item_pos=2&reco_backend=ranker_vip_v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=590e2a83-78eb-46df-b734-4a96798e51a0).   
+
+(colocar imagen)
+
+3. Colocar los 2 positivos de las entradas del cargador solar en una sola [bornera](https://articulo.mercadolibre.com.ar/MLA-1123750333-bornera-divisible-new-motion-pcable-25mm-_JM?variation=179893909693#reco_item_pos=2&reco_backend=ranker_vip_v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=590e2a83-78eb-46df-b734-4a96798e51a0). Colocar los 2 negativos de las entradas del cargador solar en otra bornera.   
 
 (colocar imagen)
  
@@ -226,7 +233,7 @@ Todos los empalmes se los aísla con un termocontraíble y el cableado debe ser 
 (colocar imagen)
 
 
-Para comprobar que funcione y calibrar el Step-Up: poner las baterías, conectar una fuente de alimentación (18V y 0,6A) en las borneras, puentear el positivo de la salida inferior del cargador solar con el positivo de la entrada del Step-Up, conectar un voltímetro a la salida del Step-Up y regular el trimmer del Step-Up hasta tener una salida de 5V.
+Para regular el Step-Up: poner las baterías, conectar una fuente de alimentación (18V y 0,6A) en las borneras, momentaneamente puentear el positivo de la salida inferior del cargador solar con el positivo de la entrada del Step-Up, conectar un voltímetro a la salida del Step-Up y regular el trimmer del Step-Up hasta tener una salida de 5V.
 
 (colocar imagen)
 
