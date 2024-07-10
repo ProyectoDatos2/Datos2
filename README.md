@@ -34,7 +34,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
       <td align="center">1</td></tr><tr>
       <td align="center"><a href = "Impresion 3D STL\Pluviómetro\Pluv_Mensula.STL">Ménsula</a></td>
       <td align="center">1</td></tr><tr>
-      <td align="center"><a href = "Impresion 3D STL\Pluviómetro\Pluv_Tapa.STL">Tapa</a></td>
+      <td align="center"><a href = "Impresion 3D STL\Pluviómetro\Pluv_Tapa.STL">Tapa pluviómetro</a></td>
       <td align="center">1</td></tr><tr>
       <td align="center"><a href = "Impresion 3D STL\Pluviómetro\Pluv_Totalizador.STL">Totalizador</a></td>
       <td align="center">1</td></tr><tr>
@@ -58,7 +58,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
       <td align="center">1</td></tr><tr>
       <td align="center"><a href = "Impresion 3D STL\UV\UV_Cuerpo.STL">Cuerpo</a></td>
       <td align="center">1</td></tr><tr>
-      <td align="center"><a href = "Impresion 3D STL\UV\UV_Tapa.STL">Tapa</a></td>
+      <td align="center"><a href = "Impresion 3D STL\UV\UV_Tapa.STL">Tapa UV</a></td>
       <td align="center">1</td></tr><tr>
       <td align="center"><a href = "Impresion 3D STL\Agarre\Agarre_Fijacion.STL">Fijación</a></td>
       <td align="center">2</td></tr><tr>
@@ -75,7 +75,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
       <td align="center">Tuercas</td>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032">M3 x 3</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d">M4 x 16</a><br/><a href="https://articulo.mercadolibre.com.ar/MLA-1754670680-tuerca-metrica-m6-x-1-por-100u-_JM#position=10&search_layout=grid&type=item&tracking_id=58a8e696-384b-4eec-be72-f6eadc923bd2">M6 x 2</a></td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a">Varilla Roscada</a></td>
-      <td align="center">M4 x 65 mm x 3</a><br/>M4 x 210 mm x 3</td></tr><tr>
+      <td align="center">5/32 x 65 mm x 3</a><br/>5/32 x 210 mm x 3</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1">Cable de 4 Hilos</a></td>
       <td align="center">3 m</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3">Prensacable Plástico 1/2</a></td>
@@ -199,40 +199,37 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 <p align="center">
   <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
 
-2. Atornillar el sensor a su [base](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Base.STL) (pasar el cable por el hueco) y la base al [cuerpo](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con [tornillos M3 de 8mm](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d). Pegar el [cristal](https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668) al cuerpo con pegamento instantaneo y colocarle la [tapa](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Tapa.STL) encima.
+2. Atornillar el sensor a su [base](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Base.STL) (pasar el cable por el hueco) y la base al [cuerpo](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con [tornillos M3 de 8mm](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d). Pegar el [cristal](https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668) al cuerpo con pegamento instantaneo y colocarle la [tapa UV](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Tapa.STL) encima.
 
 <p align="center">
   <img width="245" height="230" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>
 
 ## Pluviómetro
+1. Atornillar el localizador a la celda de carga con doble arandela y tornillos M4. Atornillar la celda de carga al totalizador.
+<p align="center">
+  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
 
-1. Colocar las varillas de 210 mm con tuercas M4 en el totalizador.
-
-2. Se colocan las [arandelas y tornillos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Arandelas%20Localizador.jpg) y se [atornilla](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientacion%20Localizador.jpg) sobre la cara contraria a la flecha del peso de la celda de carga
-
-3. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
-
-5. Sobre el totalizador, se coloca la celda de carga con la [orientación correcta](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientación%20Celda%20de%20Carga.jpg) y se [atornilla desde abajo](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg).
-
-6. Conectar la [celda de carga al driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) y los cables de entrada/salida del otro lado (acordarse como conectó cada cable porque luego esto queda sellado).
-
-7. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
-
-8. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, asi queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no esté a nivel.
-
-<table align="center">
-  <thead>
-    <tr>
-      <th><img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 1.jpg"></th>
-      <th><img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 2.jpg"></th>
-      <th><img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 3.jpg"></th>
-    </tr>
-  </thead>
-</table>
-
-8. Para finalizar, [conectar sensor raindrop](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexion%20Sensor%20Raindrop.png) y [colocar sobre la mensula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Pintado%20y%20Colocacion%20Sensor%20Raindrop.png) pintando con la pintura latex por encima del sensor y ajustando con los tornillos M3.
-
-<br>
+2. Conectar la celda de carga y un cable de 4 hilos de 40cm al driver así:
+<p align="center">
+  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  
+3. Poner el driver adentro de los estancos A, poner silicona, tapar con estanco B y colocarlo al lado de la celda de carga.
+<p align="center">
+  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  
+4. Colocar las varillas de 210 mm con tuercas M4 en el totalizador, poner la tapa pluviometro y tuercas M4.
+<p align="center">
+  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  
+5. Soldar un cable de 4 hilos de 60cm en el raindrop, 2 hilos en un pad y 2 hilos en el otro. Atornillar el raindrop en la ménsula con tornillos M3.
+<p align="center">
+  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  
+6. Colocar la ménsula y el aro en las varillas. Nivelar el aro ajustando las tuercas.
+<p align="center">
+  <img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 1.jpg">
+  <img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 2.jpg">
+  <img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 3.jpg"></p><br>
 
 ## Integración de los Sistemas Eléctricos
 
