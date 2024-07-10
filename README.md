@@ -3,9 +3,9 @@ To change language:&nbsp;&nbsp;
 
 # Datos² y EME
 
-Datos² es una plataforma ofrecida por [OMIXOM](https://www.omixom.com/) que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana de la comunidad.
+[Datos²](https://datos2.redesclimaticas.com/) es una plataforma ofrecida por [OMIXOM](https://www.omixom.com/) que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana con el objetivo de tener un crecimiento exponencial de datos para la comunidad.
 
-Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM ha diseñado [EME](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos en tecnología y medio ambiente. EME está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
+Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseñado [EME](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos de tecnología y medio ambiente. EME está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
 
 <br>
 <p align="center">
@@ -190,7 +190,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
 4. Conectar el negativo de la salida inferior del cargador solar con el negativo de la entrada del módulo Step-Up.
 
 <p align="center">
-  <img width="" height="" src=""></p>
+  <img width="212" height="115" src="Imagenes/Ensamble/Sistema de Autonomía/Negativo salida cargador solar y entrada de Step-Up.png"></p>
  
 5. Colocar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) de 10cm en la salida del Step-Up, 2 hilos se conectan al positivo y los otros 2 al negativo.
 
@@ -207,8 +207,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
 2. Atornillar el sensor a su [base](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Base.STL) (pasar el cable por el hueco) y la base al [cuerpo](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con [tornillos M3 de 8mm](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d). Pegar el [cristal](https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668) al cuerpo con pegamento instantaneo y colocarle la [tapa](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Tapa.STL) encima.
 
 <p align="center">
-  <img width="213" height="160" src="Imagenes/Ensamble/Conjunto%20UV/Colocación%20Sensor%20UV.png">
-  <img width="218" height="204" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>
+  <img width="245" height="230" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>
 
 ## Pluviómetro
 
