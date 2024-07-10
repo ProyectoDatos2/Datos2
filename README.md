@@ -61,7 +61,7 @@ Con el objetivo de contribuir al desarrollo de herramientas accesibles, OMIXOM h
       <td align="center"><a href = "Impresion 3D STL\UV\UV_Tapa.STL">Tapa</a></td>
       <td align="center">1</td></tr><tr>
       <td align="center"><a href = "Impresion 3D STL\Agarre\Agarre_Fijacion.STL">Fijación</a></td>
-      <td align="center">1</td></tr><tr>
+      <td align="center">2</td></tr><tr>
       <td align="center"><a href = "Impresion 3D STL\Agarre\Agarre_Mariposa.STL">Mariposa</a></td>
       <td align="center">4</td></tr></tbody></table>
 
@@ -276,7 +276,7 @@ Para el conjunto del pluviómetro se precisa de lo siguiente:
 
 (imagen)
 
-4. Pasar los cables por los prensacables como en la imagen. Para que pase el [conector SMA de la antena](https://tienda.ityt.com.ar/antenas-gsm-2g-3g-4g/8259-antena-modem-2g-3g-4g-lte-exterior-cable-5m-sma-itytarg.html) hay que perforar el prensacable (sin la gomita) con una mecha de 9,5 mm; como no va a pasar la gomita, donde iría esta se le dan 7 vueltas de cinta aislante. Pasar el conector SMA por el prensacable, conectarlo con el [SMA del pigtail](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) del módem y darle unas vueltas de cinta aislante a la parte metálica.
+4. Pasar los cables por los prensacables como en la imagen. Para que pase el [conector SMA de la antena](https://tienda.ityt.com.ar/antenas-gsm-2g-3g-4g/8259-antena-modem-2g-3g-4g-lte-exterior-cable-5m-sma-itytarg.html) hay que perforar el prensacable (sin la gomita) con una mecha de 9,5 mm; como no va a pasar la gomita, en el cable de la antena donde iría esta se le dan 7 vueltas de cinta aislante. Pasar el conector SMA por el prensacable, conectarlo con el [SMA del pigtail](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) del módem y darle unas vueltas de cinta aislante a la parte metálica.
 
 (imagen)
 
