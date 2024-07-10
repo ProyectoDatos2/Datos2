@@ -207,11 +207,12 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 ## Pluviómetro
 1. Atornillar el localizador a la celda de carga con doble arandela y tornillos M4. Atornillar la celda de carga al totalizador.
 <p align="center">
-  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  <img width="208" height="145" src="Imagenes/Ensamble/Conjunto Pluviómetro/union localizador y celda de carga.png">
+  <img width="215" height="163" src="Imagenes/Ensamble/Conjunto Pluviómetro/union celda de carga y totalizador.png"></p>
 
 2. Conectar la celda de carga y un cable de 4 hilos de 40cm al driver así:
 <p align="center">
-  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  <img width="210" height="100" src="Imagenes/Ensamble/Conjunto Pluviómetro/conexion driver.png"></p>
   
 3. Poner el driver adentro de los estancos A, poner silicona, tapar con estanco B y colocarlo al lado de la celda de carga.
 <p align="center">
