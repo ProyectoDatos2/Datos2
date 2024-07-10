@@ -9,7 +9,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 
 <br>
 <p align="center">
-  <img width="260" height="430" src="Imagenes/FotoEME.png">
+  <img width="237" height="391" src="Imagenes/FotoEME.png">
 </p>
 <br>
 
@@ -167,7 +167,6 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 6. [Instalar](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/) las [librerías](https://github.com/ProyectoDatos2/Datos2/tree/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Librerias) y [cargar](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-uploading-a-sketch/) el [programa](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/SEHMA/Arduino_Nano%2BA6mini_GPRS/Firmware/Estacion_v1.4_1hora/Estacion_v1.4_1hora.ino) (modificar la línea 30 con su número de serie) en el [Arduino](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30).
 
 7. Colocar el [Arduino](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30), el [sensor de lluvia](https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d), el [driver MOSFET](https://articulo.mercadolibre.com.ar/MLA-732240129-modulo-driver-mosfet-irf520-24v-9a-controlador-arduino-pic-_JM#position=2&search_layout=grid&type=item&tracking_id=4971c395-66a7-4063-87e5-2919493828b4), el [modem](https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563) (ponerle [adaptador pigtail](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) y [chip](https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae)) y el [RTC](https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom) (ponerle la [pila](https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec)).
-   
 <p align="center">
   <img width="208" height="217" src="Imagenes/PCB/Componentes.png"></p><br>
 
@@ -176,26 +175,22 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 1. Regular el [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-desarrollo-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e) a 5V.
 
 2. Pegar con el pegamento instantáneo: el [cargador solar](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a) a [su holder](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Cargador.STL), el [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-desarrollo-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e) a [su holder](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Step%20Up.STL) y los [porta baterías](https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569) y holders a la [placa porta batería](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Placa%20Portapilas.STL).
-
 <p align="center">
-  <img width="219" height="202" src="Imagenes/Ensamble/Sistema de Autonomía/sistema de autonomia.png"></p>
+  <img width="200" height="184" src="Imagenes/Ensamble/Sistema de Autonomía/sistema de autonomia.png"></p>
 
 2. Colocar un [cable molex de 2 pines](https://www.google.com/search?sca_esv=37db28bfa134011b&rlz=1C1ONGR_esAR1060AR1060&q=cable+molex+de+2+pines&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwi2udTDtPeGAxW8qZUCHSHgAloQtKgLegQIDxAB&biw=1366&bih=651&dpr=1) a todas las entradas y salidas del cargador solar.
  
 3. Empalmar la salida superior del cargador solar con los porta baterías.
-
 <p align="center">
   <img width="137" height="201" src="Imagenes/Ensamble/Sistema de Autonomía/Salida superior cargador solar.png"></p>
  
 4. Conectar el negativo de la salida inferior del cargador solar con el negativo de la entrada del módulo Step-Up.
-
 <p align="center">
-  <img width="212" height="115" src="Imagenes/Ensamble/Sistema de Autonomía/Negativo salida cargador solar y entrada de Step-Up.png"></p>
+  <img width="233" height="127" src="Imagenes/Ensamble/Sistema de Autonomía/Negativo salida cargador solar y entrada de Step-Up.png"></p>
  
 5. Colocar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) de 10cm en la salida del Step-Up, 2 hilos se conectan al positivo y los otros 2 al negativo.
-
 <p align="center">
-  <img width="221" height="181" src="Imagenes/Ensamble/Sistema de Autonomía/Salida del Step-Up.png"></p><br>
+  <img width="212" height="174" src="Imagenes/Ensamble/Sistema de Autonomía/Salida del Step-Up.png"></p><br>
 
 ## Sensor UV
 
@@ -211,21 +206,19 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 
 ## Pluviómetro
 
-<img align="right" width="400" height="500" src="Imagenes/Ensamble/Conjunto Pluviómetro/Terminado.png">
+1. Colocar las varillas de 210 mm con tuercas M4 en el totalizador.
 
-1. Hay que colocar las varillas de 210 mm en el aro totalizador, asegurando que el aro quede a nivel con respecto el suelo como se muestran las imágenes de ejemplo al final de la sección.
+2. Se colocan las [arandelas y tornillos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Arandelas%20Localizador.jpg) y se [atornilla](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientacion%20Localizador.jpg) sobre la cara contraria a la flecha del peso de la celda de carga
 
-2. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
+3. Del lado de la muesca en el aro, [se inserta la ménsula](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Mensula.jpg), sujetada tambien por otra rosca.
 
-3. Se colocan las [arandelas y tornillos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Arandelas%20Localizador.jpg) y se [atornilla](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientacion%20Localizador.jpg) sobre la cara contraria a la flecha del peso de la celda de carga
+5. Sobre el totalizador, se coloca la celda de carga con la [orientación correcta](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientación%20Celda%20de%20Carga.jpg) y se [atornilla desde abajo](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg).
 
-4. Sobre el totalizador, se coloca la celda de carga con la [orientación correcta](Imagenes/Ensamble/Conjunto%20Pluviómetro/Orientación%20Celda%20de%20Carga.jpg) y se [atornilla desde abajo](Imagenes/Ensamble/Conjunto%20Pluviómetro/Tornillos%20Celda%20de%20Carga.jpg).
+6. Conectar la [celda de carga al driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) y los cables de entrada/salida del otro lado (acordarse como conectó cada cable porque luego esto queda sellado).
 
-5. Conectar la [celda de carga al driver](Imagenes/Ensamble/Conjunto%20Pluviómetro/Conexión%20Celda%20de%20Carga.png) y los cables de entrada/salida del otro lado (acordarse como conectó cada cable porque luego esto queda sellado).
+7. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
 
-6. Guardar el driver [dentro de los estancos A y B](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Driver%20Celda%20de%20Carga.jpg) y [posicionar al lado de la celda](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocacion%20Driver%20Celda%20de%20Carga%202.jpg) para luego [colocar la tapa sobre ambos](Imagenes/Ensamble/Conjunto%20Pluviómetro/Colocación%20Tapa.jpg).
-
-7. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, asi queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no esté a nivel.
+8. Ya casi terminando, inserte primero las contra roscas en las varillas, para luego colocar el aro en el totalizador, ajustando tambien roscas del [lado contrario](Imagenes/Ensamble/Conjunto%20Pluviómetro/Roscas%20por%20Abajo.jpg) y que las varillas queden al ras del piso del totalizador, asi queda a nivel el aro. Volver a comprobar el nivel del aro y hacer ajustes necesarios en caso de que no esté a nivel.
 
 <table align="center">
   <thead>
