@@ -153,8 +153,8 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 
 2. Perforar el PCB con mecha de 1 mm, así:
 <p align="center">
-  <img width="215" height="190" src="Imagenes/PCB/PCB Abajo.png">
-  <img width="215" height="190" src="Imagenes/PCB/PCB Arriba.png"></p>
+  <img width="237" height="210" src="Imagenes/PCB/PCB Abajo.png">
+  <img width="237" height="210" src="Imagenes/PCB/PCB Arriba.png"></p>
 
 3. Comprobar que haya continuidad donde tiene que haber y que no haya donde no tiene que haber.
 
@@ -176,19 +176,19 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 
 2. Pegar con el pegamento instantáneo: el [cargador solar](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a) a [su holder](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Cargador.STL), el [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-desarrollo-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e) a [su holder](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Step%20Up.STL) y los [porta baterías](https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569) y holders a la [placa porta batería](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Placa%20Portapilas.STL).
 <p align="center">
-  <img width="200" height="184" src="Imagenes/Ensamble/Sistema de Autonomía/sistema de autonomia.png"></p>
+  <img width="240" height="221" src="Imagenes/Ensamble/Sistema de Autonomía/sistema de autonomia.png"></p>
 
-2. Colocar un [cable molex de 2 pines](https://www.google.com/search?sca_esv=37db28bfa134011b&rlz=1C1ONGR_esAR1060AR1060&q=cable+molex+de+2+pines&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwi2udTDtPeGAxW8qZUCHSHgAloQtKgLegQIDxAB&biw=1366&bih=651&dpr=1) a todas las entradas y salidas del cargador solar.
+3. Colocar un [cable molex de 2 pines](https://www.google.com/search?sca_esv=37db28bfa134011b&rlz=1C1ONGR_esAR1060AR1060&q=cable+molex+de+2+pines&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwi2udTDtPeGAxW8qZUCHSHgAloQtKgLegQIDxAB&biw=1366&bih=651&dpr=1) a todas las entradas y salidas del cargador solar.
  
-3. Empalmar la salida superior del cargador solar con los porta baterías.
+4. Empalmar la salida superior del cargador solar con los porta baterías.
 <p align="center">
   <img width="137" height="201" src="Imagenes/Ensamble/Sistema de Autonomía/Salida superior cargador solar.png"></p>
  
-4. Conectar el negativo de la salida inferior del cargador solar con el negativo de la entrada del módulo Step-Up.
+5. Conectar el negativo de la salida inferior del cargador solar con el negativo de la entrada del módulo Step-Up.
 <p align="center">
-  <img width="233" height="127" src="Imagenes/Ensamble/Sistema de Autonomía/Negativo salida cargador solar y entrada de Step-Up.png"></p>
+  <img width="396" height="216" src="Imagenes/Ensamble/Sistema de Autonomía/Negativo salida cargador solar y entrada de Step-Up.png"></p>
  
-5. Colocar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) de 10cm en la salida del Step-Up, 2 hilos se conectan al positivo y los otros 2 al negativo.
+6. Colocar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) de 10cm en la salida del Step-Up, 2 hilos se conectan al positivo y los otros 2 al negativo.
 <p align="center">
   <img width="212" height="174" src="Imagenes/Ensamble/Sistema de Autonomía/Salida del Step-Up.png"></p><br>
 
@@ -205,30 +205,30 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
   <img width="245" height="230" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>
 
 ## Pluviómetro
-1. Atornillar el localizador a la celda de carga con doble arandela y tornillos M4. Atornillar la celda de carga al totalizador desde abajo con tornillo M4.
+1. Atornillar el [localizador](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Localizador.STL) a la [celda de carga](https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef) con doble arandela y [tornillos M4 de 15 mm](https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2). Atornillar la celda de carga al [totalizador](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Totalizador.STL) desde abajo con tornillo M4 de 15 mm.
 <p align="center">
-  <img width="208" height="145" src="Imagenes/Ensamble/Conjunto Pluviómetro/union localizador y celda de carga.png">
-  <img width="215" height="163" src="Imagenes/Ensamble/Conjunto Pluviómetro/union celda de carga y totalizador.png"></p>
+  <img width="312" height="218" src="Imagenes/Ensamble/Conjunto Pluviómetro/union localizador y celda de carga.png">
+  <img width="290" height="220" src="Imagenes/Ensamble/Conjunto Pluviómetro/union celda de carga y totalizador.png"></p>
 
-2. Conectar la celda de carga y un cable de 4 hilos de 40cm al driver así:
+2. Conectar la celda de carga y un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) de 40cm a su driver así:
 <p align="center">
-  <img width="210" height="100" src="Imagenes/Ensamble/Conjunto Pluviómetro/conexion driver.png"></p>
+  <img width="315" height="150" src="Imagenes/Ensamble/Conjunto Pluviómetro/conexion driver.png"></p>
   
-3. Poner el driver adentro de los estancos A, poner silicona, tapar con estanco B y colocarlo al lado de la celda de carga.
+3. Poner el driver adentro del [estanco A](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Estanco%20A.STL), poner [silicona](https://www.mercadolibre.com.ar/sellador-tacsa-silicona-acetica-color-transparente/p/MLA27649062#searchVariation=MLA27649062&position=3&search_layout=stack&type=product&tracking_id=52e10322-f6e2-4aa6-902a-391dd70c1d53), tapar con [estanco B](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Estanco%20B.STL) y colocarlo al lado de la celda de carga.
 <p align="center">
   <img width="133" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/Driver con silicona en estanco A.png">
   <img width="285" height="212" src="Imagenes/Ensamble/Conjunto Pluviómetro/lugar estancos.png"></p>
   
-4. Colocar las varillas de 210 mm con tuercas M4 en el totalizador, poner la tapa pluviometro y tuercas M4.
+4. Colocar las [varillas](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a) de 210 mm con [tuercas M4](https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d) en el totalizador, poner la [tapa pluviometro](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Tapa.STL) y tuercas M4.
 <p align="center">
   <img width="174" height="211" src="Imagenes/Ensamble/Conjunto Pluviómetro/tuercas varillas.png">
   <img width="166" height="222" src="Imagenes/Ensamble/Conjunto Pluviómetro/varillas y tapa en totalizador.png"></p>
   
-5. Pintar con pintura látex el raindrop, soldarle un cable de 4 hilos de 60 cm (2 hilos en un pad y 2 hilos en el otro) y atornillarlo en la ménsula con tornillos M3.
+5. Pintar con [pintura látex](https://articulo.mercadolibre.com.ar/MLA-1320701568-acuarel-interior-y-exterior-latex-x-1-lt-_JM?attributes=COLOR_SECONDARY_COLOR%3AVmVyZGUgRm9yZXN0YWw%3D&quantity=1) el [raindrop](https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d), soldarle un cable de 4 hilos de 60 cm (2 hilos en un pad y 2 hilos en el otro) y atornillarlo en la [ménsula](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Mensula.STL) con [tornillos M3](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d).
 <p align="center">
   <img width="200" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/reindrop pintado y en mensula.png"></p>
   
-6. Colocar la ménsula y el aro en las varillas. Nivelar el aro ajustando las tuercas.
+6. Colocar la ménsula y el [aro](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Aro.STL) en las varillas. Nivelar el aro ajustando las tuercas.
 <p align="center">
   <img align="center" width="158" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/pluviometro.png">
   <img align="center" width="137" height="206" src="Imagenes/Ensamble/Conjunto Pluviómetro/nivelar 1.png">
