@@ -205,7 +205,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
   <img width="245" height="230" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>
 
 ## Pluviómetro
-1. Atornillar el localizador a la celda de carga con doble arandela y tornillos M4. Atornillar la celda de carga al totalizador.
+1. Atornillar el localizador a la celda de carga con doble arandela y tornillos M4. Atornillar la celda de carga al totalizador desde abajo con tornillo M4.
 <p align="center">
   <img width="208" height="145" src="Imagenes/Ensamble/Conjunto Pluviómetro/union localizador y celda de carga.png">
   <img width="215" height="163" src="Imagenes/Ensamble/Conjunto Pluviómetro/union celda de carga y totalizador.png"></p>
@@ -216,25 +216,28 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
   
 3. Poner el driver adentro de los estancos A, poner silicona, tapar con estanco B y colocarlo al lado de la celda de carga.
 <p align="center">
-  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  <img width="133" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/Driver con silicona en estanco A.png">
+  <img width="285" height="212" src="Imagenes/Ensamble/Conjunto Pluviómetro/lugar estancos.png"></p>
   
 4. Colocar las varillas de 210 mm con tuercas M4 en el totalizador, poner la tapa pluviometro y tuercas M4.
 <p align="center">
-  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  <img width="174" height="211" src="Imagenes/Ensamble/Conjunto Pluviómetro/tuercas varillas.png">
+  <img width="166" height="222" src="Imagenes/Ensamble/Conjunto Pluviómetro/varillas y tapa en totalizador.png"></p>
   
-5. Soldar un cable de 4 hilos de 60cm en el raindrop, 2 hilos en un pad y 2 hilos en el otro. Atornillar el raindrop en la ménsula con tornillos M3.
+5. Pintar con pintura látex el raindrop, soldarle un cable de 4 hilos de 60 cm (2 hilos en un pad y 2 hilos en el otro) y atornillarlo en la ménsula con tornillos M3.
 <p align="center">
-  <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
+  <img width="200" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/reindrop pintado y en mensula.png"></p>
   
 6. Colocar la ménsula y el aro en las varillas. Nivelar el aro ajustando las tuercas.
 <p align="center">
-  <img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 1.jpg">
-  <img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 2.jpg">
-  <img align="center" width="400" height="380" src="Imagenes/Ensamble/Conjunto Pluviómetro/Nivel 3.jpg"></p><br>
+  <img align="center" width="158" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/pluviometro.png">
+  <img align="center" width="137" height="206" src="Imagenes/Ensamble/Conjunto Pluviómetro/nivelar 1.png">
+  <img align="center" width="126" height="201" src="Imagenes/Ensamble/Conjunto Pluviómetro/nivelar 2.png">
+  <img align="center" width="288" height="205" src="Imagenes/Ensamble/Conjunto Pluviómetro/nivelar 3.png"></p><br>
 
 ## Integración de los Sistemas Eléctricos
 
-1. En la [tapa inferior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Inferior.STL): colocar el [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30), enroscar las [varillas](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a) de 65 mm, atornillar (con [tornillo M3 de 30 mm](https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513) y [tuerca M3](https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032)) y pegar con pegamento instantáneo la [pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Pieza%20T.STL) e insertar los [prensacables](https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3) y el [interruptor](https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798).
+1. En la [tapa inferior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Inferior.STL): colocar el [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30), enroscar las [varillas](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a) de 65 mm, atornillar ([tornillo M3 de 30 mm](https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513) y [tuerca M3](https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032)) y pegar con pegamento instantáneo la [pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Pieza%20T.STL) e insertar los [prensacables](https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3) y el [interruptor](https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798).
 
 <p align="center">
   <img width="" height="" src=""></p><br>
