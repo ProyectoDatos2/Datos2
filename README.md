@@ -281,7 +281,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
       <td align="center">VCC<br>GND</td></tr></tbody></table>
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="311" height="325" src="Imagenes/Ensamble/Sistema General/PCB puesto.png"></p>
 
 6. Colocar los [separadores](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Separador.STL), el sistema de autonomía y [tuercas M4](https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d) en las varillas de metal.
 
