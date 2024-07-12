@@ -240,22 +240,24 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 1. En la [tapa inferior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Inferior.STL): colocar el [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30), enroscar las [varillas](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a) de 65 mm, atornillar ([tornillo M3 de 30 mm](https://articulo.mercadolibre.com.ar/MLA-1374658753-tornillos-para-electronica-phillips-fresada-m3-x-8mm-x-50u-_JM#position=2&search_layout=grid&type=item&tracking_id=17c3c2b8-84f3-491f-8fa9-93f3de6ca513) y [tuerca M3](https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032)) y pegar con pegamento instantáneo la [pieza en T](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Pieza%20T.STL) e insertar los [prensacables](https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3) y el [interruptor](https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798).
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="190" height="217" src="Imagenes/Ensamble/Sistema General/tapa inferior con prensacables, pieza T y varillas.png"></p>
 
-2. De un lado del interruptor soldar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) empalmados de 11 cm. Del otro lado del interruptor soldar un cable de 4 hilos empalmados de 11 cm y un hilo de cable de 12 cm.
-
-<p align="center">
-  <img width="" height="" src=""></p><br>
-
-3. Cortar a la mitad los pines del [DHT](https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a), soldar un cable de 4 polos de 20 cm a los pines utilizando termocontraíble y pegarlo con pegamento instantáneo a la pieza en T.
+2. Cortar a la mitad los pines del [DHT](https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a), soldar un cable de 4 polos de 20 cm a los pines utilizando termocontraíble y pegarlo con pegamento instantáneo a la pieza en T.
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="220" height="214" src="Imagenes/Ensamble/Sistema General/dht pegado.png"></p>
+
+3. De un lado del interruptor soldar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) empalmados de 11 cm. Del otro lado del interruptor soldar un cable de 4 hilos empalmados de 11 cm y un hilo de cable de 12 cm.
+
+<p align="center">
+  <img width="257" height="217" src="Imagenes/Ensamble/Sistema General/cables interruptor.png"></p>
 
 4. Pasar los cables por los prensacables como en la imagen. Para que pase el [conector SMA de la antena](https://tienda.ityt.com.ar/antenas-gsm-2g-3g-4g/8259-antena-modem-2g-3g-4g-lte-exterior-cable-5m-sma-itytarg.html) hay que perforar el prensacable (sin la gomita) con una mecha de 9,5 mm; como no va a pasar la gomita, en el cable de la antena donde iría esta se le dan 7 vueltas de cinta aislante. Pasar el conector SMA por el prensacable, conectarlo con el [SMA del pigtail](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) del módem y darle unas vueltas de cinta aislante a la parte metálica.
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="201" height="217" src="Imagenes/Ensamble/Sistema General/cables en los prensacables.png">
+  <img width="217" height="217" src="Imagenes/Ensamble/Sistema General/cables en los prensacables afuera.png">
+  <img width="154" height="217" src="Imagenes/Ensamble/Sistema General/perforar prensacable antena.png"></p>
 
 5. Colocar el PCB en las varillas de metal con la orientación de la imagen y armar los Molex así: 
 <table align="center"><thead><tr>
