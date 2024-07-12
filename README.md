@@ -260,6 +260,8 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
   <img width="154" height="217" src="Imagenes/Ensamble/Sistema General/perforar prensacable antena.png"></p>
 
 5. Colocar el PCB en las varillas de metal con la orientación de la imagen y armar los Molex así: 
+<img align="left" width="415" height="434" src="Imagenes/Ensamble/Sistema General/PCB puesto.png">
+
 <table align="center"><thead><tr>
       <th>Molex</th>
       <th>Pin</th>
@@ -280,13 +282,10 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
       <td align="center">16<br>17</td>
       <td align="center">VCC<br>GND</td></tr></tbody></table>
 
-<p align="center">
-  <img width="311" height="325" src="Imagenes/Ensamble/Sistema General/PCB puesto.png"></p>
-
 6. Colocar los [separadores](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Separador.STL), el sistema de autonomía y [tuercas M4](https://articulo.mercadolibre.com.ar/MLA-1633357430-tuerca-hexagonal-zincada-m4-llave-516-altura-220mm-x50u-_JM#position=12&search_layout=grid&type=item&tracking_id=37672aff-6c92-4fee-9517-dc0f171e088d) en las varillas de metal.
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="210" height="200" src="Imagenes/Ensamble/Sistema General/sistema de autonomia puesto.png"></p>
 
 7. Empalmar un cable de 4 hilos del interruptor en el positivo de la salida inferior del [cargador solar](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a). Soldar el otro cable de 4 hilos del interruptor en el positivo de la entrada del [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e).
 
