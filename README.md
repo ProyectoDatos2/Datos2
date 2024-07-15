@@ -247,7 +247,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 <p align="center">
   <img width="220" height="214" src="Imagenes/Ensamble/Sistema General/dht pegado.png"></p>
 
-3. De un lado del interruptor soldar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) empalmados de 11 cm. Del otro lado del interruptor soldar un cable de 4 hilos empalmados de 11 cm y un hilo de cable de 12 cm.
+3. Del lado derecho del interruptor soldar un [cable de 4 hilos](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) empalmados de 11 cm. Del lado izquierdo, soldar un cable de 4 hilos empalmados de 11 cm y un hilo de cable de 12 cm.
 
 <p align="center">
   <img width="257" height="217" src="Imagenes/Ensamble/Sistema General/cables interruptor.png"></p>
@@ -287,7 +287,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 <p align="center">
   <img width="210" height="200" src="Imagenes/Ensamble/Sistema General/sistema de autonomia puesto.png"></p>
 
-7. Empalmar un cable de 4 hilos del interruptor en el positivo de la salida inferior del [cargador solar](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a). Soldar el otro cable de 4 hilos del interruptor en el positivo de la entrada del [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e).
+7. Empalmar el cable de 4 hilos de la derecha del interruptor en el positivo de la salida inferior del [cargador solar](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a). Soldar el cable de 4 hilos de la izquierda del interruptor en el positivo de la entrada del [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e).
 
 <p align="center">
   <img width="" height="" src=""></p><br>
@@ -325,4 +325,4 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
   <img width="" height="" src=""></p><br>
    
 La instalación tiene que ser en un lugar despejado y con el [panel solar](https://www.trvstore.com/paneles-solares/113-mod-fotovoltaico-15-wp-18v-083a-16mm-tipo-szyl-p15-18c.html) y el [sensor de luz ultravioleta](https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8) apuntando al norte. Para facilitar esta instalación, las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) tienen un agujero ovalado que se puede usar para sujetar el dispositivo, con precintos por ejemplo, a algún soporte.
-Se reomienda leer el [manual de uso](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) para más información sobre el proyecto, el dispositivo y el cuidado y mantenimiento que hay que darle. 
+Se reomienda leer el [manual de uso](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) para más información sobre el proyecto, el dispositivo y el cuidado y mantenimiento que hay que darle.
