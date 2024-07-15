@@ -290,39 +290,39 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 7. Empalmar el cable de 4 hilos de la derecha del interruptor en el positivo de la salida inferior del [cargador solar](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a). Soldar el cable de 4 hilos de la izquierda del interruptor en el positivo de la entrada del [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e).
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="206" height="210" src="Imagenes/Ensamble/Sistema General/conexiones interruptor.png"></p><br>
 
 8. Empalmar las entradas del cargador solar con el panel solar.  
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="217" height="214" src="Imagenes/Ensamble/Sistema General/conexion panel y cargador solar.png"></p><br>
 
 ## Integración Total
 
 1. Agujerear el [tubo](https://www.herrerocons.es/producto/manguito-union-tubo-pvc-110mm-claro-cod-1000717/) con huecos de 12 mm siguiendo esta [guía](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/Guia%20de%20perforaciones%20para%20refugio.PDF).
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="181" height="218" src="Imagenes/Ensamble/Sistema General/tubo agujereado.png"></p>
 
 2. Colocar el [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30) y pegar los [topes](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tope.STL) con pegamento instantáneo en la [tapa superior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Superior.STL).
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="185" height="212" src="Imagenes/Ensamble/Sistema General/topes en tapa superior.png"></p>
 
 3. Colocar el tubo en la tapa superior y atornillar la [base del sensor de luz ultravioleta](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con tornillos [M3 de 8 mm](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d) y [tuercas M3](https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032).
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="262" height="216" src="Imagenes/Ensamble/Sistema General/UV colocado.png"></p>
 
 4. Insertar el sistema eléctrico en el tubo y atornillar los tornillos [M4 de 75 mm](https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1) en los orificios de los topes.
 
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="" height="" src=""></p>
 
 5. Colocar las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) con un [tornillo](https://articulo.mercadolibre.com.ar/MLA-1161252470-bulon-tornillo-motor-m6-x-45mm-exagono-8mm-tornado-shop-_JM#position=4&search_layout=stack&type=item&tracking_id=4b230858-6045-4172-8137-ba08bb35db4a) y [tuerca](https://articulo.mercadolibre.com.ar/MLA-1754670680-tuerca-metrica-m6-x-1-por-100u-_JM#position=10&search_layout=grid&type=item&tracking_id=58a8e696-384b-4eec-be72-f6eadc923bd2) M6 de 45 mm y las [mariposas](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Mariposa.STL) en el agujero de la [tapa superior](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Superior.STL) y en el [totalizador](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Totalizador.STL).
    
 <p align="center">
-  <img width="" height="" src=""></p><br>
+  <img width="" height="" src=""></p>
    
-La instalación tiene que ser en un lugar despejado y con el [panel solar](https://www.trvstore.com/paneles-solares/113-mod-fotovoltaico-15-wp-18v-083a-16mm-tipo-szyl-p15-18c.html) y el [sensor de luz ultravioleta](https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8) apuntando al norte. Para facilitar esta instalación, las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) tienen un agujero ovalado que se puede usar para sujetar el dispositivo, con precintos por ejemplo, a algún soporte.
+La instalación tiene que ser en un lugar despejado, con el [panel solar](https://www.trvstore.com/paneles-solares/113-mod-fotovoltaico-15-wp-18v-083a-16mm-tipo-szyl-p15-18c.html) y el [sensor de luz ultravioleta](https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8) apuntando al norte y el [pluviómetro](https://articulo.mercadolibre.com.ar/MLA-935747094-pluviometro-plastico-luft-aro-medidor-lluvia-soporte-pared-_JM#position=8&search_layout=grid&type=item&tracking_id=40f3e3c5-67b8-4b75-a9dc-d82897870d00) puesto. Para facilitar esta instalación, las [fijaciones](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) tienen un agujero ovalado que se puede usar para sujetar el dispositivo, con precintos por ejemplo, a algún soporte.
 Se reomienda leer el [manual de uso](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) para más información sobre el proyecto, el dispositivo y el cuidado y mantenimiento que hay que darle.
