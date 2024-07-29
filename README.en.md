@@ -288,3 +288,66 @@ Got it! Here's the translation without corrections:
   <img align="center" width="137" height="206" src="Imagenes/Ensamble/Conjunto Pluviómetro/nivelar 1.png">
   <img align="center" width="126" height="201" src="Imagenes/Ensamble/Conjunto Pluviómetro/nivelar 2.png">
   <img align="center" width="288" height="205" src="Imagenes/Ensamble/Conjunto Pluviómetro/nivelar 3.png"></p><br>
+
+## Integration of Electrical Systems
+
+1. On the [bottom cover](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Inferior.STL): place the [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30), screw in the [65 mm rods](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a), glue the [T-piece](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Pieza%20T.STL) with instant glue, and insert the [cable glands](https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3) and the [switch](https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798).
+
+<p align="center">
+  <img width="190" height="217" src="Imagenes/Ensamble/Sistema General/tapa inferior con prensacables, pieza T y varillas.png"></p>
+
+2. Cut the pins of the [DHT](https://articulo.mercadolibre.com.ar/MLA-767685589-dht-22-sensor-humedad-y-temperatura-arduino-raspberry-_JM#position=1&search_layout=grid&type=item&tracking_id=bb4ca5b0-af4a-41e8-9012-47ee587c1c7a) in half, solder a 20 cm 4-wire cable to the pins using heat shrink tubing, and glue it to the T-piece with instant glue.
+
+<p align="center">
+  <img width="220" height="214" src="Imagenes/Ensamble/Sistema General/dht pegado.png"></p>
+
+3. On the right side of the switch, solder a [4-wire cable](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) with 11 cm splices. On the left side, solder a 4-wire cable with 11 cm splices and a 12 cm wire.
+
+<p align="center">
+  <img width="257" height="217" src="Imagenes/Ensamble/Sistema General/cables interruptor.png"></p>
+
+4. Pass the cables through the cable glands as shown in the image. To pass the [SMA antenna connector](https://tienda.ityt.com.ar/antenas-gsm-2g-3g-4g/8259-antena-modem-2g-3g-4g-lte-exterior-cable-5m-sma-itytarg.html), drill the cable gland (without the rubber) with a 9.5 mm drill bit. Wrap 7 turns of electrical tape where the rubber would go, pass the SMA connector through the cable gland, connect it to the [SMA pigtail](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) of the modem, and wrap some electrical tape around the metal part.
+
+<p align="center">
+  <img width="222" height="240" src="Imagenes/Ensamble/Sistema General/cables en los prensacables.png">
+  <img width="240" height="240" src="Imagenes/Ensamble/Sistema General/cables en los prensacables afuera.png">
+  <img width="170" height="240" src="Imagenes/Ensamble/Sistema General/perforar prensacable antena.png"></p>
+
+5. Place the PCB on the metal rods as shown in the image and assemble the Molex connectors as follows:
+
+<img align="left" width="415" height="434" src="Imagenes/Ensamble/Sistema General/PCB puesto.png">
+
+<table align="center"><thead><tr>
+      <th>Molex</th>
+      <th>Pin</th>
+      <th>Usage</th></tr></thead><tbody><tr>
+      <td align="center">Load Cell Driver</td>
+      <td align="center">1<br>2<br>3<br>4</td>
+      <td align="center">CLK<br>Data<br>GND<br>VCC</td></tr><tr>
+      <td align="center">UV Light Sensor</td>
+      <td align="center">5<br>6<br>7<br>8<br>9</td>
+      <td align="center">GND<br>3.3 V<br>ENABLE<br>NC<br>Data</td></tr><tr>
+      <td align="center">Switch + Raindrop</td>
+      <td align="center">10<br>11<br>12</td>
+      <td align="center">Battery Voltage<br>Raindrop 1<br>Raindrop 2</td></tr><tr>
+      <td align="center">Humidity and Temperature Sensor</td>
+      <td align="center">13<br>14<br>15</td>
+      <td align="center">Data<br>GND<br>VCC</td></tr><tr>
+      <td align="center">Step-Up Output</td>
+      <td align="center">16<br>17</td>
+      <td align="center">VCC<br>GND</td></tr></tbody></table>
+
+6. Place the [spacers](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Separador.STL), the autonomy system, and [5/32" nuts](https://articulo.mercadolibre.com.ar/MLA-852569160-tuercas-hexagonales-532-zincadas-x-100-unidades-_JM#position%3D2%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D808f21d1-e294-4f1d-9b41-2d7305fe95dc) on the metal rods.
+
+<p align="center">
+  <img width="210" height="200" src="Imagenes/Ensamble/Sistema General/sistema de autonomia puesto.png"></p>
+
+7. Connect the 4-wire cable on the right side of the switch to the positive terminal of the lower output of the [solar charger](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a). Solder the 4-wire cable on the left side of the switch to the positive terminal of the [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-arduino-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e) input.
+
+<p align="center">
+  <img width="227" height="231" src="Imagenes/Ensamble/Sistema General/conexiones interruptor.png"></p><br>
+
+8. Connect the solar charger inputs to the solar panel.
+
+<p align="center">
+  <img width="217" height="214" src="Imagenes/Ensamble/Sistema General/conexion panel y cargador solar.png"></p><br>
