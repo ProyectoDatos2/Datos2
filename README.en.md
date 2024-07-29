@@ -212,3 +212,25 @@ Got it! Here's the translation without corrections:
 7. Place the [Arduino](https://articulo.mercadolibre.com.ar/MLA-1117390716-atmel-nano-v30-atmega328-usb-compatible-ch340-cable-usb-_JM#position=4&search_layout=grid&type=item&tracking_id=72562e09-0b68-4055-bb07-b63051b15a30), the [rain sensor](https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d), the [MOSFET driver](https://articulo.mercadolibre.com.ar/MLA-732240129-modulo-driver-mosfet-irf520-24v-9a-controlador-arduino-pic-_JM#position=2&search_layout=grid&type=item&tracking_id=4971c395-66a7-4063-87e5-2919493828b4), the [modem](https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563) (attach a [pigtail adapter](https://articulo.mercadolibre.com.ar/MLA-740053599-cable-pigtail-ufl-ipx-a-sma-hembra-cable-antena-15-cm-_JM#position=2&search_layout=stack&type=item&tracking_id=59d777cc-f65b-4182-b457-41c2329058b1) and a [SIM card](https://articulo.mercadolibre.com.ar/MLA-1248406422-chip-prepago-movistar-personal-claro-tuenti-gsm-4g-_JM#position=5&search_layout=stack&type=item&tracking_id=6764688f-a6c5-4715-9250-fc3602753aae)) and the [RTC](https://articulo.mercadolibre.com.ar/MLA-652467602-reloj-tiempo-real-rtc-ds1307-eeprom-24c32-arduino-todom) (insert the [battery](https://articulo.mercadolibre.com.ar/MLA-840122267-5-x-pilas-boton-cr2032-vinnic-2032-san-martin-caseros-_JM#position=12&search_layout=stack&type=item&tracking_id=319399d4-d1e2-4e31-b8e0-133f9c6257ec)).
 <p align="center">
   <img width="208" height="217" src="Imagenes/PCB/Componentes.png"></p><br>
+
+## Autonomy System
+
+1. Set the [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-desarrollo-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e) to 5V.
+
+2. Glue with instant glue: the [solar charger](https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a) to [its holder](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Cargador.STL), the [Step-Up](https://articulo.mercadolibre.com.ar/MLA-677999119-fuente-step-up-mt3608-dc-dc-booster-hasta-28v-desarrollo-_JM#position=5&search_layout=grid&type=item&tracking_id=8fe16bd9-8071-4581-baf5-30e2aaf3523e) to [its holder](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Holder%20Step%20Up.STL), and the [battery holders](https://articulo.mercadolibre.com.ar/MLA-810911247-10-portapilas-holder-bateria-18650-portapila-pack-x-10-_JM#position=36&search_layout=stack&type=item&tracking_id=58fa4027-1cb1-4b2d-b6bb-21a118f22569) and holders to the [battery holder plate](https://github.com/ProyectoDatos2/Datos2/blob/fe523a1e2fe9d67b9b7c4fb0a8531aeb061aca14/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Placa%20Portapilas.STL).
+<p align="center">
+  <img width="240" height="221" src="Imagenes/Ensamble/Sistema de Autonomía/sistema de autonomia.png"></p>
+
+3. Connect a [2-pin Molex cable](https://www.google.com/search?sca_esv=37db28bfa134011b&rlz=1C1ONGR_esAR1060AR1060&q=cable+molex+de+2+pines&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwi2udTDtPeGAxW8qZUCHSHgAloQtKgLegQIDxAB&biw=1366&bih=651&dpr=1) to all the inputs and outputs of the solar charger.
+
+4. Connect the upper output of the solar charger to the battery holders.
+<p align="center">
+  <img width="137" height="201" src="Imagenes/Ensamble/Sistema de Autonomía/Salida superior cargador solar.png"></p>
+ 
+5. Connect the negative of the lower output of the solar charger to the negative of the input of the Step-Up module.
+<p align="center">
+  <img width="396" height="216" src="Imagenes/Ensamble/Sistema de Autonomía/Negativo salida cargador solar y entrada de Step-Up.png"></p>
+ 
+6. Place a [4-wire cable](https://articulo.mercadolibre.com.ar/MLA-1392845759-cable-plano-de-linea-telefono-4mts-rj11-4-hilos-_JM?attributes=COLOR_SECONDARY_COLOR%3ATmVncm8%3D&quantity=1) of 10 cm on the Step-Up output, with 2 wires connecting to the positive and the other 2 to the negative.
+<p align="center">
+  <img width="212" height="174" src="Imagenes/Ensamble/Sistema de Autonomía/Salida del Step-Up.png"></p><br>
