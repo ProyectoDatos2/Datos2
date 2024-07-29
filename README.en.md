@@ -351,3 +351,34 @@ Got it! Here's the translation without corrections:
 
 <p align="center">
   <img width="217" height="214" src="Imagenes/Ensamble/Sistema General/conexion panel y cargador solar.png"></p><br>
+
+## Total Integration
+
+1. Drill the [tube](https://www.herrerocons.es/producto/manguito-union-tubo-pvc-110mm-claro-cod-1000717/) with 12 mm holes following this [guide](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/Guia%20de%20perforaciones%20para%20refugio.PDF).
+
+<p align="center">
+  <img width="181" height="218" src="Imagenes/Ensamble/Sistema General/tubo agujereado.png"></p>
+
+2. Place the [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30) and glue the [stops](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tope.STL) with instant glue on the [top cover](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Superior.STL).
+
+<p align="center">
+  <img width="185" height="212" src="Imagenes/Ensamble/Sistema General/topes en tapa superior.png"></p>
+
+3. Place the tube on the top cover and screw the [UV light sensor base](https://github.com/ProyectoDatos2/Datos2/blob/79c54ee47108367581621280570375f429bc25ee/Impresion%203D%20STL/UV/UV_Cuerpo.STL) with [M3 8 mm screws](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d) and [M3 nuts](https://articulo.mercadolibre.com.ar/MLA-1530972980-tuerca-cuadrada-m4-llavelado-78mm-altura-3mm-x50u-_JM#position=2&search_layout=grid&type=item&tracking_id=8fbc1ed0-af53-4e58-b601-2e823bb12032).
+
+<p align="center">
+  <img width="262" height="216" src="Imagenes/Ensamble/Sistema General/UV colocado.png"></p>
+
+4. Insert the electrical system into the tube and screw [M4 75 mm screws](https://www.google.com/search?sca_esv=cfcd3706826e13a2&rlz=1C1ONGR_esAR1060AR1060&q=tornillos+m4+75mm&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa6l_ItgJaIBwjFlejPm39w49Y4BxxGyRdKxxx_9klNmppRGjpVAmC2paJxmKME9gKCeweFeHNk13bUsJGMlkFsW02nTigN9iX_s4ABlGPJPAolXpcg&sa=X&ved=2ahUKEwixkavpgPWGAxWaO7kGHWEMB-gQtKgLegQIEBAB&biw=1366&bih=651&dpr=1) into the holes of the stops.
+
+<p align="center">
+  <img width="216" height="212" src="Imagenes/Ensamble/Sistema General/sistema electrico en el tubo.png"></p>
+
+5. Place the [mounting brackets](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) with an [M6 45 mm screw](https://articulo.mercadolibre.com.ar/MLA-1161252470-bulon-tornillo-motor-m6-x-45mm-exagono-8mm-tornado-shop-_JM#position=4&search_layout=stack&type=item&tracking_id=4b230858-6045-4172-8137-ba08bb35db4a) and [M6 nut](https://articulo.mercadolibre.com.ar/MLA-1754670680-tuerca-metrica-m6-x-1-por-100u-_JM#position=10&search_layout=grid&type=item&tracking_id=58a8e696-384b-4eec-be72-f6eadc923bd2) on the [top cover](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Superior.STL) and the [totalizer](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Totalizador.STL). Use the [wing nuts](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Mariposa.STL) for this.
+
+<p align="center">
+  <img width="237" height="215" src="Imagenes/Ensamble/Sistema General/fijaciones puestas.png"></p>
+
+The installation should be in an open area, with the [solar panel](https://www.trvstore.com/paneles-solares/113-mod-fotovoltaico-15-wp-18v-083a-16mm-tipo-szyl-p15-18c.html) and the [UV light sensor](https://articulo.mercadolibre.com.ar/MLA-921895103-modulo-sensor-luz-ultravioleta-uv-ml8511-arduino-_JM#position=6&search_layout=grid&type=item&tracking_id=b31fa0ab-c297-4237-8fd0-921482750ff8) facing north and the [rain gauge](https://articulo.mercadolibre.com.ar/MLA-935747094-pluviometro-plastico-luft-aro-medidor-lluvia-soporte-pared-_JM#position=8&search_layout=grid&type=item&tracking_id=40f3e3c5-67b8-4b75-a9dc-d82897870d00) installed. To facilitate this installation, the [mounting brackets](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Agarre/Agarre_Fijacion.STL) have an oval hole that can be used to secure the device, for example with zip ties, to a support.
+
+It is recommended to read the [user manual](https://github.com/ProyectoDatos2/Datos2/blob/ef1ea092eb14b64234007ef49695eebea675e3dc/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) for more information about the project, the device, and the care and maintenance required.
