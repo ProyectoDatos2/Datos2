@@ -191,7 +191,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 <p align="center">
   <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
 
-2. Atornillar el sensor a su [base](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Base.STL) (pasar el cable por el hueco) y la base al [cuerpo](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con [tornillos M3 de 8mm](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d). Pegar el [cristal](https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668) al cuerpo con pegamento instantáneo y colocarle la [tapa UV](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Tapa.STL) encima.
+2. Atornillar el sensor a su [base](/Impresion%203D%20STL/UV/UV_Base.STL) (pasar el cable por el hueco) y la base al [cuerpo](/Impresion%203D%20STL/UV/UV_Cuerpo.STL) con [tornillos M3 de 8mm](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d). Pegar el [cristal](https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668) al cuerpo con pegamento instantáneo y colocarle la [tapa UV](/Impresion%203D%20STL/UV/UV_Tapa.STL) encima.
 
 <p align="center">
   <img width="245" height="230" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>

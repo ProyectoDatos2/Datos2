@@ -242,7 +242,7 @@ Got it! Here's the translation without corrections:
 <p align="center">
   <img width="220" height="220" src="Imagenes/Ensamble/Conjunto UV/Conexión sensor UV.png"></p>
 
-2. Screw the sensor to its [base](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Base.STL) (pass the cable through the hole) and the base to the [body](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Cuerpo.STL) using [M3 8mm screws](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d). Glue the [glass](https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668) to the body with instant glue and place the [UV cover](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/UV/UV_Tapa.STL) on top.
+2. Screw the sensor to its [base](/Impresion%203D%20STL/UV/UV_Base.STL) (pass the cable through the hole) and the base to the [body](/Impresion%203D%20STL/UV/UV_Cuerpo.STL) using [M3 8mm screws](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d). Glue the [glass](https://www.mercadolibre.com.ar/cristal-repuesto-lentes-para-soldar-truper/p/MLA26196668) to the body with instant glue and place the [UV cover](/Impresion%203D%20STL/UV/UV_Tapa.STL) on top.
 
 <p align="center">
   <img width="245" height="230" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>
