@@ -291,7 +291,7 @@ Got it! Here's the translation without corrections:
 
 ## Integration of Electrical Systems
 
-1. On the [bottom cover](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Tapa%20Inferior.STL): place the [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30), screw in the [65 mm rods](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a), glue the [T-piece](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Pieza%20T.STL) with instant glue, and insert the [cable glands](https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3) and the [switch](https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798).
+1. On the [bottom cover](/Impresion%203D%20STL/Telemetría/Tel_Tapa%20Inferior.STL): place the [O-Ring](https://articulo.mercadolibre.com.ar/MLA-1137150523-junta-o-ring-goma-diametro-exterior-110mm-y-35mm-espesor-_JM#position=50&search_layout=stack&type=item&tracking_id=8d5f25ba-2ce8-458a-8c3f-09c2b75aed30), screw in the [65 mm rods](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a), glue the [T-piece](/Impresion%203D%20STL/Telemetría/Tel_Pieza%20T.STL) with instant glue, and insert the [cable glands](https://articulo.mercadolibre.com.ar/MLA-1110851260-prensacables-12-plasticopvcnylon-x10-unidades-_JM#position=13&search_layout=grid&type=item&tracking_id=16fe9a83-f60b-4a61-9817-195cd61cc1a3) and the [switch](https://articulo.mercadolibre.com.ar/MLA-1457486094-llave-electronica-tecla-interruptora-redonda-alcides-2500-_JM#position=1&search_layout=stack&type=item&tracking_id=a7d7d1b3-e35b-4af4-bd44-98e7a9482798).
 
 <p align="center">
   <img width="190" height="217" src="Imagenes/Ensamble/Sistema General/tapa inferior con prensacables, pieza T y varillas.png"></p>
@@ -337,7 +337,7 @@ Got it! Here's the translation without corrections:
       <td align="center">16<br>17</td>
       <td align="center">VCC<br>GND</td></tr></tbody></table>
 
-6. Place the [spacers](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Telemetr%C3%ADa/Tel_Separador.STL), the autonomy system, and [5/32" nuts](https://articulo.mercadolibre.com.ar/MLA-852569160-tuercas-hexagonales-532-zincadas-x-100-unidades-_JM#position%3D2%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D808f21d1-e294-4f1d-9b41-2d7305fe95dc) on the metal rods.
+6. Place the [spacers](/Impresion%203D%20STL/Telemetría/Tel_Separador.STL), the autonomy system, and [5/32" nuts](https://articulo.mercadolibre.com.ar/MLA-852569160-tuercas-hexagonales-532-zincadas-x-100-unidades-_JM#position%3D2%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D808f21d1-e294-4f1d-9b41-2d7305fe95dc) on the metal rods.
 
 <p align="center">
   <img width="210" height="200" src="Imagenes/Ensamble/Sistema General/sistema de autonomia puesto.png"></p>
