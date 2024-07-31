@@ -118,7 +118,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
       <td align="center">1</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1437846022-modulo-gprs-a6-mini-cuatribanda-sms-gsm-gprs-ideal-arduino-_JM#position=31&search_layout=stack&type=item&tracking_id=b92e1ad1-eb10-41e8-8f06-538f5c0ab563">Módem GPRS A6 Mini</a> | <a href="https://articulo.mercadolibre.com.ar/MLA-1308505021-modulo-celular-gsm-gprs-sim800l-sim800-domotica-arduino-ubot-_JM#position=1&search_layout=grid&type=item&tracking_id=351d4014-7b06-4f31-87f1-ae97d6f6fd73">SIM800L</a></td>
       <td align="center">1</td></tr><tr>
-      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1106257985-cargador-bateria-lipo-uso-panel-solar-cn3791-arduino-elegir-_JM#position=30&search_layout=stack&type=item&tracking_id=802ccaf1-c51f-4cb6-aa45-b20c71b1849a">Cargador Solar CN3791</a></td>
+      <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1829687360-cargador-bateria-lipo-uso-panel-solar-cn3791-elegir-_JM#position%3D36%26search_layout%3Dstack%26type%3Ditem%26tracking_id%3D20811612-5978-4be5-b186-01374b5c8f77">Cargador Solar CN3791</a></td>
       <td align="center">1</td></tr><tr>
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef">Celda de carga 10Kg con driver HX711</a></td>
       <td align="center">1</td></tr><tr>
