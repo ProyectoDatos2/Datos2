@@ -5,7 +5,7 @@ To change language:&nbsp;&nbsp;
 
 [Datos²](https://datos2.redesclimaticas.com/) es una plataforma ofrecida por [OMIXOM](https://www.omixom.com/) que permite compartir, almacenar y visualizar datos ambientales provenientes de proyectos de ciencia ciudadana con el objetivo de tener un crecimiento exponencial de datos a disposición de la comunidad.
 
-Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseñado [EME](https://github.com/ProyectoDatos2/Datos2/blob/284ac048665ba61753932678cd943c32ad25f8b8/Manual%20de%20uso%20proyecto%20Datos%20correcciones_compressed.pdf) (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos de tecnología y medio ambiente. EME está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
+Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseñado [EME](/Manual%20de%20uso.pdf) (Estación Meteorológica de uso Educativo), una estación meteorológica de bajo costo y fácil ensamblaje, ideal para proyectos educativos de tecnología y medio ambiente. EME está equipada con un sistema de sensores, telemetría y autonomía que permite medir variables como lluvia, temperatura, humedad y radiación UV, subiendo estos datos a la plataforma de Datos² sin necesidad de una red eléctrica.
 
 <br><p align="center">
   <img width="237" height="391" src="Imagenes/FotoEME.png"></p><br>
