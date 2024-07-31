@@ -253,7 +253,7 @@ Got it! Here's the translation without corrections:
 
 ## Rain Gauge
 
-1. Screw the [locator](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Localizador.STL) to the [load cell](https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef) with double washers and [M4 15 mm screws](https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2). Screw the load cell to the [totalizer](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Totalizador.STL) from below with a M4 15 mm screw.
+1. Screw the [locator](/Impresion%203D%20STL/Pluviómetro/Pluv_Localizador.STL) to the [load cell](https://articulo.mercadolibre.com.ar/MLA-733004040-celda-de-carga-10kg-con-amplificador-hx711-arduino-candy-_JM#position=14&search_layout=grid&type=item&tracking_id=8e1c6a0c-bf37-4eee-bc3d-d1f6ae97d8ef) with double washers and [M4 15 mm screws](https://articulo.mercadolibre.com.ar/MLA-851601087-tornillos-electronica-philips-m4-x-15mm-pack-x-50-unidades-_JM#position=26&search_layout=stack&type=item&tracking_id=d3443aa8-b714-4dcf-8139-188bc350e0b2). Screw the load cell to the [totalizer](/Impresion%203D%20STL/Pluviómetro/Pluv_Totalizador.STL) from below with a M4 15 mm screw.
 
 <p align="center">
   <img width="312" height="218" src="Imagenes/Ensamble/Conjunto Pluviómetro/union localizador y celda de carga.png">
@@ -264,24 +264,24 @@ Got it! Here's the translation without corrections:
 <p align="center">
   <img width="315" height="150" src="Imagenes/Ensamble/Conjunto Pluviómetro/conexion driver.png"></p>
 
-3. Place the driver inside [estanco A](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Estanco%20A.STL), apply [silicone](https://www.mercadolibre.com.ar/sellador-tacsa-silicona-acetica-color-transparente/p/MLA27649062#searchVariation=MLA27649062&position=3&search_layout=stack&type=product&tracking_id=52e10322-f6e2-4aa6-902a-391dd70c1d53), cover with [estanco B](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Estanco%20B.STL), and place it next to the load cell.
+3. Place the driver inside [estanco A](/Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20A.STL), apply [silicone](https://www.mercadolibre.com.ar/sellador-tacsa-silicona-acetica-color-transparente/p/MLA27649062#searchVariation=MLA27649062&position=3&search_layout=stack&type=product&tracking_id=52e10322-f6e2-4aa6-902a-391dd70c1d53), cover with [estanco B](/Impresion%203D%20STL/Pluviómetro/Pluv_Estanco%20B.STL), and place it next to the load cell.
 
 <p align="center">
   <img width="133" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/Driver con silicona en estanco A.png">
   <img width="285" height="212" src="Imagenes/Ensamble/Conjunto Pluviómetro/lugar estancos.png"></p>
 
-4. Install the [210 mm threaded rods](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a) with [5/32" nuts](https://articulo.mercadolibre.com.ar/MLA-852569160-tuercas-hexagonales-532-zincadas-x-100-unidades-_JM#position%3D2%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D808f21d1-e294-4f1d-9b41-2d7305fe95dc) on the totalizer, then place the [rain gauge cover](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Tapa.STL) and secure with 5/32" nuts.
+4. Install the [210 mm threaded rods](https://articulo.mercadolibre.com.ar/MLA-856438789-varilla-roscada-zincada-metrica-4-mm-x-1-metro-5-unid-_JM#position=44&search_layout=grid&type=item&tracking_id=8f69ecda-bf72-4896-88bf-04332535ec9a) with [5/32" nuts](https://articulo.mercadolibre.com.ar/MLA-852569160-tuercas-hexagonales-532-zincadas-x-100-unidades-_JM#position%3D2%26search_layout%3Dgrid%26type%3Ditem%26tracking_id%3D808f21d1-e294-4f1d-9b41-2d7305fe95dc) on the totalizer, then place the [rain gauge cover](/Impresion%203D%20STL/Pluviómetro/Pluv_Tapa.STL) and secure with 5/32" nuts.
 
 <p align="center">
   <img width="174" height="211" src="Imagenes/Ensamble/Conjunto Pluviómetro/tuercas varillas.png">
   <img width="166" height="222" src="Imagenes/Ensamble/Conjunto Pluviómetro/varillas y tapa en totalizador.png"></p>
 
-5. Paint the [raindrop](https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d) with [latex paint](https://articulo.mercadolibre.com.ar/MLA-1320701568-acuarel-interior-y-exterior-latex-x-1-lt-_JM?attributes=COLOR_SECONDARY_COLOR%3AVmVyZGUgRm9yZXN0YWw%3D&quantity=1), solder a 60 cm 4-wire cable (2 wires on one pad and 2 wires on the other) to it, and screw it onto the [bracket](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Mensula.STL) with [M3 8 mm screws](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d).
+5. Paint the [raindrop](https://articulo.mercadolibre.com.ar/MLA-628919809-sensor-de-lluvia-raindrop-nivel-de-agua-gotas-arduino-pic-_JM#position=1&search_layout=stack&type=item&tracking_id=30c9dd6e-3289-46bd-bf59-e12049e01e5d) with [latex paint](https://articulo.mercadolibre.com.ar/MLA-1320701568-acuarel-interior-y-exterior-latex-x-1-lt-_JM?attributes=COLOR_SECONDARY_COLOR%3AVmVyZGUgRm9yZXN0YWw%3D&quantity=1), solder a 60 cm 4-wire cable (2 wires on one pad and 2 wires on the other) to it, and screw it onto the [bracket](/Impresion%203D%20STL/Pluviómetro/Pluv_Mensula.STL) with [M3 8 mm screws](https://articulo.mercadolibre.com.ar/MLA-1374684557-tornillos-para-electronica-phillips-fresada-m3-x-30mm-x-50u-_JM#position=1&search_layout=stack&type=item&tracking_id=30d64cdf-a3ee-4883-a1f4-83c76c65277d).
 
 <p align="center">
   <img width="200" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/reindrop pintado y en mensula.png"></p>
 
-6. Place the bracket and the [ring](https://github.com/ProyectoDatos2/Datos2/blob/mati-etche/Impresion%203D%20STL/Pluvi%C3%B3metro/Pluv_Aro.STL) on the rods. Level the ring by adjusting the nuts.
+6. Place the bracket and the [ring](/Impresion%203D%20STL/Pluviómetro/Pluv_Aro.STL) on the rods. Level the ring by adjusting the nuts.
 
 <p align="center">
   <img align="center" width="158" height="217" src="Imagenes/Ensamble/Conjunto Pluviómetro/pluviometro.png">
