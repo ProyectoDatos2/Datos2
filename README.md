@@ -141,7 +141,7 @@ Para contribuir al desarrollo de dispositivos que tomen datos, OMIXOM ha diseña
 
 ## Armado de PCB
 
-1. [Hacer el PCB](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36) con este [circuito](SEHMA/Arduino_Nano+A6mini_GPRS/Hardware/PCB_Datos2.pdf).
+1. [Hacer el PCB](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36) con este [circuito](EME/Arduino_Nano+A6mini_GPRS/Hardware/PCB_Datos2.pdf).
 
 2. Perforar el PCB con mecha de 1 mm, así:
 <p align="center">

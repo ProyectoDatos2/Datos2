@@ -192,7 +192,7 @@ Got it! Here's the translation without corrections:
 
 ## PCB Assembly
 
-1. [Create the PCB](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36) with this [circuit](SEHMA/Arduino_Nano+A6mini_GPRS/Hardware/PCB_Datos2.pdf).
+1. [Create the PCB](https://youtu.be/MX9_9U6Wnu8?si=8ijrH3XqB462RJCx&t=36) with this [circuit](EME/Arduino_Nano+A6mini_GPRS/Hardware/PCB_Datos2.pdf).
 
 2. Drill the PCB with a 1 mm bit, as follows:
 <p align="center">
