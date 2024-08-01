@@ -13,10 +13,7 @@
 SoftwareSerial port(3, 4);
 ModemDriver mdm(&port, 9600);
 
-#define HORA_LIM_SUP 5
-#define HORA_LIM_INF 3
-#define MINUTO_LIM_SUP 10
-#define MINUTO_LIM_INF 50
+
 
 
 char trama[48] = "";
@@ -27,7 +24,7 @@ char dataRecibida[SERVER_RESP_SIZE] = "";
 #define t_envio 1
 #define t_registro 4
 #define tipo 2
-#define serie 5042
+#define serie 5043
 
 
 //rtc
@@ -78,7 +75,7 @@ AT24C32 EepromRTC;
 //Variables que inciden en la secuencia del programa, el muestreo y guardado en memoria
 int i = 0;
 bool f = 0;
-int r = 0;  //se usa para la parte de envio de datos
+int recepcion = 0;  //se usa para la parte de envio de datos
 //estructura de muestreo
 
 byte hora = 0;
@@ -110,13 +107,13 @@ int error = 0;             // cuenta los errores de un mal envio de muestras o q
 bool dato = false;         // flag que indica si envie un dato o no y permite que se envie un nuevo dato
 bool inicio = false;       // flag que indica si el modem esta prendido
 int sin_respuesta = 0;     // cuenta los errores por no obtener respuesta
-bool transmision = false;  //flag para permitir la transmision de datos
+bool transmision = true;  //flag para permitir la transmision de datos
 bool registro = false;     // flag para permitir el registro
-// bool reset_registro = false;  // flag para reiniciar el registro
+
 
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(115200);
   rtc.begin();  //Inicializamos el RTC
   balanza.begin(DOUT, CLK);
   balanza.set_scale(218);  // Establecemos la escala
@@ -125,32 +122,21 @@ void setup() {
   pinMode(V_BAT, INPUT);
   digitalWrite(modem_on_of, HIGH);
   mdm.init();
-  inicio = true;
-  registro = true;  //habilito el registro de la estación
   dht.begin();
   pinMode(ENABLEPIN, OUTPUT);
   digitalWrite(ENABLEPIN, HIGH);  /// habilitacion sensor UV
   pinMode(ANALOGPIN, INPUT);
 
-  // rtc.writenvram(0, pws);
-  // rtc.writenvram(3, prs);
-  // pws = rtc.readnvram(0);
-  // prs = rtc.readnvram(3);
-  // EepromRTC.write(4090, prs);
-  // EepromRTC.write(4092, pws);
-  // delay(100);
+
   prs = EepromRTC.read(4090);
   pws = EepromRTC.read(4092);
+
+ 
 
   //rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
   // Serial.println(rtc.readnvram(0));
 
   Serial.print("iniciando");
-  t_millis = millis();
-  while (millis() <= t_millis + 20000) {
-    delay(1);
-  }
-  //balanza.tare(20);
 }
 
 void loop() {
@@ -164,31 +150,25 @@ void loop() {
 
 
   HoraFecha = rtc.now();
-  Serial.print(F("Version 1.4 "));
+  Serial.print(F("Version 1.6 "));
   Serial.print(F("hora "));
-  Serial.println(HoraFecha.hour());
-  Serial.print(F("minuto "));
-  Serial.println(HoraFecha.minute());
-  Serial.println("");
-  Serial.print(F("dia "));
-  Serial.println(HoraFecha.day());
-  Serial.print(F("mes "));
-  Serial.println(HoraFecha.month());
-  Serial.print(F("anio "));
+  Serial.print(HoraFecha.hour());
+  Serial.print(F(" minuto "));
+  Serial.print(HoraFecha.minute());
+  Serial.print(F(" dia "));
+  Serial.print(HoraFecha.day());
+  Serial.print(F(" mes "));
+  Serial.print(HoraFecha.month());
+  Serial.print(F(" anio "));
   Serial.println(HoraFecha.year());
-  Serial.println("");
-  Serial.println("");
   Serial.print(F("prs "));
   Serial.println(prs);
   Serial.print(F("pws "));
   Serial.println(pws);
-  Serial.println("");
-  // Serial.println(balanza.get_units(10));
-  // Serial.println(estado_lluvia);
-  // Serial.println("");
-  // Serial.println(analogRead(s_lluvia_a2));
 
 
+
+  // lluvia
   if ((analogRead(s_lluvia_a2) <= 870) && (l == 0)) {  //leo el estado del analogico y lo comparo con el nivel 800 del adc y consulto se vengo de un momento sin lluvia, si es menor es porque empezo a llover
     balanza.tare(20);                                  //El peso actual es considerado Tara.
     Serial.println("");
@@ -212,38 +192,34 @@ void loop() {
     estado_lluvia = 0;
     l = 0;
   }
+  ////////////
 
 
-  if ((HoraFecha.hour() >= 0) && (HoraFecha.hour() <= 23)) {  // controlo que la hora este correcta
-    if (HoraFecha.hour() <= HORA_LIM_INF) {                   //si la hora actual es menor o igual al limite inferior establecido
-      if (HoraFecha.hour() == HORA_LIM_INF) {                 // la hora actual es igual al limite voy a consultar en que minuto me encuentro
-        if (HoraFecha.minute() <= MINUTO_LIM_INF) {           //si el minuto actual es menor o igual al limite inferior establecido transmito
-          transmision = true;
-        } else {  //de lo contrario no transmito
-          transmision = false;
-        }
-      } else {  // la hora actual es menor al limite voy a transmitir directamente
-        transmision = true;
-      }
-    } else {
-      if (HoraFecha.hour() >= HORA_LIM_SUP) {          //si la hora actual es mayor o igual al limite superior establecido
-        if (HoraFecha.hour() == HORA_LIM_SUP) {        // la hora actual es igual al limite superior voy a consultar en que minuto me encuentro
-          if (HoraFecha.minute() >= MINUTO_LIM_SUP) {  //si el minuto actual es mayor o igual al limite superior establecido transmito
-            transmision = true;
-          } else {  //de lo contrario no transmito
-            transmision = false;
-          }
-        } else {  // la hora actual es mayor al limite voy a transmitir directamente
-          transmision = true;
-        }
-      }
-    }
-  } else {
-    transmision = true;
-    registro = true;
+  // Muestreo
+  while ((HoraFecha.minute() % 10) == 9) {  //en el minuto 59 empiezo el proceso sampling
+
+    f = 1;
+    t_actual = millis();  // pongo un valor en segundos al tiempo que uso de comparacion para el intervalo entre pedido de valores
+    sampling();           //muestreo
+    while (millis() < t_actual + 1000) {
+      delay(1);
+    }  //tiempo de espera para tomar una muestra
+
+    HoraFecha = rtc.now();
   }
+  //////////
 
+  ////  Guardo muestras
+  if (((HoraFecha.minute() % 10) == 0) && (f == 1)) {  // en el minuto 10 guardo las muestras para subir
+    transmision = true;
+    saving();
+  }
+  //////
+
+  memset(dataRecibida, 0, sizeof(dataRecibida));  /// borro datos de entrada
+  //Transmisión de datos
   if ((transmision == true) || (registro == true)) {
+    Serial.println("Transmison de datos ---------------------------------------------------");
     if (registro == true) {
       send_data(1);
     } else if (prs != pws) {  // si son distintos inicio el proceso para subir a sistema
@@ -261,38 +237,12 @@ void loop() {
     inicio = false;
     dato = false;
   }
+  /////////////
 
-  while ((HoraFecha.minute() % 10) == 9) {  //en el minuto 59 empiezo el proceso sampling
-    sin_respuesta = 0;
-    f = 1;
 
-    // Serial.println(F("m9"));
 
-    t_actual = millis();  // pongo un valor en segundos al tiempo que uso de comparacion para el intervalo entre pedido de valores
-    sampling();           //muestreo
-    while (millis() < t_actual + 1000) {
-      delay(1);
-    }  //tiempo de espera para tomar una muestra
-
-    HoraFecha = rtc.now();
-  }
-
-  if (((HoraFecha.minute() % 10) == 0) && (f == 1)) {  // en el minuto 10 guardo las muestras para subir
-    // Serial.println(F("m10"));
-
-    saving();
-  }
-  memset(dataRecibida, 0, sizeof(dataRecibida));
-
-  if (mdm.available()) {  //espero una respuesta del servidor
-    mdm.getResponse(dataRecibida);
-    // Serial.print(F("RESPUESTA DEL SERVIDOR: "));
-    // Serial.println(dataRecibida);
-    r = 1;
-  }
-
-  if ((dato == true) && (r == 1)) {  // hay una respuesta del servidor y envie un dato
-    r = 0;
+  if ((dato == true) && (recepcion == 1)) {  // hay una respuesta del servidor y envie un dato
+    recepcion = 0;
 
     if (strcmp(dataRecibida, "004F") == 0) {  // Si el servidor responde ok muevo un lugar prs
       dato = false;
@@ -366,21 +316,17 @@ void loop() {
     }
 
 
-  } else if ((dato == true) && (r == 0)) {       // si se envio un dato y no hay resuesta
-    if (millis() >= t_millis_recept + 120000) {  //espero 3 minutos y si no hay respuesta intento eviar de nuevo la muestra
-      sin_respuesta++;
-      digitalWrite(modem_on_of, LOW);  //apago el modem
-      inicio = false;                  // indico que el modem esta apagado
-      Serial.print(F("no hubo respuesta"));
-      // Serial.println(sin_respuesta);
-      dato = false;
-    }
-  }  // else {
-  //   memset(dataRecibida, 0, sizeof(dataRecibida));
-  // }
+  } else if ((dato == true) && (recepcion == 0)) {  // si se envio un dato y no hay resuesta
 
-  mdm.update();
+  } else {
+    memset(dataRecibida, 0, sizeof(dataRecibida));
+  }
+
+ // mdm.update();
 }
+
+
+
 void sampling() {
   Serial.println(F("sampling"));
   h = h + dht.readHumidity();                  //Leemos la Humedad y lo sumamos a la lectura anterior
@@ -399,7 +345,9 @@ void saving() {
   bateria = (0.0048 * analogRead(V_BAT)) * 10;
   temperatura = (((t / i) + 40) * 100);  //sumo 40 para enviar siempre temperaturas positivas casteo t a int para que ocupe menos espacio en la memoria
   humedad = (h / i);                     //casteo h a int para que ocupe menos espacio en la memoria
-  u_v = ((UV / i) * 100);                //casteo uv a int para que ocupe menos espacio en la memoria mando el dato crudo del analogico
+
+ 
+  u_v = ((UV / i) * 100);  //casteo uv a int para que ocupe menos espacio en la memoria mando el dato crudo del analogico
 
   uvLevel = analogRead(ANALOGPIN);
   refLevel = analogRead(REF_3V3);
@@ -453,8 +401,7 @@ void saving() {
 }
 
 void writing() {
-  //Serial.println(lluvia_ps);
-  Serial.println(F("writing"));
+ 
 
   int pos_mem = pws * 18;  // int pos_mem = (pws * 20) + 1;
   EepromRTC.write(pos_mem, hora);
@@ -559,43 +506,50 @@ void registrando() {
   strcat(trama, aux);
 }
 void send_data(bool n) {
-  if (sin_respuesta < 2) {  // una vez que se contaron 1 intentos de subir datos y no se obtuvo respuesta (error) se espera que se tome una nueva muestra para volver a intentar el envio
 
-    Serial.println(F("se puede enviar "));
+  if (inicio == false) {  // verifico si el modem esta prendido o esta apagado
+    digitalWrite(modem_on_of, HIGH);//prendo el modem
+    mdm.init();
+    t_millis = millis();
+    while (millis() <= t_millis + 20000) {
+      delay(1);
+    }
+    mdm.update();
+    inicio = true;
+  }
 
-    if (inicio == false) {              // verifico si el modem esta prendido o esta apagado
-      digitalWrite(modem_on_of, HIGH);  //prendo el modem    //Serial.println("punteros distintos");
-                                        //dato = false;
-      mdm.init();
-      t_millis = millis();
-      while (millis() <= t_millis + 20000) {
-        delay(1);
+
+  if (mdm.uploaded() && !mdm.available() && dato == false) {  //modem habilitado para subir un dato, no hay respuesta del servidor y no se esta enviando un dato anterior
+    Serial.println(F("enviando "));
+    dato = true;
+    if (n == 1) {
+      registrando();  //forma la cadena trama de registro
+    } else {
+      read_build();  //forma la cadena trama de envio de datos
+    }
+
+    mdm.upload(trama);
+
+    memset(trama, 0, sizeof(trama));
+
+    t_millis_recept = millis();
+
+    while (recepcion == 0) {
+      if (mdm.available()) {  //espero una respuesta del servidor
+        mdm.getResponse(dataRecibida);
+        Serial.print(F("RESPUESTA DEL SERVIDOR: "));
+        Serial.println(dataRecibida);
+        recepcion = 1;
+      } else if (millis() >= t_millis_recept + 240000) {  //espero 2 minutos y si no hay respuesta intento eviar de nuevo la muestra
+        inicio = false;                                   // indico que el modem esta apagado
+        Serial.print(F("no hubo respuesta"));
+        dato = false;
+        transmision = false;
+        return;
       }
       mdm.update();
-      inicio = true;
+      delay(100);
     }
-
-
-    if (mdm.uploaded() && !mdm.available() && dato == false) {  //modem habilitado para subir un dato, no hay respuesta del servidor y no se esta enviando un dato anterior
-      Serial.println(F("enviando "));
-      dato = true;
-      if (n == 1) {
-        registrando();  //forma la cadena trama de registro
-      } else {
-        read_build();  //forma la cadena trama de envio de datos
-      }
-
-      mdm.upload(trama);
-      // Serial.println(trama);
-      memset(trama, 0, sizeof(trama));
-      t_millis_recept = millis();
-    }
-
-  } else {
-    //Serial.println(F("error porque no hubo respuesta y pasaron 3 minutos"));
-    digitalWrite(modem_on_of, LOW);  //apago el modem hasta que se tome una nueva muestra
-    inicio = false;                  // indico que el modem esta apagado
-    dato = false;                    // indico que se puede enviar un dato la proxima vez
   }
 }
 float mapfloat(float x, float in_min, float in_max, float out_min, float out_max) {
