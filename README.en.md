@@ -93,8 +93,6 @@ To contribute to the development of data-collecting devices, OMIXOM has designed
       <td align="center"><a href="https://articulo.mercadolibre.com.ar/MLA-1320701568-acuarel-interior-y-exterior-latex-x-1-lt-_JM?attributes=COLOR_SECONDARY_COLOR%3AVmVyZGUgRm9yZXN0YWw%3D&quantity=1">Latex Paint</a></td>
       <td align="center">A Little</td></tr></tbody></table>
 
-Got it! Here's the translation without corrections:
-
 <table align="center">
   <thead>
     <tr>
@@ -246,10 +244,6 @@ Got it! Here's the translation without corrections:
 
 <p align="center">
   <img width="245" height="230" src="Imagenes/Ensamble/Conjunto UV/Conjunto UV Terminado .png"></p><br>
-
-  Here’s the translated text with the formatting preserved:
-
----
 
 ## Rain Gauge
 
