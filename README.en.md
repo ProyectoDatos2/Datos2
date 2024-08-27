@@ -3,7 +3,7 @@ Para cambiar idioma:&nbsp;&nbsp;
 
 # Datos² and EME
 
-[Datos²](https://datos2.redesclimaticas.com/) is a platform offered by [OMIXOM](https://www.omixom.com/) that allows for the sharing, storing, and visualization of environmental data from citizen science projects, aiming for an exponential growth of data available to the community.
+The [Datos²](https://datos2.redesclimaticas.com/) proyect is an initiative by [OMIXOM](https://www.omixom.com/) It has developed an open-source device geared towards recolecting, storing and sharing environmental data alongside citizen science projects and with communities in general
 
 To contribute to the development of data-collecting devices, OMIXOM has designed [EME](/Manual%20de%20uso.pdf) (Educational Meteorological Station), a low-cost and easy-to-assemble meteorological station, ideal for educational projects in technology and environment. EME is equipped with a sensor system, telemetry, and autonomy that allows it to measure variables such as rainfall, temperature, humidity, and UV radiation, uploading this data to the Datos² platform without the need for an electrical network.
 
